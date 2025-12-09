@@ -1,0 +1,17 @@
+title: Zeriah Group
+description: "Zeriah Group — Travel Journal"
+url: "https://zeriahgroup.com"   # change later if different
+baseurl: ""                      # leave empty unless site is in a subpath
+theme: null                      # we're using our own minimal layout
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Permalinks: keep pages’ permalinks as provided in front matter
+permalink: pretty
+
+# Plugins supported by GitHub Pages (optional)
+plugins:
+  - jekyll-seo-tag

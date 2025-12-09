@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="travel-post">
+  <header class="travel-hero">
+    <h1>{{ page.title }}</h1>
+    {% if page.cover %}
+      <img class="hero" src="{{ page.cover | relative_url }}" alt="{{ page.title | escape }}">
+    {% endif %}
+    <p class="meta">
+      <strong>{{ page.date | date: "%B %Y" }}</strong>
+      {% if page.tags and page.tags.size > 0 %} ·
+        {% for tag in page.tags %}<span class="tag">#{{ tag }}</span>{% endfor %}
+      {% endif %}
+    </p>
+  </header>
+
+  <section class="travel-content">
+    {{ content }}
+  </section>
+</article>

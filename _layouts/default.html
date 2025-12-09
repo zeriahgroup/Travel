@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | escape }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if site.plugins contains "jekyll-seo-tag" %}{% seo %}{% endif %}
+  <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}">
+  <style>
+    /* tiny safety styles if CSS didn't load */
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin:0; }
+    .container { max-width: 980px; margin: 0 auto; padding: 24px; }
+    header.site { padding: 16px 24px; border-bottom: 1px solid #eee; }
+    header.site a { text-decoration:none; color:inherit; font-weight:700; }
+  </style>
+</head>
+<body>
+  <header class="site">
+    <div class="container">
+      <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
+      <nav style="float:right">
+        <a href="{{ "/travels/" | relative_url }}">Travels</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="container" style="border-top:1px solid #eee; margin-top:32px; padding-top:16px; font-size:14px; color:#666;">
+    © {{ "now" | date: "%Y" }} Zeriah Group
+  </footer>
+</body>
+</html>

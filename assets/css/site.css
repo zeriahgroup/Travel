@@ -1,0 +1,17 @@
+:root{
+  --fg:#111; --muted:#666; --line:#eaeaea; --bg:#fff; --brand:#0ea5e9;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg); color:var(--fg)}
+h1,h2,h3{line-height:1.2}
+img{max-width:100%; height:auto; border-radius:12px}
+table{width:100%; border-collapse:collapse; margin:12px 0 24px}
+th,td{border:1px solid var(--line); padding:10px; vertical-align:top}
+th{background:#fafafa; text-align:left}
+code,pre{background:#f6f8fa; border-radius:8px; padding:4px 6px}
+.tag{background:#f1f5f9; color:#334155; padding:2px 8px; border-radius:999px; margin-right:6px; font-size:12px}
+.travel-hero .hero{margin:12px 0 6px; box-shadow:0 6px 24px rgba(0,0,0,.06)}
+.travel-content h2{margin-top:28px}
+.travel-content hr{border:0; border-top:1px solid var(--line); margin:28px 0}
+a{color:var(--brand)}
+nav a{margin-left:16px}
