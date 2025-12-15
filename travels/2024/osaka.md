@@ -2,6 +2,7 @@
 layout: default
 title: Osaka & Kyoto Trip (Apr 2024)
 permalink: /travels/2024/osaka/
+date: 2024-04-28
 ---
 
 ## Osaka & Kyoto Trip (April 2024)
@@ -149,3 +150,4 @@ Tips:
 ## Day 10 — Back to Singapore
 
 End of trip ✈️
+
