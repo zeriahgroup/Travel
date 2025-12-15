@@ -11,7 +11,3 @@ kramdown:
 
 # Permalinks: keep pages’ permalinks as provided in front matter
 permalink: pretty
-
-# Plugins supported by GitHub Pages (optional)
-plugins:
-  - jekyll-seo-tag
