@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Osaka & Kyoto Trip (Dec 2025)
+title: Hong Kong Trip (Dec 2025)
 permalink: /travels/2025/hong_kong/
 date: 2025-12-05
 
