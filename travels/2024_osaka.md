@@ -3,10 +3,16 @@ layout: default
 title: Osaka & Kyoto Trip (Apr 2024)
 permalink: /travels/2024/osaka/
 date: 2024-04-28
----
-![](https://restfulincreaseacademy.wordpress.com/wp-content/uploads/2024/07/travel-blog.png?w=1024)
 
-We had a trip in April 2024, these are the main trip details.
+cover: https://images.travels.zeriahgroup.com/2024_osaka_trip.webp
+page_cover: https://restfulincreaseacademy.wordpress.com/wp-content/uploads/2024/07/travel-blog.png?w=1024
+
+excerpt: We had a trip in April 2024, these are the main trip details.
+---
+
+
+
+
 
 ## Pre Trip Preparations
 
