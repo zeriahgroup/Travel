@@ -4,7 +4,7 @@ title: Osaka & Kyoto Trip (Dec 2025)
 permalink: /travels/2025/hong_kong/
 date: 2025-12-05
 
-cover: https://images.travels.zeriahgroup.com/2024_hong_kong_trip.webp
+cover: https://images.travels.zeriahgroup.com/2025_hong_kong_trip.webp
 page_cover: https://tsmdtravels.wordpress.com/wp-content/uploads/2025/07/screenshot-2025-07-08-202650.png?w=1024
 
 excerpt: An unforgettable mother & daughter trip to close out the year
