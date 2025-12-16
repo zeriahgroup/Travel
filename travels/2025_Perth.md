@@ -8,8 +8,11 @@ excerpt: Sunsets, coastal walks, food discoveries, and slow days in Western Aust
 ---
 
 
-
-<img width="1894" height="865" alt="image" src="https://github.com/user-attachments/assets/2a49d58f-2d63-417c-98b1-c3d6bac1702a" />![](https://restfulincreaseacademy.wordpress.com/wp-content/uploads/2024/11/perth-2025-banner.png?w=1024)
+<img
+  src="{{ page.cover }}"
+  alt="{{ page.title }}"
+  style="width:100%; border-radius:18px; margin:24px 0;"
+>
 
 ## Currency Information
 
