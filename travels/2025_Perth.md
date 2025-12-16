@@ -3,6 +3,8 @@ layout: default
 title: Perth Trip (Mar–Apr 2025)
 permalink: /travels/2025/perth/
 date: 2025-03-26
+cover: https://restfulincreaseacademy.wordpress.com/wp-content/uploads/2024/11/perth-2025-banner.png?w=1024
+excerpt: Sunsets, coastal walks, food discoveries, and slow days in Western Australia.
 ---
 
 
