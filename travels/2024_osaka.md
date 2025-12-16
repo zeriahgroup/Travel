@@ -11,7 +11,7 @@ excerpt: We had a trip in April 2024, these are the main trip details.
 ---
 
 
-
+![{{ page.title }} cover]({{ page.page_cover }})
 
 
 ## Pre Trip Preparations
