@@ -8,7 +8,7 @@ permalink: /travels/
 
 A growing archive of trips.
 
-<ul>
+
 {% assign travel_pages = site.pages
   | where_exp: "p", "p.path contains 'travels/'"
   | where_exp: "p", "p.title"
@@ -59,5 +59,3 @@ A growing archive of trips.
 
   {% endif %}
 {% endfor %}
-
-</ul>
