@@ -8,7 +8,6 @@ permalink: /travels/
 
 A growing archive of trips.
 
-
 {% assign travel_pages = site.pages
   | where_exp: "p", "p.path contains 'travels/'"
   | where_exp: "p", "p.title"
@@ -28,20 +27,14 @@ A growing archive of trips.
     {% endif %}
 
 <div style="display:flex; gap:20px; margin:20px 0; padding:18px; border:1px solid #eee; border-radius:16px; background:#fff;">
-  
   {% if p.cover %}
-  <img 
-    src="{{ p.cover }}" 
-    alt="{{ p.title }}"
-    style="width:220px; height:140px; object-fit:cover; border-radius:12px;"
-  >
+  <img src="{{ p.cover }}" alt="{{ p.title }}"
+       style="width:220px; height:140px; object-fit:cover; border-radius:12px;">
   {% endif %}
 
   <div style="flex:1;">
     <div style="font-size:1.2rem; font-weight:700; margin-bottom:6px;">
-      <a href="{{ p.url }}" style="text-decoration:none;">
-        {{ p.title }}
-      </a>
+      <a href="{{ p.url }}" style="text-decoration:none;">{{ p.title }}</a>
     </div>
 
     <div style="color:#777; font-size:0.9rem; margin-bottom:8px;">
@@ -54,7 +47,6 @@ A growing archive of trips.
     </div>
     {% endif %}
   </div>
-
 </div>
 
   {% endif %}
