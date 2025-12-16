@@ -23,29 +23,41 @@ A growing archive of trips.
     {% if year != current_year %}
 
 ## {{ year }}
-<div style="height:1px;background:#eee;margin:8px 0 16px 0;"></div>
 
       {% assign current_year = year %}
     {% endif %}
 
-<div style="padding:14px 16px; border:1px solid #eee; border-radius:12px; margin:12px 0; background:#fff;">
-  <div style="font-size:1.05rem; font-weight:700;">
-    <a href="{{ p.url }}" style="text-decoration:none;">{{ p.title }}</a>
-  </div>
-  <div style="color:#666; font-size:0.9rem; margin-top:4px;">
-    {{ p.date | date: "%b %Y" }}
-  </div>
-  {% if p.tags %}
-  <div style="margin-top:8px;">
-    {% for t in p.tags %}
-      <span style="display:inline-block; padding:2px 10px; margin-right:6px; border:1px solid #eee; border-radius:999px; font-size:0.8rem; color:#555;">
-        {{ t }}
-      </span>
-    {% endfor %}
-  </div>
+<div style="display:flex; gap:20px; margin:20px 0; padding:18px; border:1px solid #eee; border-radius:16px; background:#fff;">
+  
+  {% if p.cover %}
+  <img 
+    src="{{ p.cover }}" 
+    alt="{{ p.title }}"
+    style="width:220px; height:140px; object-fit:cover; border-radius:12px;"
+  >
   {% endif %}
+
+  <div style="flex:1;">
+    <div style="font-size:1.2rem; font-weight:700; margin-bottom:6px;">
+      <a href="{{ p.url }}" style="text-decoration:none;">
+        {{ p.title }}
+      </a>
+    </div>
+
+    <div style="color:#777; font-size:0.9rem; margin-bottom:8px;">
+      {{ p.date | date: "%b %Y" }}
+    </div>
+
+    {% if p.excerpt %}
+    <div style="color:#444; line-height:1.5;">
+      {{ p.excerpt }}
+    </div>
+    {% endif %}
+  </div>
+
 </div>
 
   {% endif %}
 {% endfor %}
+
 </ul>
