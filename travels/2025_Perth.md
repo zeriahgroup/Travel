@@ -2,7 +2,7 @@
 layout: default
 title: Perth Trip (Mar–Apr 2025)
 date: 2025-03-26
-permalink: /travels/2025_perth/
+permalink: /travels/2025/perth/
 
 cover: https://images.travels.zeriahgroup.com/2025_perth_trip.webp
 page_cover: https://restfulincreaseacademy.wordpress.com/wp-content/uploads/2024/11/perth-2025-banner.png?w=1024
