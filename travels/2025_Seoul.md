@@ -17,15 +17,6 @@ excerpt: Eating and shopping  in the heart of Korea
 
 ---
 
-## 🔗 Quick Links
-
-- [Day 0](#day-0)
-- [Day 1](#day-1)
-- [Day 2](#day-2)
-- [Day 3](#day-3)
-- [Day 4](#day-4)
-- [Day 5](#day-5)
-
 **Useful Links**
 - [Google Maps Saved List](https://maps.app.goo.gl/sQPTj8iiRpoteVU86)
 - [Currency Exchange (SGD → KRW)](https://www.xe.com/currencyconverter/)
