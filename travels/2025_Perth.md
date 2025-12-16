@@ -8,11 +8,8 @@ excerpt: Sunsets, coastal walks, food discoveries, and slow days in Western Aust
 ---
 
 
-<img
-  src="{{ page.cover }}"
-  alt="{{ page.title }}"
-  style="width:100%; border-radius:18px; margin:24px 0;"
->
+![]({{ page.cover }})
+
 
 ## Currency Information
 
