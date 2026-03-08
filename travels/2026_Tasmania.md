@@ -88,7 +88,7 @@ Pre-booking is **essential** (ideally 1 to 2 months in advance), especially sinc
 
 ## Day 1 - 22 May (Friday) - Singapore to Melbourne to Hobart
 
-Tim and family:
+**Tim and family:**
 - SQ227 - Singapore to Melbourne
 - Departing 22:10, Thursday 21 May 2026, Changi Terminal 3
 - Arriving 07:25, Friday 22 May 2026, Melbourne International Terminal 2
@@ -97,7 +97,7 @@ Tim and family:
 Lunch in Hobart, then collect car, put stuff in Airbnb, then meet up with WL and family for dinner once they arrive in Hobart.
 
 
-WL and family:
+**WL and family:**
 - Departing 02:30, Friday 22 May 2026, Changi
 - Arriving 11:45, Friday 22 May 2026, Melbourne
 - Transfer to Hobart, ETA 4pm to 5pm.
@@ -344,7 +344,14 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Logistics:** Head back to the hotel, grab your stored luggage, and walk (or take the quick shuttle) over to Melbourne International Terminal 2. 
 
 **Afternoon: The Journey Home**
+**Tim and family:**
 - **Flight:** SQ228 - Melbourne to Singapore
 - **Departing:** 15:30, Monday 01 Jun 2026, Melbourne International Terminal 2
 - **Arriving:** 21:20, Monday 01 Jun 2026, Changi Airport
+
+**WL and family:**
+- **Flight:** ? - Melbourne to Singapore
+- **Departing:** 13:00, Monday 01 Jun 2026, Melbourne International Terminal 2
+- **Arriving:** 19:05, Monday 01 Jun 2026, Changi Airport
+
 
