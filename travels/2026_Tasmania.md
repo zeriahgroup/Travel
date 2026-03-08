@@ -163,7 +163,7 @@ Meet up for dinner with Tim and family for dinner after arrival.
 - **Pack up:** We will be leaving Hobart and transiting to Strahan tomorrow, so need to pack in the evening.
 
 
-## Day 4 - 25 May (Monday) - Hobart to Strahan (The Western Wilds Drive)
+## Day 4 - 25 May (Monday) - Hobart to Strahan (The Western Wilds Drive) - Long Drive Warning
 
 This day is entirely about the journey. The drive from [Hobart to Strahan](https://maps.app.goo.gl/aoYgBHfRPMWPgaHh8) via the Lyell Highway is incredibly scenic, passing through dense rainforests, alpine plateaus, and historic mining towns. Since it's about a 4.5-hour straight drive, you will want to break it up with family-friendly stops so the kids don't get restless.
 
@@ -187,7 +187,7 @@ This day is entirely about the journey. The drive from [Hobart to Strahan](https
 * The landscape here looks almost like the moon due to historical mining and logging, offering a very unique photo opportunity before making the final push into Strahan.
 
 
-## Day 5 - 26 May (Tuesday) - Strahan to Lake St Clair + Gordon River Cruises
+## Day 5 - 26 May (Tuesday) - Strahan to Lake St Clair + Gordon River Cruises - Long Drive Warning
 
 Your morning will be taken up entirely by the majestic Gordon River, followed by a transition back east towards the Central Highlands. Because sunset in May is around 5:00 PM, timing the afternoon drive is critical to avoid navigating mountain roads in the dark when wildlife is most active.
 
@@ -208,7 +208,7 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Pack up:** We will be leaving Strahan and transiting to Cradle Mountain tomorrow, so need to pack in the evening.
 
 
-## Day 6 - 27 May (Wednesday) - Lake St Clair to Cradle Mountain (plan for cold weather)
+## Day 6 - 27 May (Wednesday) - Lake St Clair to Cradle Mountain (plan for cold weather) - Long Drive Warning
 
 **Morning: The Highland Drive**
 - **Drive:** Lake St Clair to Cradle Mountain (Approx. 135km, 2 to 2.5-hour drive).
@@ -231,7 +231,7 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Pack up:** We will be leaving Cradle Mountain and transiting to Burnie tomorrow, so need to pack in the evening.
 
 
-## Day 7 - 28 May (Thursday) - Cradle Mountain to the North West Coast
+## Day 7 - 28 May (Thursday) - Cradle Mountain to the North West Coast - Long Drive Warning
 
 **Morning: Dove Lake Circuit Hike**
 - **Logistics (Crucial):** Private vehicles are not permitted to drive to Dove Lake during shuttle operating hours (typically 8:15 am to 5:00 pm in late May). You will need to park at the main Cradle Mountain Visitor Centre, present your Parks Pass, and take the free shuttle bus. The shuttle takes about 20 minutes to reach the lake.
@@ -281,7 +281,7 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Pack up:** We will be leaving Launceston and transiting to Bicheno tomorrow, so need to pack in the evening.
 
 
-## Day 9 - 30 May (Saturday) - Launceston to the East Coast
+## Day 9 - 30 May (Saturday) - Launceston to the East Coast - Long Drive Warning
 
 **Morning: The Drive to St Helens**
 
@@ -309,7 +309,7 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Logistics:** Because the tour takes place on a private rookery, it is incredibly safe for the penguins and allows you to get surprisingly close without disturbing them. *Remember to bundle everyone up in their warmest jackets and beanies, as the ocean wind at night will be freezing!*
 
 
-## Day 10 - 31 May (Sunday) - Bicheno to Hobart, Fly to Melbourne
+## Day 10 - 31 May (Sunday) - Bicheno to Hobart, Fly to Melbourne - Long Drive Warning
 
 **Morning: The East Coast Drive South**
 - **Drive:** Bicheno to Hobart Airport (Approx. 175km, 2 hours 15-minute drive).
