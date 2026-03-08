@@ -112,8 +112,6 @@ Meet up for dinner with Tim and family for dinner after arrival.
 - **Logistics:** Arrive early (around 8:30 am or 9:00 am). Parking around Salamanca Place can be notoriously difficult on market days, so if your accommodation is in the CBD, walking or taking a short taxi/rideshare is highly recommended. 
 - **Plan:** Grab coffee and breakfast at the market. It's an excellent spot to sample local Tasmanian pastries, scallop pies, and fresh produce.
 
-<div style="clear: both;"></div>
-
 **Potential Lunch Options:**
 - **Machine Laundry Cafe:** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food.
   - Famous for its quirky, retro vibe (it actually has a working coin-operated laundromat attached).
@@ -124,6 +122,8 @@ Meet up for dinner with Tim and family for dinner after arrival.
 - **Jackman & McRoss:** Requires a very short (but slightly steep) walk up the historic Kelly's Steps from Salamanca into Battery Point, but it is widely considered one of the best bakeries in Tasmania.
   - Known for its phenomenal savory pies (including lamb and scallop pies), gourmet sandwiches, and sourdough.
   - Perfect if you want to grab an assortment of high-quality baked goods to eat at a nearby park or easily take on the road with you.
+
+<div style="clear: both;"></div>
 
 **Afternoon: Bonorong Wildlife Sanctuary**
 - **Drive:** Salamanca Market to Bonorong (Approx. 30km, 31-minute drive).
