@@ -84,9 +84,7 @@ Pre-booking is **essential** (ideally 1 to 2 months in advance), especially sinc
   - **Tour Times:** Departure times change throughout the year depending on dusk, so check the specific time for late May when you book.
   - **Booking Tip:** Make sure to book early to secure spots for both families together. Also, remember to remind everyone to pack very warm clothes for this specific night, as you will be standing still near the freezing ocean!
 
-
-
-## Day 1 - 22 May (Friday) - Singapore to Melbourne to Hobart
+## Day 0 - 21 May (Thursday) - Singapore to Melbourne
 
 **Tim and family:**
 - SQ227 - Singapore to Melbourne
@@ -98,11 +96,17 @@ Lunch in Hobart, then collect car, put stuff in Airbnb, then meet up with WL and
 
 
 **WL and family:**
-- Departing 02:30, Friday 22 May 2026, Changi
+- TR58 - Scoot B787-8
+- Departing 02:30, Friday 22 May 2026, Changi Terminal 1
 - Arriving 11:45, Friday 22 May 2026, Melbourne
 - Transfer to Hobart, ETA 4pm to 5pm.
 
 Meet up for dinner with Tim and family for dinner after arrival.
+
+
+## Day 1 - 22 May (Friday) - Melbourne to Hobart
+
+Need to book flight to Hobart
 
 
 ## Day 2 - 23 May (Saturday) - Salamanca Market and Bonorong Wildlife Sanctuary
@@ -352,8 +356,8 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Arriving:** 21:20, Monday 01 Jun 2026, Changi Airport
 
 **WL and family:**
-- **Flight:** ? - Melbourne to Singapore
+- **Flight:** TR59 - Scoot B787-8 - Melbourne to Singapore
 - **Departing:** 13:00, Monday 01 Jun 2026, Melbourne International Terminal 2
-- **Arriving:** 19:05, Monday 01 Jun 2026, Changi Airport
+- **Arriving:** 19:05, Monday 01 Jun 2026, Changi Airport Terminal 2
 
 
