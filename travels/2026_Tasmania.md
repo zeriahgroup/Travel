@@ -116,7 +116,9 @@ Dinner options:
 
 
 ## Day 2 - 23 May (Saturday) - Salamanca Market and Bonorong Wildlife Sanctuary
+
 <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2.webp" alt="Day 2 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+
 **Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home)**
 - **Hours:** 8:30 am to 3:00 pm
 - **Logistics:** Arrive early (around 8:30 am or 9:00 am). Parking around Salamanca Place can be notoriously difficult on market days, so if your accommodation is in the CBD, walking or taking a short taxi/rideshare is highly recommended. 
@@ -124,19 +126,13 @@ Dinner options:
 
 **From Tasmania HOBART things to do, see, eat in 3 days travel - 2026 YouTube Video:**
 - **Nearby Coffee:** [Parklane Expresso](https://www.facebook.com/3SalamancaSquare/) - [3 Salamanca Square Hobart, TAS, Australia, Tasmania 7004](https://maps.app.goo.gl/UA9j1HRAJEzwzN826)
-- **Smith Specialty Pies:** Scallop Pies are good, need to be early as they tend to sell out fast
--  **Flamecake:** Pizzas are good.
+- **Smith Specialty Pies:** Scallop Pies are good, need to be early as they tend to sell out fast.
+- **Flamecake:** Pizzas are good.
 
 **Potential Lunch Options:**
-- **Machine Laundry Cafe:** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food.
-  - Famous for its quirky, retro vibe (it actually has a working coin-operated laundromat attached).
-  - Offers crowd-pleasing brunch and lunch staples like hotcakes, eggs, and great coffee.
-- **Mures Lower Deck:** A Hobart institution down on Victoria Dock, just a short 5-to-10-minute stroll along the waterfront from Salamanca Place. It is highly popular with families, very spacious, and you might even spot a resident seal in the harbor while you eat.
-  - Specializes in fresh, locally caught fish and chips, calamari, and seafood chowder.
-  - Features an in-house ice creamery with 32 flavors, which makes for a perfect post-lunch treat.
-- **Jackman & McRoss:** Requires a very short (but slightly steep) walk up the historic Kelly's Steps from Salamanca into Battery Point, but it is widely considered one of the best bakeries in Tasmania.
-  - Known for its phenomenal savory pies (including lamb and scallop pies), gourmet sandwiches, and sourdough.
-  - Perfect if you want to grab an assortment of high-quality baked goods to eat at a nearby park or easily take on the road with you.
+- **Machine Laundry Cafe:** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food. Famous for its quirky, retro vibe, and offers crowd-pleasing brunch staples.
+- **Mures Lower Deck:** A Hobart institution down on Victoria Dock, just a short stroll from Salamanca Place. Specializes in fresh, locally caught fish and chips. Features an in-house ice creamery with 32 flavors!
+- **Jackman & McRoss:** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its phenomenal savory pies and sourdough.
 
 <div style="clear: both;"></div>
 
@@ -146,15 +142,20 @@ Dinner options:
 - **Drive:** Salamanca Market to Bonorong (Approx. 30km, 31-minute drive).
 - **Hours:** Closes at 5:00 pm.
 - **Logistics:** Try to leave Hobart by 1:30 pm or 2:00 pm at the latest. This gives you a solid 2.5 to 3 hours to explore before they close.
-- **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. They also run free guided tours throughout the day, so check their daily schedule upon arrival to time your walkabout with the keeper talks.
+- **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. Check their daily schedule upon arrival to time your walkabout with the keeper talks.
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93691.22565606928!2d147.21180301638523!3d-42.79150388770555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e11cf7af2599d%3A0x30809560fff5e057!2sBonorong%20Wildlife%20Sanctuary%2C%20593%20Briggs%20Rd%2C%20Brighton%20TAS%207030%2C%20Australia!3m2!1d-42.708675799999995!2d147.2711546!5e0!3m2!1sen!2ssg!4v1773472626351!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+**Back to Albatross Cct for the night**
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93710.51143592974!2d147.27595916575964!3d-42.77876221279075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e11cf7af2599d%3A0x30809560fff5e057!2sBonorong%20Wildlife%20Sanctuary%2C%20593%20Briggs%20Rd%2C%20Brighton%20TAS%207030%2C%20Australia!3m2!1d-42.708675799999995!2d147.2711546!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!5e0!3m2!1sen!2ssg!4v1773472656255!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+---
+
 ## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington
+
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/)**
 - **Hours:** 8:30 am to 1:00 pm
 
@@ -163,6 +164,30 @@ Dinner options:
 **Afternoon: Mount Wellington**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23381.809907939503!2d147.26107442379396!3d-42.89972236572067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!5e0!3m2!1sen!2ssg!4v1773472545687!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Evening: Drive to Freycinet**
+
+**Stop 1: Richmond Bridge**
+- Constructed between 1823 and 1825, it is the oldest bridge in Australia.
+- Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375649.4012415994!2d147.26018013475888!3d-42.64522756010432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!5e0!3m2!1sen!2ssg!4v1773473374978!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Stop 2: Kate's Berry Farm**
+- Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
+- Specializes in homemade jams and spectacular fresh berry desserts.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d376755.941087743!2d147.42181322798115!3d-42.461657530531035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!5e0!3m2!1sen!2ssg!4v1773473454663!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Dinner: Devil's Corner Cellar Door**
+- Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
+- Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79642.38242361129!2d148.12467293154344!3d-42.11330133328294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil's%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773473715031!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Final Stretch**
+- After dinner, continue the journey to Freycinet for the night.
+
 
 
 ## Day 3 - 24 May (Sunday) - Bruny Island Day Trip
