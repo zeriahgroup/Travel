@@ -296,9 +296,6 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 * **The Experience:** A quiet, guided walk onto a private rookery to watch wild fairy penguins waddle up the beach from the ocean. 
 * **Crucial Tip:** It will be freezing cold standing still near the ocean in the dark. Ensure both families wear thermal base layers, heavy windproof coats, beanies, gloves, and thick enclosed shoes.
 
-
-
-
 [Sealife Restaurant & Cafe](https://www.sealiferestaurantbicheno.com.au/) provides a more traditional sit-down dinner option without losing the relaxed coastal vibe. The restaurant overlooks the water and rocks, providing a very picturesque setting for the two families to recount the day's adventures.
 
 * Features a diverse menu of local seafood, including shared platters that are perfect for a large group.
@@ -319,13 +316,107 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1485.4150930517258!2d148.3047559890317!3d-41.87499989562894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa71427ec7befa79%3A0x34445bc159e6a505!2sBicheno%20Penguin%20Tours%20and%20Bicheno%20Surf%20Shop%2C%20Unit%201%2F70%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.875182099999996!2d148.3034619!5e0!3m2!1sen!2ssg!4v1773482952812!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Day ends on [34 Burgess St]
+**Day ends on 232 Tasman Highway, 7215, Australia**
 
-<div class="airbnb-embed-frame" data-id="39673890" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.co.uk/rooms/39673890?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.uk/rooms/39673890?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Home in Bicheno · ★4.86 · 3 bedrooms · 4 beds · 2 bathrooms</a><script async="" src="https://www.airbnb.co.uk/embeddable/airbnb_jssdk"></script></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1485.4235702804574!2d148.30045693899365!3d-41.874635142810554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71427ec7befa79%3A0x34445bc159e6a505!2sBicheno%20Penguin%20Tours%20and%20Bicheno%20Surf%20Shop%2C%20Unit%201%2F70%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.875182099999996!2d148.3034619!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!5e0!3m2!1sen!2ssg!4v1773495175968!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1485.2968085340149!2d148.3012965442412!3d-41.88008909660694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xaa71429416dd77b3%3A0xc84a6ffcb83ac243!2s34%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!5e0!3m2!1sen!2ssg!4v1773494900646!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## Day 6 - 27 May (Wednesday) - Bicheno to Bay of Fires
+
+A great first stop right after leaving town is [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge), which offers a peaceful and highly accessible slice of the Douglas-Apsley National Park. It is an excellent way to get the kids moving early in the day before settling in for the longer stretch of driving.
+
+* Features a very short, flat 10 to 15-minute walk from the car park.
+* Visitors often mention the clarity of the waterhole and the beautiful surrounding eucalyptus forest.
+* The track is well-maintained and highly suitable for young children.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47542.641920965005!2d148.2018996638712!3d-41.8624143147344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!5e0!3m2!1sen!2ssg!4v1773497511450!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+Located almost exactly halfway to St Helens is the [Iron House Brewery Distillery & Vineyard](https://www.ironhouse.com.au/), which serves as the perfect mid-morning or early lunch rest stop. The venue is situated on the White Sands Estate right against the coastline, offering spectacular ocean views.
+
+* Reviewers report that the massive outdoor lawns are perfect for kids to safely run around and stretch their legs.
+* Offers a diverse menu including hearty pub-style food, alongside tasting paddles of their own craft beer, wine, and spirits for the adults.
+* Features a very relaxed, welcoming atmosphere that easily accommodates larger groups without feeling cramped.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d190587.41300953252!2d148.08700666586893!3d-41.722065396937474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!5e0!3m2!1sen!2ssg!4v1773497762753!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+Once you reach the town of St Helens, [Skippers Fish Shop](https://www.facebook.com/skippersfish/) is a highly recommended stop to grab a casual lunch before heading out to the Bay of Fires rocks. It operates as a floating fish punt moored right at the marina, adding a fun novelty to the meal.
+
+* Known for serving incredibly fresh, locally caught fish and chips.
+* Visitors frequently praise the generous portion sizes and the crispy batter.
+* Provides an authentic, unfussy East Coast dining experience right on the water.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191386.90466291885!2d148.11137086222647!3d-41.45179675465096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!5e0!3m2!1sen!2ssg!4v1773497840954!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+If you appreciate the satisfaction of enjoying a fresh catch pulled straight from the water, taking a very short detour toward Binalong Bay to hit [Lease 65](https://www.tripadvisor.com.au/Restaurant_Review-g504328-d7801753-Reviews-Lease_65-St_Helens_Break_O_Day_Tasmania.html) is an absolute must. This is a working oyster farm offering some of the **best oysters** in the entire state.
+
+* Specializes in freshly shucked Pacific oysters sold directly from the farm gate.
+* Reviewers constantly highlight the incredible freshness and unbeatable prices.
+* Perfect for grabbing a few dozen to take with you to the beach or to enjoy later at your accommodation.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23975.47967034553!2d148.24074736908145!3d-41.31027852786323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!5e0!3m2!1sen!2ssg!4v1773498140660!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 
 ## Paused Here for now, haven't update beyond this point
+
+## Day 6 - 27 May (Wednesday) - Bicheno to Bay of Fires
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_6.webp" alt="Day 6 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+
+**Morning: The Scenic Drive North**
+
+**Stop 1: [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge)**
+* A great first stop right after leaving town, offering a peaceful and highly accessible slice of the Douglas-Apsley National Park.
+* Features a very short, flat 10 to 15-minute walk from the car park, making it an excellent way to get the kids moving early.
+* Visitors often mention the clarity of the waterhole and the beautiful surrounding eucalyptus forest.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47542.641920965005!2d148.2018996638712!3d-41.8624143147344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!5e0!3m2!1sen!2ssg!4v1773497511450!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Stop 2: [Iron House Brewery Distillery & Vineyard](https://www.ironhouse.com.au/)**
+* Located almost exactly halfway to St Helens, serving as the perfect mid-morning or early lunch rest stop.
+* Situated on the White Sands Estate right against the coastline, offering spectacular ocean views.
+* The massive outdoor lawns are perfect for kids to safely run around and stretch their legs.
+* Offers a diverse menu including hearty pub-style food, alongside tasting paddles for the adults.
+
+<div style="clear: both;"></div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d190587.41300953252!2d148.08700666586893!3d-41.722065396937474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!5e0!3m2!1sen!2ssg!4v1773497762753!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Lunch: St Helens & Fresh Seafood**
+
+**[Skippers Fish Shop](https://www.facebook.com/skippersfish/)**
+* A highly recommended stop in St Helens to grab a casual lunch before heading out to the Bay of Fires rocks.
+* Operates as a floating fish punt moored right at the marina, adding a fun novelty to the meal.
+* Known for serving incredibly fresh, locally caught fish and chips with generous portion sizes.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191386.90466291885!2d148.11137086222647!3d-41.45179675465096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!5e0!3m2!1sen!2ssg!4v1773497840954!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**[Lease 65](https://www.tripadvisor.com.au/Restaurant_Review-g504328-d7801753-Reviews-Lease_65-St_Helens_Break_O_Day_Tasmania.html)**
+* A very short detour toward Binalong Bay to hit a working oyster farm offering some of the **best oysters** in the entire state.
+* Specializes in freshly shucked Pacific oysters sold directly from the farm gate at unbeatable prices.
+* Perfect for grabbing a few dozen to take with you to the beach or to enjoy later at your accommodation.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23975.47967034553!2d148.24074736908145!3d-41.31027852786323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!5e0!3m2!1sen!2ssg!4v1773498140660!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Afternoon: Exploring the Bay of Fires**
+
+**Stop 1: Binalong Bay (The Main Hub)**
+* This is the iconic starting point for the Bay of Fires and has great, accessible parking.
+* Famous for its pure white sand, crystal-clear turquoise waters, and massive granite boulders draped in bright orange lichen.
+* Let the kids spend an hour or two safely climbing, rock-hopping, and exploring the shoreline—it makes for unforgettable family photos.
+
+<iframe src="https://www.google.com/maps/contrib/108799308120124643457/reviews" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Stop 2: The Gardens (Scenic Drive)**
+* From Binalong Bay, take a slow, highly scenic 15-minute drive north along the coast road until it officially ends at "The Gardens".
+* You will pass numerous secluded beaches and lookout points along the way.
+* The viewing platform at the very end offers a stunning panoramic sweep of the coastline and is a fantastic, breezy spot to wrap up the afternoon before heading to your accommodation.
+
+<iframe src="https://maps.app.goo.gl/XouJ922NmLEBKGVo90" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 
 
 
