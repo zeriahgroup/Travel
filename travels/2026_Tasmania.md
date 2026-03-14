@@ -19,6 +19,7 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 - https://www.discovertasmania.com.au/
 - https://www.australia.com/en/places/tasmania.html
 - [Tasmania HOBART things to do, see, eat in 3 days travel - 2026 by Larry Lim](https://www.youtube.com/watch?v=BmJwo-EmAyE)
+- Hobart Tasmania Travel Guide: Best Things To Do, See & Eat!
 
 **Pre booking of restaurants and attractions:**
 - **Gordon River Cruise (Strahan):** This is one of the biggest attractions on the West Coast, and you need to book your seat a few weeks in advance.
@@ -157,8 +158,8 @@ Dinner options:
 ## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington and off to Freycinet
 
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/)**
-* **Hours:** 8:30 am to 1:00 pm
-* **Settle early lunch before heading off to Mount Wellington**
+- **Hours:** 8:30 am to 1:00 pm
+- **Settle early lunch before heading off to Mount Wellington**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.876095856063!2d147.34085937370634!3d-42.870532650980756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!5e0!3m2!1sen!2ssg!4v1773472517510!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -169,28 +170,28 @@ Dinner options:
 **Afternoon: Drive to Freycinet**
 
 **Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - 2pm to 3pm**
-* Might skip this since Kate's Berry Farm closes at 3pm
-* Constructed between 1823 and 1825, it is the oldest bridge in Australia.
-* Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
+- Might skip this since Kate's Berry Farm closes at 3pm
+- Constructed between 1823 and 1825, it is the oldest bridge in Australia.
+- Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375649.4012415994!2d147.26018013475888!3d-42.64522756010432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!5e0!3m2!1sen!2ssg!4v1773473374978!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Stop 2: [Kate's Berry Farm](https://katesberryfarm.com/) - 3pm to 6pm incl. 2hr drive**
-* **Hours:** Saturday to Tuesday, 9am to 3pm
-* Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
-* Specializes in homemade jams and spectacular fresh berry desserts.
+- **Hours:** Saturday to Tuesday, 9am to 3pm
+- Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
+- Specializes in homemade jams and spectacular fresh berry desserts.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d376755.941087743!2d147.42181322798115!3d-42.461657530531035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!5e0!3m2!1sen!2ssg!4v1773473454663!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Dinner: [Devil's Corner Cellar Door](https://www.devilscorner.com.au/visit/cellar-door) - 6pm to 8pm incl. 25 min drive**
-* **Hours:** Open Daily from 10am to 5pm, Last Hosted Tasting and Tasting Paddles 4:30pm
-* Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
-* Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
+- **Hours:** Open Daily from 10am to 5pm, Last Hosted Tasting and Tasting Paddles 4:30pm
+- Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
+- Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79642.38242361129!2d148.12467293154344!3d-42.11330133328294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil's%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773473715031!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Final Stretch - 8pm to 9pm, wash up and sleep**
-* After dinner, continue the journey to [Archella 2 - 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay](https://www.booking.com/Share-qsu4Nt) for the night.
+- After dinner, continue the journey to [Archella 2 - 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay](https://www.booking.com/Share-qsu4Nt) for the night.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94844.62410648282!2d148.11838777893394!3d-42.02399550851483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!5e0!3m2!1sen!2ssg!4v1773474495327!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -200,51 +201,51 @@ Dinner options:
 **Morning: The Iconic Viewpoint**
 
 [Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/) is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp.
-* Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
-* Offers the famous, sweeping vista of the curved white beach and turquoise water.
-* Presents a great opportunity to spot native wildlife, including friendly wallabies, along the trail.
+- Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
+- Offers the famous, sweeping vista of the curved white beach and turquoise water.
+- Presents a great opportunity to spot native wildlife, including friendly wallabies, along the trail.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47345.34191535596!2d148.23158101702896!3d-42.127087722855066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa73d5998ea6545d%3A0x2912f5469a35d174!2sWineglass%20Bay%20Lookout%2C%20Unnamed%20Rd%2C%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1548875!2d148.29343649999998!5e0!3m2!1sen!2ssg!4v1773476841706!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Mid-Day: An Easy Coastal Stroll**
 
 [Cape Tourville Lighthouse and Lookout](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/cape-tourville) provides an incredibly easy alternative or add-on to the Wineglass Bay hike, giving you dramatic ocean views without the steep climb. This makes it a perfect, low-effort stop to take in the rugged coastline before lunch.
-* Features a 20-minute, flat, and fully fenced boardwalk loop.
-* Highly accessible for young kids, strollers, and those wanting a relaxed, breezy pace.
-* Offers sweeping, elevated views out to the Tasman Sea and down to the Hazards mountain range.
+- Features a 20-minute, flat, and fully fenced boardwalk loop.
+- Highly accessible for young kids, strollers, and those wanting a relaxed, breezy pace.
+- Offers sweeping, elevated views out to the Tasman Sea and down to the Hazards mountain range.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23668.85303379176!2d148.29482712151776!3d-42.1373038340393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d5998ea6545d%3A0x2912f5469a35d174!2sWineglass%20Bay%20Lookout%2C%20Unnamed%20Rd%2C%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1548875!2d148.29343649999998!4m5!1s0xaa73d66bdff166b1%3A0x5b5a9c55ed9ea3b1!2sCape%20Tourville%20Lighthouse%20and%20Lookout%2C%20Freycinet%20National%20Park%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1227042!2d148.3427352!5e0!3m2!1sen!2ssg!4v1773476792940!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Lunch: Fresh Local Seafood**
 
 [Freycinet Marine Farm](https://www.freycinetmarinefarm.com/) is a staple stop when visiting the area, offering a casual, rustic dining experience right near the water. It is an excellent spot to regroup and indulge in some of the region's famous seafood midway through your day.
-* Specializes in freshly harvested oysters and mussels sourced directly from their farm.
-* Offers casual outdoor seating with a very relaxed, family-friendly vibe.
-* Features non-seafood options and hot chips, making it an easy crowd-pleaser for the kids.
+- Specializes in freshly harvested oysters and mussels sourced directly from their farm.
+- Offers casual outdoor seating with a very relaxed, family-friendly vibe.
+- Features non-seafood options and hot chips, making it an easy crowd-pleaser for the kids.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47361.038055122655!2d148.24659276677787!3d-42.10608130229604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d66bdff166b1%3A0x5b5a9c55ed9ea3b1!2sCape%20Tourville%20Lighthouse%20and%20Lookout%2C%20Freycinet%20National%20Park%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1227042!2d148.3427352!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!5e0!3m2!1sen!2ssg!4v1773477400727!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Afternoon: Rockpooling and Relaxation**
 
 [Honeymoon Bay](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/richardsons-beach-honeymoon-bay-and-ranger-creek-camping) is a beautiful, sheltered cove that serves as a fantastic spot to wind down your afternoon. The calm waters and striking granite boulders make it a highly picturesque and safe environment for families.
-* Features crystal-clear, shallow water that is ideal for kids to wade in safely.
-* Surrounded by striking red granite rocks that are perfect for scrambling and rockpooling.
-* Provides a stunning backdrop of the Hazards mountains, making it an excellent spot for family photos.
+- Features crystal-clear, shallow water that is ideal for kids to wade in safely.
+- Surrounded by striking red granite rocks that are perfect for scrambling and rockpooling.
+- Provides a stunning backdrop of the Hazards mountains, making it an excellent spot for family photos.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d16753.665060032636!2d148.20592289966623!3d-42.071959275253676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!4m5!1s0xaa73d5f036fe68ad%3A0xf8ddd8f34c701104!2sHoneymoon%20Bay%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1369086!2d148.2986157!5e0!3m2!1sen!2ssg!4v1773477360889!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Chillax at [Ice Creamery & Co](https://icecreameryandco.com.au/#Scoops)**
 
-* Specializes in small-batch, Tasmanian-made ice cream.
-* Offers a massive variety of flavors that are guaranteed to be a hit with the kids after a long day of exploring.
-* Located very close to the main shops, making it an easy stop on the drive back to the accommodation.
+- Specializes in small-batch, Tasmanian-made ice cream.
+- Offers a massive variety of flavors that are guaranteed to be a hit with the kids after a long day of exploring.
+- Located very close to the main shops, making it an easy stop on the drive back to the accommodation.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4307.316778696376!2d148.28346570944478!3d-42.128309075252105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d5f036fe68ad%3A0xf8ddd8f34c701104!2sHoneymoon%20Bay%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1369086!2d148.2986157!4m5!1s0xaa717f14538e5df9%3A0xd617a8b995db6343!2sIce%20Creamery%20%26%20Co.%2C%204%20Garnet%20Ave%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1258566!2d148.29052969999998!5e0!3m2!1sen!2ssg!4v1773477851889!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Dinner at [Big Pete's Eats](https://www.facebook.com/bigpeteseats/) which is near the accomodation**
-* Hearty Menu: They are famous for their mobile spit-roast setup featuring locally sourced meats cooked over an open flame, as well as fantastic burgers and a very popular Thursday "Parmie" night.
-* Great for Kids: Reviewers frequently highlight that it is highly family-friendly, offering a dedicated menu for the little ones that goes beyond the standard pub fare, plus they have pool tables and darts to keep everyone entertained while waiting for food.
-* Evening Convenience: It is one of the very few spots in the Coles Bay area that reliably serves food later into the evening (open until 8:00 PM), making it a great safety net if your afternoon rockpooling runs long.
+- Hearty Menu: They are famous for their mobile spit-roast setup featuring locally sourced meats cooked over an open flame, as well as fantastic burgers and a very popular Thursday "Parmie" night.
+- Great for Kids: Reviewers frequently highlight that it is highly family-friendly, offering a dedicated menu for the little ones that goes beyond the standard pub fare, plus they have pool tables and darts to keep everyone entertained while waiting for food.
+- Evening Convenience: It is one of the very few spots in the Coles Bay area that reliably serves food later into the evening (open until 8:00 PM), making it a great safety net if your afternoon rockpooling runs long.
 
 
 ## Day 5 - 26 May (Tuesday) - Freycinet to Bicheno
@@ -252,66 +253,66 @@ Dinner options:
 **Morning: Breakfast at the Pondering Frog**
 [The Pondering Frog](https://www.ponderingfrog.com.au/) is located just south of Bicheno and is a brilliant, quirky stop either on your way into town or as an afternoon treat. The entire property is frog-themed, which is guaranteed to be a huge hit with your daughter and the other kids.
 
-* Famous for their handcrafted ice creams and massive sundaes.
-* Features an outdoor play area complete with a popular frog slide.
-* Also offers a full cafe menu, including their highly praised seafood chowder.
+- Famous for their handcrafted ice creams and massive sundaes.
+- Features an outdoor play area complete with a popular frog slide.
+- Also offers a full cafe menu, including their highly praised seafood chowder.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94851.15080365237!2d148.1495784787218!3d-42.01962010020829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!5e0!3m2!1sen!2ssg!4v1773482733770!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Off to see the Tasmanian Devil after breakfast**
 
 **Morning: [East Coast Natureworld](https://www.natureworld.com.au/)**
-* **Logistics:** Located just 5 minutes north of Bicheno. It opens at 9:00 am, making it a perfect first stop before heading into town. 
-* **Plan:** A massive 150-acre wildlife sanctuary. General admission usually includes roaming among the kangaroos and wallabies (you can buy feed for them). Check their schedule for the Tasmanian Devil feeding times—it is a great, safe way for the kids to see them active during the day.
-*  **Note:** Devil Feeding Timing is 10am, 12pm, 2pm
+- **Logistics:** Located just 5 minutes north of Bicheno. It opens at 9:00 am, making it a perfect first stop before heading into town. 
+- **Plan:** A massive 150-acre wildlife sanctuary. General admission usually includes roaming among the kangaroos and wallabies (you can buy feed for them). Check their schedule for the Tasmanian Devil feeding times—it is a great, safe way for the kids to see them active during the day.
+-  **Note:** Devil Feeding Timing is 10am, 12pm, 2pm
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47521.64492560475!2d148.21802596420744!3d-41.89064604217233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!4m5!1s0xaa71417ea576439f%3A0x9b3bd9d7ae2758f2!2sEast%20Coast%20Natureworld%2C%2018356A%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8380028!2d148.25555559999998!5e0!3m2!1sen!2ssg!4v1773483666445!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 [Bicheno Blowhole](https://tasmania.com/points-of-interest/bicheno-blowhole/) is a fantastic, quick coastal stop that always gets a laugh out of young kids. It’s a natural rock vent that channels the ocean swell and shoots a massive geyser of water high into the air.
-* Features a very short, easy walk from the car park right onto the coastal rocks.
-* The size of the spray depends entirely on the tide and swell, making it a fun surprise every time a wave rolls in.
+- Features a very short, easy walk from the car park right onto the coastal rocks.
+- The size of the spray depends entirely on the tide and swell, making it a fun surprise every time a wave rolls in.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23772.564783319925!2d148.26095727069435!3d-41.859068496474336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71417ea576439f%3A0x9b3bd9d7ae2758f2!2sEast%20Coast%20Natureworld%2C%2018356A%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8380028!2d148.25555559999998!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!5e0!3m2!1sen!2ssg!4v1773483708082!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 [Bicheno Glass Bottom Boat](https://bichenoglassbottomboat.com/)
-* Adults $40Children $20( under 18) . under 3 free.
-* Tours at 10am, 12 noon, 2pm
-* Mid September to end April - So unfortunately we won't be able to make it this trip.
+- Adults $40Children $20( under 18) . under 3 free.
+- Tours at 10am, 12 noon, 2pm
+- Mid September to end April - So unfortunately we won't be able to make it this trip.
 
 [Whalers Lookout Scenic Reserve](https://www.discovertasmania.com.au/things-to-do/nature-and-wildlife/bichenowalkerslookoutreserve/) is the perfect spot to get your bearings and take in panoramic views of the entire Bicheno coastline.
-* Features a brief, 10-minute walk up a slightly steep but well-maintained path.
-* Offers two safe viewing platforms where you can often spot dolphins or migrating whales down below.
+- Features a brief, 10-minute walk up a slightly steep but well-maintained path.
+- Offers two safe viewing platforms where you can often spot dolphins or migrating whales down below.
 
 **Lunch: Casual Coastal Eats**
 
 [Lobster Shack Tasmania is just next door](https://www.lobstershacktasmania.com.au/)
 Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood experience right on the waterfront. It operates on a walk-in basis, which is great for large groups with kids, and has plenty of outdoor seating overlooking the bay.
-* Famous for their freshly caught southern rock lobsters and incredible lobster rolls.
-* Offers easy crowd-pleasers like fish and chips, plus local ice cream.
-* Keep in mind it closes at 7:00 PM, making it better suited for lunch or an early dinner before heading out to see the penguins.
+- Famous for their freshly caught southern rock lobsters and incredible lobster rolls.
+- Offers easy crowd-pleasers like fish and chips, plus local ice cream.
+- Keep in mind it closes at 7:00 PM, making it better suited for lunch or an early dinner before heading out to see the penguins.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.7241261507656!2d148.304187526781!3d-41.877281577019296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!5e0!3m2!1sen!2ssg!4v1773482820266!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Evening: [Bicheno Penguin Tours](https://bichenopenguintours.com.au/)**
-* **Logistics:** *Pre-booking is essential.* In late May, sunset is early, so tours typically start around 5:15 pm to 5:30 pm. 
-* **The Experience:** A quiet, guided walk onto a private rookery to watch wild fairy penguins waddle up the beach from the ocean. 
-* **Crucial Tip:** It will be freezing cold standing still near the ocean in the dark. Ensure both families wear thermal base layers, heavy windproof coats, beanies, gloves, and thick enclosed shoes.
+- **Logistics:** *Pre-booking is essential.* In late May, sunset is early, so tours typically start around 5:15 pm to 5:30 pm. 
+- **The Experience:** A quiet, guided walk onto a private rookery to watch wild fairy penguins waddle up the beach from the ocean. 
+- **Crucial Tip:** It will be freezing cold standing still near the ocean in the dark. Ensure both families wear thermal base layers, heavy windproof coats, beanies, gloves, and thick enclosed shoes.
 
 [Sealife Restaurant & Cafe](https://www.sealiferestaurantbicheno.com.au/) provides a more traditional sit-down dinner option without losing the relaxed coastal vibe. The restaurant overlooks the water and rocks, providing a very picturesque setting for the two families to recount the day's adventures.
 
-* Features a diverse menu of local seafood, including shared platters that are perfect for a large group.
-* Known for having friendly staff and a very welcoming atmosphere.
-* Open until 9:00 PM most days (closed Tuesdays and Wednesdays), making it a reliable spot if your afternoon activities run late.
+- Features a diverse menu of local seafood, including shared platters that are perfect for a large group.
+- Known for having friendly staff and a very welcoming atmosphere.
+- Open until 9:00 PM most days (closed Tuesdays and Wednesdays), making it a reliable spot if your afternoon activities run late.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.8704448815697!2d148.3009652767807!3d-41.87413377682302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa7142f258722675%3A0x4327b5159e9a4a3c!2sSealife%20Restaurant%26Caf%C3%A9%2C%201%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8726412!2d148.2988119!5e0!3m2!1sen!2ssg!4v1773482883018!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 [Blue Edge Bakery](https://www.facebook.com/people/Blue-Edge-Bakery-Bicheno/100063557649916/) is widely considered the best bakery in town and serves as the perfect pit stop to grab food on the go or sit down for a quick, hearty breakfast.
 
-* Known for their award-winning scallop pies, a classic Tasmanian staple you should definitely try.
-* Offers a massive variety of sweet pastries, sausage rolls, and excellent coffee.
-* Closes at 3:00 PM, so it is strictly a morning or early afternoon option.
+- Known for their award-winning scallop pies, a classic Tasmanian staple you should definitely try.
+- Offers a massive variety of sweet pastries, sausage rolls, and excellent coffee.
+- Closes at 3:00 PM, so it is strictly a morning or early afternoon option.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1485.4120554352394!2d148.30498178903156!3d-41.87513059563312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa71418308defa6b%3A0x9c1b855443f5fa54!2sBlue%20Edge%20Bakery%2C%2055%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8758924!2d148.3041975!5e0!3m2!1sen!2ssg!4v1773482913930!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -328,17 +329,17 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Morning: The Scenic Drive North**
 
 **Stop 1: [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge)**
-* A great first stop right after leaving town, offering a peaceful and highly accessible slice of the Douglas-Apsley National Park.
-* Features a very short, flat 10 to 15-minute walk from the car park, making it an excellent way to get the kids moving early.
-* Visitors often mention the clarity of the waterhole and the beautiful surrounding eucalyptus forest.
+- A great first stop right after leaving town, offering a peaceful and highly accessible slice of the Douglas-Apsley National Park.
+- Features a very short, flat 10 to 15-minute walk from the car park, making it an excellent way to get the kids moving early.
+- Visitors often mention the clarity of the waterhole and the beautiful surrounding eucalyptus forest.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47542.641920965005!2d148.2018996638712!3d-41.8624143147344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!5e0!3m2!1sen!2ssg!4v1773497511450!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Stop 2: [Iron House Brewery Distillery & Vineyard](https://www.ironhouse.com.au/)**
-* Located almost exactly halfway to St Helens, serving as the perfect mid-morning or early lunch rest stop.
-* Situated on the White Sands Estate right against the coastline, offering spectacular ocean views.
-* The massive outdoor lawns are perfect for kids to safely run around and stretch their legs.
-* Offers a diverse menu including hearty pub-style food, alongside tasting paddles for the adults.
+- Located almost exactly halfway to St Helens, serving as the perfect mid-morning or early lunch rest stop.
+- Situated on the White Sands Estate right against the coastline, offering spectacular ocean views.
+- The massive outdoor lawns are perfect for kids to safely run around and stretch their legs.
+- Offers a diverse menu including hearty pub-style food, alongside tasting paddles for the adults.
 
 <div style="clear: both;"></div>
 
@@ -347,32 +348,32 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Lunch: St Helens & Fresh Seafood**
 
 **[Skippers Fish Shop](https://www.facebook.com/skippersfish/)**
-* A highly recommended stop in St Helens to grab a casual lunch before heading out to the Bay of Fires rocks.
-* Operates as a floating fish punt moored right at the marina, adding a fun novelty to the meal.
-* Known for serving incredibly fresh, locally caught fish and chips with generous portion sizes.
+- A highly recommended stop in St Helens to grab a casual lunch before heading out to the Bay of Fires rocks.
+- Operates as a floating fish punt moored right at the marina, adding a fun novelty to the meal.
+- Known for serving incredibly fresh, locally caught fish and chips with generous portion sizes.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191386.90466291885!2d148.11137086222647!3d-41.45179675465096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!5e0!3m2!1sen!2ssg!4v1773497840954!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **[Lease 65](https://www.tripadvisor.com.au/Restaurant_Review-g504328-d7801753-Reviews-Lease_65-St_Helens_Break_O_Day_Tasmania.html)**
-* A very short detour toward Binalong Bay to hit a working oyster farm offering some of the **best oysters** in the entire state.
-* Specializes in freshly shucked Pacific oysters sold directly from the farm gate at unbeatable prices.
-* Perfect for grabbing a few dozen to take with you to the beach or to enjoy later at your accommodation.
+- A very short detour toward Binalong Bay to hit a working oyster farm offering some of the **best oysters** in the entire state.
+- Specializes in freshly shucked Pacific oysters sold directly from the farm gate at unbeatable prices.
+- Perfect for grabbing a few dozen to take with you to the beach or to enjoy later at your accommodation.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23975.47967034553!2d148.24074736908145!3d-41.31027852786323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!5e0!3m2!1sen!2ssg!4v1773498140660!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Afternoon: Exploring the Bay of Fires**
 
 **Stop 1: Binalong Bay (The Main Hub)**
-* This is the iconic starting point for the Bay of Fires and has great, accessible parking.
-* Famous for its pure white sand, crystal-clear turquoise waters, and massive granite boulders draped in bright orange lichen.
-* Let the kids spend an hour or two safely climbing, rock-hopping, and exploring the shoreline—it makes for unforgettable family photos.
+- This is the iconic starting point for the Bay of Fires and has great, accessible parking.
+- Famous for its pure white sand, crystal-clear turquoise waters, and massive granite boulders draped in bright orange lichen.
+- Let the kids spend an hour or two safely climbing, rock-hopping, and exploring the shoreline—it makes for unforgettable family photos.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23989.860443760936!2d148.2724479189671!3d-41.27115870885399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!5e0!3m2!1sen!2ssg!4v1773498629657!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Stop 2: The Gardens (Scenic Drive)**
-* From Binalong Bay, take a slow, highly scenic 15-minute drive north along the coast road until it officially ends at "The Gardens".
-* You will pass numerous secluded beaches and lookout points along the way.
-* The viewing platform at the very end offers a stunning panoramic sweep of the coastline and is a fantastic, breezy spot to wrap up the afternoon before heading to your accommodation.
+- From Binalong Bay, take a slow, highly scenic 15-minute drive north along the coast road until it officially ends at "The Gardens".
+- You will pass numerous secluded beaches and lookout points along the way.
+- The viewing platform at the very end offers a stunning panoramic sweep of the coastline and is a fantastic, breezy spot to wrap up the afternoon before heading to your accommodation.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.9593153564!2d148.2487060562548!3d-41.2191017956656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!5e0!3m2!1sen!2ssg!4v1773498661401!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
