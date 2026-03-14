@@ -18,6 +18,7 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 **Reading materials and video guides:**
 - https://www.discovertasmania.com.au/
 - https://www.australia.com/en/places/tasmania.html
+- [Tasmania HOBART things to do, see, eat in 3 days travel - 2026 by Larry Lim](https://www.youtube.com/watch?v=BmJwo-EmAyE)
 
 **Pre booking of restaurants and attractions:**
 - **Gordon River Cruise (Strahan):** This is one of the biggest attractions on the West Coast, and you need to book your seat a few weeks in advance.
@@ -108,13 +109,23 @@ Meet up for dinner with Tim and family for dinner after arrival.
 
 Need to book flight to Hobart
 
+Dinner options:
+[Bar Wa Izakaya](https://www.barwaizakaya.com/). - 216-218 Elizabeth St, Hobart, TAS 7000
+
+**Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
+
 
 ## Day 2 - 23 May (Saturday) - Salamanca Market and Bonorong Wildlife Sanctuary
 <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2.webp" alt="Day 2 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
-**Morning: Salamanca Market**
+**Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home)**
 - **Hours:** 8:30 am to 3:00 pm
 - **Logistics:** Arrive early (around 8:30 am or 9:00 am). Parking around Salamanca Place can be notoriously difficult on market days, so if your accommodation is in the CBD, walking or taking a short taxi/rideshare is highly recommended. 
 - **Plan:** Grab coffee and breakfast at the market. It's an excellent spot to sample local Tasmanian pastries, scallop pies, and fresh produce.
+
+**From Tasmania HOBART things to do, see, eat in 3 days travel - 2026 YouTube Video:**
+- **Nearby Coffee:** [Parklane Expresso](https://www.facebook.com/3SalamancaSquare/) - [3 Salamanca Square Hobart, TAS, Australia, Tasmania 7004](https://maps.app.goo.gl/UA9j1HRAJEzwzN826)
+- **Smith Specialty Pies:** Scallop Pies are good, need to be early as they tend to sell out fast
+-  **Flamecake:** Pizzas are good.
 
 **Potential Lunch Options:**
 - **Machine Laundry Cafe:** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food.
@@ -134,6 +145,19 @@ Need to book flight to Hobart
 - **Hours:** Closes at 5:00 pm.
 - **Logistics:** Try to leave Hobart by 1:30 pm or 2:00 pm at the latest. This gives you a solid 2.5 to 3 hours to explore before they close.
 - **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. They also run free guided tours throughout the day, so check their daily schedule upon arrival to time your walkabout with the keeper talks.
+
+**Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d93694.29857732695!2d147.25470361628558!3d-42.789473883735326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e11cf7af2599d%3A0x30809560fff5e057!2sBonorong%20Wildlife%20Sanctuary%2C%20593%20Briggs%20Rd%2C%20Brighton%20TAS%207030%2C%20Australia!3m2!1d-42.708675799999995!2d147.2711546!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!5e0!3m2!1sen!2ssg!4v1773472281477!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+## Day 3 - 24 May (Sunday) - Farm Gate Market and MONA
+**Morning: [Farm Gate Market](https://farmgatemarket.com.au/)**
+- **Hours:** 8:30 am to 1:00 pm
+
+**Afternoon: Mount Wellington**
+
+
 
 
 ## Day 3 - 24 May (Sunday) - Bruny Island Day Trip
