@@ -244,6 +244,33 @@ Dinner options:
 * Evening Convenience: It is one of the very few spots in the Coles Bay area that reliably serves food later into the evening (open until 8:00 PM), making it a great safety net if your afternoon rockpooling runs long.
 
 
+## Day 5 - 26 May (Tuesday) - Freycinet to Bicheno
+
+**Morning: Grography Fieldtrip**
+
+[Bicheno Blowhole](https://tasmania.com/points-of-interest/bicheno-blowhole/) is a fantastic, quick coastal stop that always gets a laugh out of young kids. It’s a natural rock vent that channels the ocean swell and shoots a massive geyser of water high into the air.
+* Features a very short, easy walk from the car park right onto the coastal rocks.
+* The size of the spray depends entirely on the tide and swell, making it a fun surprise every time a wave rolls in.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d189793.5890772128!2d148.09970286908543!3d-41.989010793521565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!5e0!3m2!1sen!2ssg!4v1773481598507!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Bicheno Glass Bottom Boat](https://bichenoglassbottomboat.com/)
+* Adults $40Children $20( under 18) . under 3 free.
+* Tours at 10am, 12 noon, 2pm
+* Mid September to end April - So unfortunately we won't be able to make it this trip.
+
+[Whalers Lookout Scenic Reserve](https://www.discovertasmania.com.au/things-to-do/nature-and-wildlife/bichenowalkerslookoutreserve/) is the perfect spot to get your bearings and take in panoramic views of the entire Bicheno coastline.
+* Features a brief, 10-minute walk up a slightly steep but well-maintained path.
+* Offers two safe viewing platforms where you can often spot dolphins or migrating whales down below.
+
+[Lobster Shack Tasmania is just next door](https://www.lobstershacktasmania.com.au/)
+Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood experience right on the waterfront. It operates on a walk-in basis, which is great for large groups with kids, and has plenty of outdoor seating overlooking the bay.
+* Famous for their freshly caught southern rock lobsters and incredible lobster rolls.
+* Offers easy crowd-pleasers like fish and chips, plus local ice cream.
+* Keep in mind it closes at 7:00 PM, making it better suited for lunch or an early dinner before heading out to see the penguins.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.7241261507656!2d148.304187526781!3d-41.877281577019296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!5e0!3m2!1sen!2ssg!4v1773481633233!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 
@@ -272,7 +299,6 @@ This day is entirely about the journey. The drive from [Hobart to Strahan](https
 [Iron Blow Lookout](https://maps.app.goo.gl/wPkT78NGUwz4u6wZ6) is located just outside of [Queenstown](https://maps.app.goo.gl/ZZ2jasRdv3mruy1w6), presenting a striking contrast to the lush forests you drove through earlier.
 * Offers a dramatic, cantilevered viewing platform over an old open-cut copper mine.
 * The landscape here looks almost like the moon due to historical mining and logging, offering a very unique photo opportunity before making the final push into Strahan.
-
 
 ## Day 5 - 26 May (Tuesday) - Strahan to Lake St Clair + Gordon River Cruises - Long Drive Warning
 
