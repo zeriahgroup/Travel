@@ -255,6 +255,12 @@ Dinner options:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94851.15080365237!2d148.1495784787218!3d-42.01962010020829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!5e0!3m2!1sen!2ssg!4v1773482733770!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+**Off to see the Tasmanian Devil after breakfast**
+
+**Morning: [East Coast Natureworld](https://www.natureworld.com.au/)**
+* **Logistics:** Located just 5 minutes north of Bicheno. It opens at 9:00 am, making it a perfect first stop before heading into town. 
+* **Plan:** A massive 150-acre wildlife sanctuary. General admission usually includes roaming among the kangaroos and wallabies (you can buy feed for them). Check their schedule for the Tasmanian Devil feeding times—it is a great, safe way for the kids to see them active during the day.
+*  **Note:** Devil Feeding Timing is 10am, 12pm, 2pm
 
 [Bicheno Blowhole](https://tasmania.com/points-of-interest/bicheno-blowhole/) is a fantastic, quick coastal stop that always gets a laugh out of young kids. It’s a natural rock vent that channels the ocean swell and shoots a massive geyser of water high into the air.
 * Features a very short, easy walk from the car park right onto the coastal rocks.
