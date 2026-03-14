@@ -246,13 +246,22 @@ Dinner options:
 
 ## Day 5 - 26 May (Tuesday) - Freycinet to Bicheno
 
-**Morning: Grography Fieldtrip**
+**Morning: Breakfast at the Pondering Frog**
+[The Pondering Frog](https://www.ponderingfrog.com.au/) is located just south of Bicheno and is a brilliant, quirky stop either on your way into town or as an afternoon treat. The entire property is frog-themed, which is guaranteed to be a huge hit with your daughter and the other kids.
+
+* Famous for their handcrafted ice creams and massive sundaes.
+* Features an outdoor play area complete with a popular frog slide.
+* Also offers a full cafe menu, including their highly praised seafood chowder.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94851.15080365237!2d148.1495784787218!3d-42.01962010020829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!5e0!3m2!1sen!2ssg!4v1773482733770!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 [Bicheno Blowhole](https://tasmania.com/points-of-interest/bicheno-blowhole/) is a fantastic, quick coastal stop that always gets a laugh out of young kids. It’s a natural rock vent that channels the ocean swell and shoots a massive geyser of water high into the air.
 * Features a very short, easy walk from the car park right onto the coastal rocks.
 * The size of the spray depends entirely on the tide and swell, making it a fun surprise every time a wave rolls in.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d189793.5890772128!2d148.09970286908543!3d-41.989010793521565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!5e0!3m2!1sen!2ssg!4v1773481598507!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47506.27968471232!2d148.22045736445332!3d-41.91129571225575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!5e0!3m2!1sen!2ssg!4v1773482767930!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 [Bicheno Glass Bottom Boat](https://bichenoglassbottomboat.com/)
 * Adults $40Children $20( under 18) . under 3 free.
@@ -263,13 +272,43 @@ Dinner options:
 * Features a brief, 10-minute walk up a slightly steep but well-maintained path.
 * Offers two safe viewing platforms where you can often spot dolphins or migrating whales down below.
 
+**Lunch: Casual Coastal Eats**
+
 [Lobster Shack Tasmania is just next door](https://www.lobstershacktasmania.com.au/)
 Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood experience right on the waterfront. It operates on a walk-in basis, which is great for large groups with kids, and has plenty of outdoor seating overlooking the bay.
 * Famous for their freshly caught southern rock lobsters and incredible lobster rolls.
 * Offers easy crowd-pleasers like fish and chips, plus local ice cream.
 * Keep in mind it closes at 7:00 PM, making it better suited for lunch or an early dinner before heading out to see the penguins.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.7241261507656!2d148.304187526781!3d-41.877281577019296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!5e0!3m2!1sen!2ssg!4v1773481633233!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.7241261507656!2d148.304187526781!3d-41.877281577019296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!5e0!3m2!1sen!2ssg!4v1773482820266!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Evening: [Bicheno Penguin Tours](https://bichenopenguintours.com.au/)**
+* **Logistics:** *Pre-booking is essential.* In late May, sunset is early, so tours typically start around 5:15 pm to 5:30 pm. 
+* **The Experience:** A quiet, guided walk onto a private rookery to watch wild fairy penguins waddle up the beach from the ocean. 
+* **Crucial Tip:** It will be freezing cold standing still near the ocean in the dark. Ensure both families wear thermal base layers, heavy windproof coats, beanies, gloves, and thick enclosed shoes.
+
+
+
+
+[Sealife Restaurant & Cafe](https://www.sealiferestaurantbicheno.com.au/) provides a more traditional sit-down dinner option without losing the relaxed coastal vibe. The restaurant overlooks the water and rocks, providing a very picturesque setting for the two families to recount the day's adventures.
+
+* Features a diverse menu of local seafood, including shared platters that are perfect for a large group.
+* Known for having friendly staff and a very welcoming atmosphere.
+* Open until 9:00 PM most days (closed Tuesdays and Wednesdays), making it a reliable spot if your afternoon activities run late.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.8704448815697!2d148.3009652767807!3d-41.87413377682302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa7142f258722675%3A0x4327b5159e9a4a3c!2sSealife%20Restaurant%26Caf%C3%A9%2C%201%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8726412!2d148.2988119!5e0!3m2!1sen!2ssg!4v1773482883018!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Blue Edge Bakery](https://www.facebook.com/people/Blue-Edge-Bakery-Bicheno/100063557649916/) is widely considered the best bakery in town and serves as the perfect pit stop to grab food on the go or sit down for a quick, hearty breakfast.
+
+* Known for their award-winning scallop pies, a classic Tasmanian staple you should definitely try.
+* Offers a massive variety of sweet pastries, sausage rolls, and excellent coffee.
+* Closes at 3:00 PM, so it is strictly a morning or early afternoon option.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1485.4120554352394!2d148.30498178903156!3d-41.87513059563312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa71418308defa6b%3A0x9c1b855443f5fa54!2sBlue%20Edge%20Bakery%2C%2055%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8758924!2d148.3041975!5e0!3m2!1sen!2ssg!4v1773482913930!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Bicheno Penguin Tours Tasmania](https://bichenopenguintours.com.au/)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1485.4150930517258!2d148.3047559890317!3d-41.87499989562894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa71427ec7befa79%3A0x34445bc159e6a505!2sBicheno%20Penguin%20Tours%20and%20Bicheno%20Surf%20Shop%2C%20Unit%201%2F70%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.875182099999996!2d148.3034619!5e0!3m2!1sen!2ssg!4v1773482952812!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
