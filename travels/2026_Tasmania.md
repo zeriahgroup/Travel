@@ -16,8 +16,8 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 ## Pre Trip Preparations
 
 **Reading materials and video guides:**
-- https://www.discovertasmania.com.au/
-- https://www.australia.com/en/places/tasmania.html
+- (https://www.discovertasmania.com.au/)
+- (https://www.australia.com/en/places/tasmania.html)
 - [Tasmania HOBART things to do, see, eat in 3 days travel - 2026 by Larry Lim](https://www.youtube.com/watch?v=BmJwo-EmAyE)
 - [Hobart Tasmania Travel Guide: Best Things To Do, See & Eat! - by Bucket List Travellers](https://youtu.be/Osf3JqaRvWY?si=PMxvBFvzQnkkdsX6)
 - [TASMANIA TRAVEL GUIDE - Top Things to Do & Travel Tips Tasmania, Australia (Watch Before You Go!) - by CJ Explores](https://www.youtube.com/watch?v=BlSXfLW9VDE)
@@ -380,6 +380,45 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 
 Maybe sleep at St Helens?
+
+Then next day go Launceston?
+
+## Day 7 - 28 May (Thursday) - Bay of Fires to Launceston
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7.webp" alt="Day 7 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+
+**Morning: The Scenic Drive West**
+
+**Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls)**
+- A breathtaking natural attraction located a short drive off the Tasman Highway, serving as an excellent place to stretch your legs.
+- Features a very easy, 15-minute paved downhill walk through giant, ancient tree ferns that feel like a prehistoric jungle to young kids.
+- Showcases one of Tasmania's tallest and most spectacular waterfalls, which flows heavily year-round.
+
+**Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/)**
+- Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
+- Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
+- Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
+
+<div style="clear: both;"></div>
+
+**Afternoon: Exploring Launceston**
+
+**Stop 3: [Cataract Gorge Reserve](https://tasmania.com/points-of-interest/cataract-gorge/)**
+- Once you arrive in Launceston, head straight to this natural oasis located just a stroll from the city center.
+- You can walk the scenic gorge, take in the towering cliffs, and ride the world's longest single-span chairlift for incredible views.
+- Keep an eye out for the abundant wildlife; peacocks roam the grounds freely, and wallabies are frequently spotted.
+
+**Dinner: A Relaxed Group Meal**
+
+**[Stillwater Restaurant and Stillwater Seven Accommodation](https://www.stillwater.net.au/)**
+- Located inside a beautifully restored 1830s flour mill near the gorge entrance, offering a relaxed but premium dining experience.
+- Focuses heavily on fresh Tasmanian produce and offers a great environment to recount the day's travels.
+- Because it is highly popular, booking ahead for a large group is essential to secure a great table!
+
+
+
+
+
 
 ## Paused Here for now, haven't update beyond this point
 
