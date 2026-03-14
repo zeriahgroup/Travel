@@ -154,41 +154,84 @@ Dinner options:
 
 ---
 
-## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington
+## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington and off to Freycinet
 
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/)**
 - **Hours:** 8:30 am to 1:00 pm
+- **Settle lunch before heading off to Mount Wellington**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.876095856063!2d147.34085937370634!3d-42.870532650980756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!5e0!3m2!1sen!2ssg!4v1773472517510!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Afternoon: Mount Wellington**
+**Afternoon: Mount Wellington - 12pm to 2pm**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23381.809907939503!2d147.26107442379396!3d-42.89972236572067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!5e0!3m2!1sen!2ssg!4v1773472545687!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Evening: Drive to Freycinet**
+**Afternoon: Drive to Freycinet**
 
-**Stop 1: Richmond Bridge**
+**Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - 2pm to 3pm**
 - Constructed between 1823 and 1825, it is the oldest bridge in Australia.
 - Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375649.4012415994!2d147.26018013475888!3d-42.64522756010432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!5e0!3m2!1sen!2ssg!4v1773473374978!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Stop 2: Kate's Berry Farm**
+**Stop 2: [Kate's Berry Farm](https://katesberryfarm.com/) - 3pm to 6pm incl. 2hr drive**
 - Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
 - Specializes in homemade jams and spectacular fresh berry desserts.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d376755.941087743!2d147.42181322798115!3d-42.461657530531035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!5e0!3m2!1sen!2ssg!4v1773473454663!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Dinner: Devil's Corner Cellar Door**
+**Dinner: [Devil's Corner Cellar Door](https://www.devilscorner.com.au/visit/cellar-door) - 6pm to 8pm incl. 25 min drive**
 - Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
 - Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79642.38242361129!2d148.12467293154344!3d-42.11330133328294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil's%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773473715031!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Final Stretch**
-- After dinner, continue the journey to 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay for the night.
+**Final Stretch - 8pm to 9pm, wash up and sleep**
+- After dinner, continue the journey to [Archella 2 - 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay](https://www.booking.com/Share-qsu4Nt) for the night.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94844.62410648282!2d148.11838777893394!3d-42.02399550851483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!5e0!3m2!1sen!2ssg!4v1773474495327!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+## Day 4 - 25 May (Monday) - Exploring Freycinet National Park
+
+**Morning: The Iconic Viewpoint**
+
+[Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/) is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp.
+* Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
+* Offers the famous, sweeping vista of the curved white beach and turquoise water.
+* Presents a great opportunity to spot native wildlife, including friendly wallabies, along the trail.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47345.34191535596!2d148.23158101702896!3d-42.127087722855066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa73d5998ea6545d%3A0x2912f5469a35d174!2sWineglass%20Bay%20Lookout%2C%20Unnamed%20Rd%2C%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1548875!2d148.29343649999998!5e0!3m2!1sen!2ssg!4v1773476841706!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Mid-Day: An Easy Coastal Stroll**
+
+[Cape Tourville Lighthouse and Lookout](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/cape-tourville) provides an incredibly easy alternative or add-on to the Wineglass Bay hike, giving you dramatic ocean views without the steep climb. This makes it a perfect, low-effort stop to take in the rugged coastline before lunch.
+* Features a 20-minute, flat, and fully fenced boardwalk loop.
+* Highly accessible for young kids, strollers, and those wanting a relaxed, breezy pace.
+* Offers sweeping, elevated views out to the Tasman Sea and down to the Hazards mountain range.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23668.85303379176!2d148.29482712151776!3d-42.1373038340393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d5998ea6545d%3A0x2912f5469a35d174!2sWineglass%20Bay%20Lookout%2C%20Unnamed%20Rd%2C%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1548875!2d148.29343649999998!4m5!1s0xaa73d66bdff166b1%3A0x5b5a9c55ed9ea3b1!2sCape%20Tourville%20Lighthouse%20and%20Lookout%2C%20Freycinet%20National%20Park%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1227042!2d148.3427352!5e0!3m2!1sen!2ssg!4v1773476792940!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Lunch: Fresh Local Seafood**
+
+[Freycinet Marine Farm](https://www.freycinetmarinefarm.com/) is a staple stop when visiting the area, offering a casual, rustic dining experience right near the water. It is an excellent spot to regroup and indulge in some of the region's famous seafood midway through your day.
+* Specializes in freshly harvested oysters and mussels sourced directly from their farm.
+* Offers casual outdoor seating with a very relaxed, family-friendly vibe.
+* Features non-seafood options and hot chips, making it an easy crowd-pleaser for the kids.
+
+**Afternoon: Rockpooling and Relaxation**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47361.038055122655!2d148.24659276677787!3d-42.10608130229604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d66bdff166b1%3A0x5b5a9c55ed9ea3b1!2sCape%20Tourville%20Lighthouse%20and%20Lookout%2C%20Freycinet%20National%20Park%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1227042!2d148.3427352!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!5e0!3m2!1sen!2ssg!4v1773477400727!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Honeymoon Bay](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/richardsons-beach-honeymoon-bay-and-ranger-creek-camping) is a beautiful, sheltered cove that serves as a fantastic spot to wind down your afternoon. The calm waters and striking granite boulders make it a highly picturesque and safe environment for families.
+* Features crystal-clear, shallow water that is ideal for kids to wade in safely.
+* Surrounded by striking red granite rocks that are perfect for scrambling and rockpooling.
+* Provides a stunning backdrop of the Hazards mountains, making it an excellent spot for family photos.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d16753.665060032636!2d148.20592289966623!3d-42.071959275253676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!4m5!1s0xaa73d5f036fe68ad%3A0xf8ddd8f34c701104!2sHoneymoon%20Bay%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1369086!2d148.2986157!5e0!3m2!1sen!2ssg!4v1773477360889!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
 
 
 ## Day 4 - 25 May (Monday) - Hobart to Strahan (The Western Wilds Drive) - Long Drive Warning
