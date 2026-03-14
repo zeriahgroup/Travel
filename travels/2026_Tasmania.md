@@ -19,7 +19,8 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 - https://www.discovertasmania.com.au/
 - https://www.australia.com/en/places/tasmania.html
 - [Tasmania HOBART things to do, see, eat in 3 days travel - 2026 by Larry Lim](https://www.youtube.com/watch?v=BmJwo-EmAyE)
-- Hobart Tasmania Travel Guide: Best Things To Do, See & Eat!
+- [Hobart Tasmania Travel Guide: Best Things To Do, See & Eat! - by Bucket List Travellers](https://youtu.be/Osf3JqaRvWY?si=PMxvBFvzQnkkdsX6)
+- [TASMANIA TRAVEL GUIDE - Top Things to Do & Travel Tips Tasmania, Australia (Watch Before You Go!) - by CJ Explores](https://www.youtube.com/watch?v=BlSXfLW9VDE)
 
 **Pre booking of restaurants and attractions:**
 - **Gordon River Cruise (Strahan):** This is one of the biggest attractions on the West Coast, and you need to book your seat a few weeks in advance.
