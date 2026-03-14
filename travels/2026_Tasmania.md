@@ -157,8 +157,8 @@ Dinner options:
 ## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington and off to Freycinet
 
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/)**
-- **Hours:** 8:30 am to 1:00 pm
-- **Settle lunch before heading off to Mount Wellington**
+* **Hours:** 8:30 am to 1:00 pm
+* **Settle early lunch before heading off to Mount Wellington**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.876095856063!2d147.34085937370634!3d-42.870532650980756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!5e0!3m2!1sen!2ssg!4v1773472517510!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -169,25 +169,28 @@ Dinner options:
 **Afternoon: Drive to Freycinet**
 
 **Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - 2pm to 3pm**
-- Constructed between 1823 and 1825, it is the oldest bridge in Australia.
-- Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
+* Might skip this since Kate's Berry Farm closes at 3pm
+* Constructed between 1823 and 1825, it is the oldest bridge in Australia.
+* Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375649.4012415994!2d147.26018013475888!3d-42.64522756010432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!5e0!3m2!1sen!2ssg!4v1773473374978!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Stop 2: [Kate's Berry Farm](https://katesberryfarm.com/) - 3pm to 6pm incl. 2hr drive**
-- Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
-- Specializes in homemade jams and spectacular fresh berry desserts.
+* **Hours:** Saturday to Tuesday, 9am to 3pm
+* Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
+* Specializes in homemade jams and spectacular fresh berry desserts.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d376755.941087743!2d147.42181322798115!3d-42.461657530531035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!5e0!3m2!1sen!2ssg!4v1773473454663!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Dinner: [Devil's Corner Cellar Door](https://www.devilscorner.com.au/visit/cellar-door) - 6pm to 8pm incl. 25 min drive**
-- Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
-- Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
+* **Hours:** Open Daily from 10am to 5pm, Last Hosted Tasting and Tasting Paddles 4:30pm
+* Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
+* Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79642.38242361129!2d148.12467293154344!3d-42.11330133328294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil's%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773473715031!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Final Stretch - 8pm to 9pm, wash up and sleep**
-- After dinner, continue the journey to [Archella 2 - 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay](https://www.booking.com/Share-qsu4Nt) for the night.
+* After dinner, continue the journey to [Archella 2 - 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay](https://www.booking.com/Share-qsu4Nt) for the night.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94844.62410648282!2d148.11838777893394!3d-42.02399550851483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!5e0!3m2!1sen!2ssg!4v1773474495327!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -322,49 +325,6 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 ## Day 6 - 27 May (Wednesday) - Bicheno to Bay of Fires
 
-A great first stop right after leaving town is [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge), which offers a peaceful and highly accessible slice of the Douglas-Apsley National Park. It is an excellent way to get the kids moving early in the day before settling in for the longer stretch of driving.
-
-* Features a very short, flat 10 to 15-minute walk from the car park.
-* Visitors often mention the clarity of the waterhole and the beautiful surrounding eucalyptus forest.
-* The track is well-maintained and highly suitable for young children.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47542.641920965005!2d148.2018996638712!3d-41.8624143147344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!5e0!3m2!1sen!2ssg!4v1773497511450!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-Located almost exactly halfway to St Helens is the [Iron House Brewery Distillery & Vineyard](https://www.ironhouse.com.au/), which serves as the perfect mid-morning or early lunch rest stop. The venue is situated on the White Sands Estate right against the coastline, offering spectacular ocean views.
-
-* Reviewers report that the massive outdoor lawns are perfect for kids to safely run around and stretch their legs.
-* Offers a diverse menu including hearty pub-style food, alongside tasting paddles of their own craft beer, wine, and spirits for the adults.
-* Features a very relaxed, welcoming atmosphere that easily accommodates larger groups without feeling cramped.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d190587.41300953252!2d148.08700666586893!3d-41.722065396937474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!5e0!3m2!1sen!2ssg!4v1773497762753!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-Once you reach the town of St Helens, [Skippers Fish Shop](https://www.facebook.com/skippersfish/) is a highly recommended stop to grab a casual lunch before heading out to the Bay of Fires rocks. It operates as a floating fish punt moored right at the marina, adding a fun novelty to the meal.
-
-* Known for serving incredibly fresh, locally caught fish and chips.
-* Visitors frequently praise the generous portion sizes and the crispy batter.
-* Provides an authentic, unfussy East Coast dining experience right on the water.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191386.90466291885!2d148.11137086222647!3d-41.45179675465096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!5e0!3m2!1sen!2ssg!4v1773497840954!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-If you appreciate the satisfaction of enjoying a fresh catch pulled straight from the water, taking a very short detour toward Binalong Bay to hit [Lease 65](https://www.tripadvisor.com.au/Restaurant_Review-g504328-d7801753-Reviews-Lease_65-St_Helens_Break_O_Day_Tasmania.html) is an absolute must. This is a working oyster farm offering some of the **best oysters** in the entire state.
-
-* Specializes in freshly shucked Pacific oysters sold directly from the farm gate.
-* Reviewers constantly highlight the incredible freshness and unbeatable prices.
-* Perfect for grabbing a few dozen to take with you to the beach or to enjoy later at your accommodation.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23975.47967034553!2d148.24074736908145!3d-41.31027852786323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!5e0!3m2!1sen!2ssg!4v1773498140660!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-
-## Paused Here for now, haven't update beyond this point
-
-## Day 6 - 27 May (Wednesday) - Bicheno to Bay of Fires
-
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_6.webp" alt="Day 6 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
-
 **Morning: The Scenic Drive North**
 
 **Stop 1: [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge)**
@@ -407,17 +367,19 @@ If you appreciate the satisfaction of enjoying a fresh catch pulled straight fro
 * Famous for its pure white sand, crystal-clear turquoise waters, and massive granite boulders draped in bright orange lichen.
 * Let the kids spend an hour or two safely climbing, rock-hopping, and exploring the shoreline—it makes for unforgettable family photos.
 
-<iframe src="https://www.google.com/maps/contrib/108799308120124643457/reviews" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23989.860443760936!2d148.2724479189671!3d-41.27115870885399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!5e0!3m2!1sen!2ssg!4v1773498629657!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Stop 2: The Gardens (Scenic Drive)**
 * From Binalong Bay, take a slow, highly scenic 15-minute drive north along the coast road until it officially ends at "The Gardens".
 * You will pass numerous secluded beaches and lookout points along the way.
 * The viewing platform at the very end offers a stunning panoramic sweep of the coastline and is a fantastic, breezy spot to wrap up the afternoon before heading to your accommodation.
 
-<iframe src="https://maps.app.goo.gl/XouJ922NmLEBKGVo90" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.9593153564!2d148.2487060562548!3d-41.2191017956656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!5e0!3m2!1sen!2ssg!4v1773498661401!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+Maybe sleep at St Helens?
 
+## Paused Here for now, haven't update beyond this point
 
 
 ## Day 4 - 25 May (Monday) - Hobart to Strahan (The Western Wilds Drive) - Long Drive Warning
