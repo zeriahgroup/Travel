@@ -186,41 +186,9 @@ Dinner options:
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79642.38242361129!2d148.12467293154344!3d-42.11330133328294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate's%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil's%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773473715031!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Final Stretch**
-- After dinner, continue the journey to Freycinet for the night.
+- After dinner, continue the journey to 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay for the night.
 
-
-
-## Day 3 - 24 May (Sunday) - Bruny Island Day Trip
-
-**Morning: The Ferry & The Neck**
-
-- **Drive:** Hobart to [Bruny Island Ferry](https://maps.app.goo.gl/fNkwqUtjs9CSN4VX6) terminal in Kettering (Approx. 35km, 40-minute drive).
-- **Ferry Crossing:** The SeaLink ferry takes about 20 minutes and you drive your cars right onto it. *Note: You do not need to pre-book the ferry, it operates on a first-come, first-served basis. Aim for a ferry around 9:00 am or 9:30 am to beat the main crowds.*
-
-- **First Stop:** Once on the island, drive south for about 30 minutes to [Truganini Lookout](https://maps.app.goo.gl/9PzazSsRQSsvn6Ab6) (often just called "The Neck"). 
-  - This is the iconic narrow strip of land connecting North and South Bruny. 
-  - There are timber stairs leading up to an observation deck with 360-degree views. It’s a great spot to stretch your legs.
-
-**Lunch: Local Produce Grazing**
-- **Logistics:** Head back slightly north to Great Bay. The two most famous food stops on the island are just a 2-minute drive from each other, making it very easy to split up or do both.
-
-- **Option 1:** [Get Shucked]([http://googleusercontent.com/map_location_reference/4](https://maps.app.goo.gl/ZGFAg7kB1hTedyqVA))
-  - Basically a drive-thru and sit-down oyster farm. Highly recommended for the adults in the group to grab a platter of freshly harvested oysters.
-
-- **Option 2:** [Bruny Island Cheese Company]([http://googleusercontent.com/map_location_reference/6](https://maps.app.goo.gl/irSigN6SXqRsgMkJ9))
-  - Perfect for the kids. Offers amazing locally produced craft cheeses, fresh bread, and wood-fired pizzas. It has outdoor picnic tables where the families can gather and eat.
-
-**Afternoon: South Bruny Views**
-
-- **Drive:** Head all the way down to the southern tip of the island to the [Cape Bruny Lighthouse](https://maps.app.goo.gl/TGRxBapJa3inKnKL9) (Approx. 45-minute drive from the lunch spot).
-- **Logistics:** The final stretch of this road is unsealed (gravel), so take it slow with the rental cars.
-- **Plan:** Explore the grounds of the 1836 lighthouse. The views over the Southern Ocean are spectacular, and the wide-open spaces are perfect for the kids to run off some energy before the drive back.
-
-**Late Afternoon: Return to Hobart**
-- **Logistics:** Leave the lighthouse by 3:30 pm to start the drive back up to the ferry terminal. Aim to catch a ferry around 5:00 pm or 5:30 pm back to Kettering, which will get you back to your accommodation in Hobart in time for a late dinner.
-
-**Day ends in Hobart**
-- **Pack up:** We will be leaving Hobart and transiting to Strahan tomorrow, so need to pack in the evening.
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94844.62410648282!2d148.11838777893394!3d-42.02399550851483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!5e0!3m2!1sen!2ssg!4v1773474495327!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Day 4 - 25 May (Monday) - Hobart to Strahan (The Western Wilds Drive) - Long Drive Warning
