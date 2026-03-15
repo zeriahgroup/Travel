@@ -441,9 +441,10 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Waterfront & Seafood**
 
-**Rupert & Hound** is situated right on the picturesque North Esk River at the Seaport, offering a contemporary waterfront dining experience. It is an excellent choice to indulge in fresh East Coast seafood in a slightly more elevated but unfussy setting.
-Features local, sustainably caught seafood cooked to perfection.
-Provides a very relaxed, stylish, and spacious riverside environment.
+**[Rupert & Hound](https://rupertandhound.com.au/)** is situated right on the picturesque North Esk River at the Seaport, offering a contemporary waterfront dining experience. It is an excellent choice to indulge in fresh East Coast seafood in a slightly more elevated but unfussy setting.
+- Features local, sustainably caught seafood cooked to perfection.
+- Provides a very relaxed, stylish, and spacious riverside environment.
+- Hours: Wednesday to Sunday 11.30am till late
 
 **Bustling & Family-Centric**
 
