@@ -77,8 +77,9 @@ Pre-booking is **essential** (ideally 1 to 2 months in advance), especially sinc
 
 ### Seahorse World and Platypus House Booking Guide
 
-- **Seahorse World:** All visits are via a 45-minute guided tour. Pre-booking online is highly recommended to guarantee your preferred time slot, as tours frequently sell out. *Note: If you plan to do the specialized Kids Discovery Program, you must book this well in advance as spots are strictly capped at 25 children.*
-- **Platypus House:** Located on the exact same pier as Seahorse World. Bookings are **essential** as entry is strictly by guided tour only (usually running on the hour). Book your time slot online ahead of time so you can easily coordinate it back-to-back with your Seahorse World visit.
+- **[Seahorse World](https://seahorseworld.com.au/):** All visits are via a 45-minute guided tour. Pre-booking online is highly recommended to guarantee your preferred time slot, as tours frequently sell out. *Note: If you plan to do the specialized Kids Discovery Program, you must book this well in advance as spots are strictly capped at 25 children.*
+
+- **[Platypus House](https://platypushouse.com.au/):** Located on the exact same pier as Seahorse World. Bookings are **essential** as entry is strictly by guided tour only (usually running on the hour). Book your time slot online ahead of time so you can easily coordinate it back-to-back with your Seahorse World visit.
 
 
 ### Bicheno Penguin Tours Booking Guide
