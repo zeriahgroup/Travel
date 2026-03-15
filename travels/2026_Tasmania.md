@@ -116,6 +116,7 @@ Dinner options:
 [Bar Wa Izakaya](https://www.barwaizakaya.com/). - 216-218 Elizabeth St, Hobart, TAS 7000
 - Food Served All day 12pm-11pm
 - Ramen 12pm-3pm
+- Reservations: mailto:barwaizakaya@gmail.com
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
