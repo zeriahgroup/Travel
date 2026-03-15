@@ -499,12 +499,6 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Need to find lodging in Launceston**
 
-## Day 8 - 29 May (Friday) - [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/) and the long trip back to Hobart
-
-**Morning Breakfast at Banjo’s Bakery Café before travelling northbound to Seahorse World and Platapus House**
-
-
-
 ## Day 8 - 29 May (Friday) - Tamar Valley & The Heritage Highway
 
 **Morning: Breakfast & Beauty Point Wildlife**
