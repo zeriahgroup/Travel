@@ -447,17 +447,18 @@ Provides a very relaxed, stylish, and spacious riverside environment.
 
 **Bustling & Family-Centric**
 
-**Du Cane Brewery & Dining Hall** leans into Launceston's reputation as Tasmania's brewing heartland. This massive dining hall is arguably one of the most family-friendly venues in the city, providing a vibrant atmosphere where the kids can safely play while the adults enjoy local craft beers.
+**[Du Cane Brewery & Dining Hall](https://ducanebrewing.com.au/)** leans into Launceston's reputation as Tasmania's brewing heartland. This massive dining hall is arguably one of the most family-friendly venues in the city, providing a vibrant atmosphere where the kids can safely play while the adults enjoy **local craft beers**.
 
-- Famous for their fantastic wood-fired pizzas, which include great gluten-free options.
+- Famous for their fantastic **wood-fired pizzas**, which include great gluten-free options.
 - Features a dedicated, separate play area complete with a mini rock-climbing wall to keep the younger ones highly entertained.
 
 **Historic Novelty**
 
-**Jailhouse Grill** is set inside a heritage-listed 1800s building and leans into a playful convict theme that adds a layer of history and novelty to dinner. It is a long-standing local institution perfect for hearty, comforting meals.
+**[Jailhouse Grill](https://jailhousegrill.com.au/)** is set inside a heritage-listed 1800s building and leans into a playful convict theme that adds a layer of history and novelty to dinner. It is a long-standing local institution perfect for hearty, comforting meals.
 
-- Specializes in area-sourced steaks and high-quality local meats.
+- Specializes in **area-sourced steaks and high-quality local meats**.
 - Offers a diverse menu that includes a dedicated children's selection, ensuring even the pickiest eaters are covered.
+- 
 
 **Interactive Dining**
 
@@ -665,4 +666,7 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Departing:** 13:00, Monday 01 Jun 2026, Melbourne International Terminal 2
 - **Arriving:** 19:05, Monday 01 Jun 2026, Changi Airport Terminal 2
 
-
+## Cost Summary in SGD - AUDSGD 0.9000
+| Item | Cost in AUD | Cost in SGD Equivalent |
+|-------------------------|----------|----------|
+| Car Rental | 1083.90 | 975.51 |
