@@ -378,26 +378,25 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.9593153564!2d148.2487060562548!3d-41.2191017956656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!5e0!3m2!1sen!2ssg!4v1773498661401!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+**Need to find lodging in St Helens**
 
-Maybe sleep at St Helens?
-
-Then next day go Launceston?
-
-## Day 7 - 28 May (Thursday) - Bay of Fires to Launceston
-
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7.webp" alt="Day 7 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+## Day 7 - 28 May (Thursday) - St Helens to Launceston
 
 **Morning: The Scenic Drive West**
 
-**Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls)**
+**Stop 1: [Pyengana Dairy Company](https://pyenganadairy.com.au/)**
+- Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
+- Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
+- Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d7130.076582401377!2d147.9865095400205!3d-41.290848116446625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7721203ffc86d3%3A0x503c94dd0de1330!2sSt%20Helens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.321794499999996!2d148.2498127!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!5e0!3m2!1sen!2ssg!4v1773543060440!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Stop 2: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls)**
 - A breathtaking natural attraction located a short drive off the Tasman Highway, serving as an excellent place to stretch your legs.
 - Features a very easy, 15-minute paved downhill walk through giant, ancient tree ferns that feel like a prehistoric jungle to young kids.
 - Showcases one of Tasmania's tallest and most spectacular waterfalls, which flows heavily year-round.
 
-**Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/)**
-- Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
-- Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
-- Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23977.11809602253!2d147.94401961906834!3d-41.30582307569729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!5e0!3m2!1sen!2ssg!4v1773543096577!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div style="clear: both;"></div>
 
