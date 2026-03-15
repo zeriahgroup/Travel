@@ -485,13 +485,13 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Features a massive daily selection of handmade sweet treats, donuts, muffins, and freshly baked bread.
 - **Hours:** 5am to 6pm daily
 
-The Trendy & Wholesome Cafe
+**The Trendy & Wholesome Cafe**
 
 **[Earthy Eats](https://earthyeats.com.au/)** offers a completely different vibe, focusing heavily on sustainable, organic Tasmanian produce in a bright, plant-filled environment. Reviewers consistently praise it as a fantastic, welcoming spot for a relaxed sit-down brunch or a high-quality coffee break.
 
 - Features a highly accommodating, health-conscious menu with excellent gluten-free, vegetarian, and vegan options.
 - Showcases beautifully presented dishes utilizing fresh, locally sourced ingredients like seasonal vegetables and quality meats.
-- Boasts a warm, community-focused atmosphere and artisanal coffee that reviewers often compare to Melbourne's cafe standards.
+- Boasts a warm, community-focused atmosphere and **artisanal coffee** that reviewers often compare to Melbourne's cafe standards.
 - **Hours:** 8am to 2.30pm daily
 - <earthyeats.tas@outlook.com>
 
@@ -499,14 +499,67 @@ The Trendy & Wholesome Cafe
 
 **Need to find lodging in Launceston**
 
-## Day 8 - 29 May (Friday) - Seahorse World and Platypus House and the long trip back to Hobart?
+## Day 8 - 29 May (Friday) - [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/) and the long trip back to Hobart
+
+**Morning Breakfast at Banjo’s Bakery Café before travelling northbound to Seahorse World and Platapus House**
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191847.00024713625!2d146.80915953133476!3d-41.295605167474484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa70a6e12e84fd5d%3A0x503c94dd0de1990!2sLaunceston%2C%20Tasmania%207250%2C%20Australia!3m2!1d-41.439068!2d147.13576709999998!4m5!1s0xaa7a20ef14de3c8d%3A0x7c2fd2cb2c96f05b!2sSeahorse%20World%2C%20200%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1498251!2d146.8239447!5e0!3m2!1sen!2ssg!4v1773567541205!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## Day 8 - 29 May (Friday) - Tamar Valley & The Heritage Highway
+
+**Morning: Breakfast & Beauty Point Wildlife**
+
+**Stop 1: [Banjo’s Bakery Café](https://banjos.com.au/launceston)**
+- A highly popular, casual bakery that serves as a staple for locals wanting a quick, comforting meal before hitting the road.
+- Famous for their hearty savory pastries, including traditional Tasmanian scallop pies and sausage rolls.
+- **Hours:** 5am to 6pm daily
 
 
+**Stop 2: [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/)**
+- Located side-by-side on the pier in Beauty Point (about a 45-minute drive from Launceston). 
+- Seahorse World offers a fascinating behind-the-scenes look at a working seahorse farm, while Platypus House guarantees close-up views of active platypuses and echidnas in daylight.
+- Remember to book before visiting
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191847.0002471363!2d146.8120010813348!3d-41.29560516747447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa70a6de7dba09d7%3A0x8e0c20b7ba5c23a6!2sBanjo%E2%80%99s%20Bakery%20Caf%C3%A9%20%E2%80%93%20Launceston%2C%2098%2F100%20Brisbane%20St%2C%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4370392!2d147.13912349999998!4m5!1s0xaa7a20ef14de3c8d%3A0x7c2fd2cb2c96f05b!2sSeahorse%20World%2C%20200%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1498251!2d146.8239447!5e0!3m2!1sen!2ssg!4v1773569204098!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Lunch: Waterfront Dining**
+
+**[Beauty Point Waterfront Hotel](https://www.beautypointhotel.com.au/restaurant-bar)**
+- A fantastic option for a hearty pub lunch located just a few minutes down the road from the wildlife attractions.
+- Features classic, crowd-pleasing pub fare with sweeping views across the Tamar River and a dedicated kids' menu.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6008.159647181483!2d146.81814164830155!3d-41.15460950717292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7a20ef14de3c8d%3A0x92e14f5f725739cc!2sPlatypus%20House%2C%20200%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1503039!2d146.8241593!4m5!1s0xaa7a20fc566e8f75%3A0xc2ba4073474fc369!2sBeauty%20Point%20Waterfront%20Hotel%2C%20116%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1587185!2d146.8230351!5e0!3m2!1sen!2ssg!4v1773571020704!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**Afternoon: The Drive South to Hobart**
+
+**Stop 1: [The Red Bridge (Campbell Town)](https://enjoytasmania.com.au/things-to-do/campbell-town/red-bridge/)**
+- Roughly an hour south of Launceston, this is the perfect first rest stop to let the kids stretch their legs.
+- Built by convicts in 1838, it remains the oldest surviving brick bridge in Australia, located right next to a lovely riverside park.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d757599.3853573549!2d146.75948837614368!3d-42.12090602229162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7a20fc566e8f75%3A0xc2ba4073474fc369!2sBeauty%20Point%20Waterfront%20Hotel%2C%20116%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1587185!2d146.8230351!4m5!1s0xaa71001f33b05d89%3A0x7725b38f1a082d21!2sThe%20Red%20Bridge%2C%20139%20High%20St%2C%20Campbell%20Town%20TAS%207210%2C%20Australia!3m2!1d-41.932953!2d147.49275799999998!5e0!3m2!1sen!2ssg!4v1773571092943!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**Stop 2: [Ross Bakery (Ross)](https://www.rossbakery.com.au/)**
+- Located just a tiny bit further south in the stunning heritage village of Ross, making for an absolute must-visit afternoon treat stop.
+- Highly renowned for having the **best vanilla slice** in Tasmania, baked in a traditional semi-scotch wood-fired oven from the 1800s.
+- **Hours:** Wednesday to Sunday 8.30am to 3pm
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79833.90838492343!2d147.45857667765299!3d-41.9606562499225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71001f33b05d89%3A0x7725b38f1a082d21!2sThe%20Red%20Bridge%2C%20139%20High%20St%2C%20Campbell%20Town%20TAS%207210%2C%20Australia!3m2!1d-41.932953!2d147.49275799999998!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!5e0!3m2!1sen!2ssg!4v1773571136712!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**Stop 3: [Callington Mill Distillery (Oatlands)](https://callingtonmilldistillery.com/)**
+- A striking final rest stop about an hour outside of Hobart in a town featuring the largest collection of sandstone buildings in the country.
+- Showcases a massive, beautifully restored 1832 Lincolnshire windmill and provides very easy, flat walking paths around the grounds.
+- **Hours:** Wed, Thurs, Sunday: 2:00pm – 10:00pm Fri, Sat: 2:00pm - 11:30 pm
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d189273.92385132727!2d147.26967280389835!3d-42.16301646903537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!5e0!3m2!1sen!2ssg!4v1773571359479!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**Evening: Arrival in Hobart**
+- Complete the final leg of the drive down the Midland Highway to check into your Hobart accommodation and rest up before your flight home.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375973.481310407!2d147.0463147888539!3d-42.59153039789014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!5e0!3m2!1sen!2ssg!4v1773571416095!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
