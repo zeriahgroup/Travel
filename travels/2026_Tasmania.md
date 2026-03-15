@@ -396,6 +396,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
 - Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
 - Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
+- **Hours:** Wednesday to Sunday 9.00am till 3.00pm.
 - **Note:** We will likely settle lunch here before embarking on a 2h 12min drive to Caratact Gorge for a hike to work off those calories.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23977.11809602253!2d147.94401961906834!3d-41.30582307569729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!5e0!3m2!1sen!2ssg!4v1773543516689!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -409,17 +410,40 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d383677.1437175427!2d147.2362773948017!3d-41.29847076109606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!4m5!1s0xaa70a72b842d05b9%3A0xf03c94eb451d540!2sCataract%20Gorge%20Reserve%2C%2074-90%20Basin%20Rd%2C%20West%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4465532!2d147.1201087!5e0!3m2!1sen!2ssg!4v1773543428506!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Dinner: A Relaxed Group Meal**
+**Dinner and Other Food Options**
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
 
 **[Stillwater Restaurant and Stillwater Seven Accommodation](https://www.stillwater.net.au/)**
 - Located inside a beautifully restored 1830s flour mill near the gorge entrance, offering a relaxed but premium dining experience.
 - Focuses heavily on fresh Tasmanian produce and offers a great environment to recount the day's travels.
 - Because it is highly popular, booking ahead for a large group is essential to secure a great table!
 
+**Waterfront & Seafood**
 
+**Rupert & Hound** is situated right on the picturesque North Esk River at the Seaport, offering a contemporary waterfront dining experience. It is an excellent choice to indulge in fresh East Coast seafood in a slightly more elevated but unfussy setting.
+Features local, sustainably caught seafood cooked to perfection.
+Provides a very relaxed, stylish, and spacious riverside environment.
 
+**Bustling & Family-Centric**
+**Du Cane Brewery & Dining Hall** leans into Launceston's reputation as Tasmania's brewing heartland. This massive dining hall is arguably one of the most family-friendly venues in the city, providing a vibrant atmosphere where the kids can safely play while the adults enjoy local craft beers.
 
+- Famous for their fantastic wood-fired pizzas, which include great gluten-free options.
+- Features a dedicated, separate play area complete with a mini rock-climbing wall to keep the younger ones highly entertained.
 
+**Historic Novelty**
+
+**Jailhouse Grill** is set inside a heritage-listed 1800s building and leans into a playful convict theme that adds a layer of history and novelty to dinner. It is a long-standing local institution perfect for hearty, comforting meals.
+
+Specializes in area-sourced steaks and high-quality local meats.
+
+Offers a diverse menu that includes a dedicated children's selection, ensuring even the pickiest eaters are covered.
+
+**Interactive Dining**
+**Cataract on Paterson** offers an industrial-chic vibe and serves as a fantastic spot to experience Launceston's high-quality produce in a highly interactive way. It strikes a great balance between sophisticated food and a welcoming environment for all ages.
+
+- Features unique tabletop stone grills, allowing the group to cook premium Tasmanian beef right at the table.
+- Known for providing a relaxed dining environment with very generous portion sizes.
 
 ## Paused Here for now, haven't update beyond this point
 
