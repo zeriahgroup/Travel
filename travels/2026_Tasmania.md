@@ -116,7 +116,7 @@ Dinner options:
 [Bar Wa Izakaya](https://www.barwaizakaya.com/). - 216-218 Elizabeth St, Hobart, TAS 7000
 - Food Served All day 12pm-11pm
 - Ramen 12pm-3pm
-- Reservations: mailto:barwaizakaya@gmail.com
+- <barwaizakaya@gmail.com>
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
@@ -136,20 +136,22 @@ Dinner options:
 - **Flamecake:** Pizzas are good.
 
 **Potential Lunch Options:**
-- **Machine Laundry Cafe:** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food. Famous for its quirky, retro vibe, and offers crowd-pleasing brunch staples.
-- Hours: 7.30am to 2.30pm
-- **Mures Lower Deck:** A Hobart institution down on Victoria Dock, just a short stroll from Salamanca Place. Specializes in fresh, locally caught fish and chips. Features an in-house ice creamery with 32 flavors!
-- Hours: 8am to 9pm daily
-- **Jackman & McRoss:** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its phenomenal savory pies and sourdough.
-- Hours: 7am to 5pm daily
+- **[Machine Laundry Cafe](https://www.facebook.com/people/Machine-Laundry-Cafe/100063609127588/):** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food. Famous for its quirky, retro vibe, and offers crowd-pleasing brunch staples.
+- Hours: 7.30am to 2.30am
 
-<div style="clear: both;"></div>
+- **[Mures Lower Deck](https://www.mures.com.au/lower-deck/):** A Hobart institution down on Victoria Dock, just a short stroll from Salamanca Place. Specializes in fresh, locally caught **fish and chips**. Features an in-house ice creamery with 32 flavors!
+- Hours: 8am to 9pm daily
+- <lowerdeck@mures.com.au>
+
+- **[Jackman & McRoss](https://jackmanmcross.com.au/):** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its phenomenal savory pies and sourdough.
+- Hours: 7am to 5pm daily
+- <Mcrossjackman@gmail.com>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.74241901562!2d147.34783887370742!3d-42.87088535115879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!5e0!3m2!1sen!2ssg!4v1773472589614!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Afternoon: Bonorong Wildlife Sanctuary**
+**Afternoon: [Bonorong Wildlife Sanctuary](https://www.bonorong.com.au/)**
 - **Drive:** Salamanca Market to Bonorong (Approx. 30km, 31-minute drive).
-- **Hours:** Closes at 5:00 pm.
+- **Hours:** Monday – Friday: 9am to 9pm; Saturday: 9am – 5pm.
 - **Logistics:** Try to leave Hobart by 1:30 pm or 2:00 pm at the latest. This gives you a solid 2.5 to 3 hours to explore before they close.
 - **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. Check their daily schedule upon arrival to time your walkabout with the keeper talks.
 
