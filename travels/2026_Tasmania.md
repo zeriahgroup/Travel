@@ -432,19 +432,23 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Dinner and Other Food Options**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+<a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" target="_blank">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+</a>
+
 
 **[Stillwater Restaurant and Stillwater Seven Accommodation](https://www.stillwater.net.au/)**
 - Located inside a beautifully restored 1830s flour mill near the gorge entrance, offering a relaxed but premium dining experience.
 - Focuses heavily on fresh Tasmanian produce and offers a great environment to recount the day's travels.
 - Because it is highly popular, booking ahead for a large group is essential to secure a great table!
+- **Hours:** Monday - Saturday - Coffee from 10:00am, Lunch from 10:30am, Dinner from 5pm
 
 **Waterfront & Seafood**
 
 **[Rupert & Hound](https://rupertandhound.com.au/)** is situated right on the picturesque North Esk River at the Seaport, offering a contemporary waterfront dining experience. It is an excellent choice to indulge in fresh East Coast seafood in a slightly more elevated but unfussy setting.
 - Features local, sustainably caught **seafood** cooked to perfection.
 - Provides a very relaxed, stylish, and spacious riverside environment.
-- Hours: Wednesday to Sunday 11.30am till late
+- **Hours:** Wednesday to Sunday 11.30am till late
 
 **Bustling & Family-Centric**
 
@@ -452,6 +456,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 - Famous for their fantastic **wood-fired pizzas**, which include great gluten-free options.
 - Features a dedicated, separate play area complete with a mini rock-climbing wall to keep the younger ones highly entertained.
+- **Hours:** 12pm to 8pm or 10pm depending on the day of the week
 
 **Historic Novelty**
 
@@ -459,18 +464,30 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 - Specializes in **area-sourced steaks and high-quality local meats**.
 - Offers a diverse menu that includes a dedicated children's selection, ensuring even the pickiest eaters are covered.
-- 
+- **Hours:** Lunch: 12.00pm to 2.30pm Dinner: 5.00pm to 9.30pm
 
 **Interactive Dining**
 
 **[Cataract on Paterson](https://cataractonpaterson.com.au/)** offers an industrial-chic vibe and serves as a fantastic spot to experience Launceston's high-quality produce in a highly interactive way. It strikes a great balance between sophisticated food and a welcoming environment for all ages.
 
-- Features unique tabletop stone grills, allowing the group to cook premium Tasmanian beef right at the table.
+- Features unique **tabletop stone grills**, allowing the group to cook premium Tasmanian beef right at the table.
 - Known for providing a relaxed dining environment with very generous portion sizes.
+- **Hours:** Dinner - 5pm til late - 7 days
 
-## Paused Here for now, haven't update beyond this point
+**Need to find lodging in Launceston**
 
 ## Day 8 - 29 May (Friday) - Seahorse World and Platypus House and the long trip back to Hobart?
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191847.00024713625!2d146.80915953133476!3d-41.295605167474484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa70a6e12e84fd5d%3A0x503c94dd0de1990!2sLaunceston%2C%20Tasmania%207250%2C%20Australia!3m2!1d-41.439068!2d147.13576709999998!4m5!1s0xaa7a20ef14de3c8d%3A0x7c2fd2cb2c96f05b!2sSeahorse%20World%2C%20200%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1498251!2d146.8239447!5e0!3m2!1sen!2ssg!4v1773567541205!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+
+
+## Paused Here for now, haven't update beyond this point
 
 ## Day 9 - 30 May (Saturday) - Opportunity to visit Salamanca Market again, can visit Mount Wellington
 
@@ -532,7 +549,7 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Logistics:** Aim to arrive at Cradle Mountain around 12:30 pm or 1:00 pm. 
 - **Plan:** Head straight to the Tavern Bar & Bistro (located at the Peppers Cradle Mountain Lodge, right near the park entrance). It has a roaring log fire, a very casual family-friendly atmosphere, and serves hearty pub food like burgers, pizzas, and steaks to warm everyone up.
 
-**Afternoon/Evening: Devils @ Cradle**
+**Afternoon/Evening: [Devils @ Cradle](https://devilsatcradle.com/)**
 - **Location:** Conveniently located right near the Cradle Mountain Visitor Centre, making it an easy stop after you check into your accommodation.
 - **The Experience:** This is a world-class conservation sanctuary for Tasmanian Devils and Quolls. 
 - **Choosing Your Tour:**
@@ -669,6 +686,9 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 
 ## Cost Summary in SGD - AUDSGD 0.9000
 
-| Item | Cost in AUD | Cost in SGD Equivalent |
-| :--- | ---: | ---: |
-| Car Rental | $1,083.90 | $975.51 |
+| Item | Cost in AUD | Cost in SGD Equivalent | Paid by | Category |
+| :--- | ---: | ---: |--- | --- |
+| Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
+| 4 Albatross Cct | $533.00 | $479.70 | Simin | Lodging |
+| 209 Hazards View Dr | $705.00 | $634.50 | Simin | Lodging |
+| 232 Tasman Hwy |  $299.00 | $269.10 | Simin | Lodging |
