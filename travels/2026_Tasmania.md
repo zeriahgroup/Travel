@@ -459,6 +459,12 @@ Offers a diverse menu that includes a dedicated children's selection, ensuring e
 
 ## Paused Here for now, haven't update beyond this point
 
+## Day 8 - 29 May (Friday) - Seahorse World and Platypus House and the long trip back to Hobart?
+
+## Day 9 - 30 May (Saturday) - Opportunity to visit Salamanca Market again, can visit Mount Wellington
+
+## Day 10 - 31 May (Sunday) - Opportunity to visit Farm Gate Market again, fly fo Melbourne
+
 
 ## Day 4 - 25 May (Monday) - Hobart to Strahan (The Western Wilds Drive) - Long Drive Warning
 
