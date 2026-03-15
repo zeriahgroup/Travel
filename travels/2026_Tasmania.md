@@ -476,6 +476,27 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Known for providing a relaxed dining environment with very generous portion sizes.
 - **Hours:** Dinner - 5pm til late - 7 days
 
+**The Quick & Classic Bakery**
+
+**[Banjo’s Bakery Café – Launceston](https://banjos.com.au/launceston)** is a highly popular, casual bakery chain that serves as a staple for locals wanting a quick, comforting meal. It has a very laid-back, fast-paced atmosphere that is perfect if you need to grab something easy and budget-friendly before hitting the road.
+
+- Famous for their hearty, hot savory pastries, including traditional **Tasmanian scallop pies, pulled beef brisket pies, and sausage rolls**.
+- Offers excellent value deals that bundle their hot pies with espresso coffee.
+- Features a massive daily selection of handmade sweet treats, donuts, muffins, and freshly baked bread.
+- **Hours:** 5am to 6pm daily
+
+The Trendy & Wholesome Cafe
+
+**[Earthy Eats](https://earthyeats.com.au/)** offers a completely different vibe, focusing heavily on sustainable, organic Tasmanian produce in a bright, plant-filled environment. Reviewers consistently praise it as a fantastic, welcoming spot for a relaxed sit-down brunch or a high-quality coffee break.
+
+- Features a highly accommodating, health-conscious menu with excellent gluten-free, vegetarian, and vegan options.
+- Showcases beautifully presented dishes utilizing fresh, locally sourced ingredients like seasonal vegetables and quality meats.
+- Boasts a warm, community-focused atmosphere and artisanal coffee that reviewers often compare to Melbourne's cafe standards.
+- **Hours:** 8am to 2.30pm daily
+- <earthyeats.tas@outlook.com>
+
+
+
 **Need to find lodging in Launceston**
 
 ## Day 8 - 29 May (Friday) - Seahorse World and Platypus House and the long trip back to Hobart?
