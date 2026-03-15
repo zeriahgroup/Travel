@@ -16,12 +16,12 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 ## Pre Trip Preparations
 
 **Reading materials and video guides:**
-- (https://www.discovertasmania.com.au/)
-- (https://www.australia.com/en/places/tasmania.html)
+- [discovertasmania.com](https://www.discovertasmania.com.au/)
+- [australia.com](https://www.australia.com/en/places/tasmania.html)
 - [Tasmania HOBART things to do, see, eat in 3 days travel - 2026 by Larry Lim](https://www.youtube.com/watch?v=BmJwo-EmAyE)
 - [Hobart Tasmania Travel Guide: Best Things To Do, See & Eat! - by Bucket List Travellers](https://youtu.be/Osf3JqaRvWY?si=PMxvBFvzQnkkdsX6)
 - [TASMANIA TRAVEL GUIDE - Top Things to Do & Travel Tips Tasmania, Australia (Watch Before You Go!) - by CJ Explores](https://www.youtube.com/watch?v=BlSXfLW9VDE)
-- [TASMANIA, AUSTRALIA (2026) | 10 Beautiful Places To Visit In Tasmania (+ Travel Tips) - by World Wild Hearts](https://www.youtube.com/watch?v=K3a0fzJ9fLA)
+- [TASMANIA, AUSTRALIA (2026) 10 Beautiful Places To Visit In Tasmania (+ Travel Tips) - by World Wild Hearts](https://www.youtube.com/watch?v=K3a0fzJ9fLA)
 
 **Pre booking of restaurants and attractions:**
 - **Gordon River Cruise (Strahan):** This is one of the biggest attractions on the West Coast, and you need to book your seat a few weeks in advance.
@@ -159,26 +159,33 @@ Dinner options:
 
 ## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington and off to Freycinet
 
-**Morning: [Farm Gate Market](https://farmgatemarket.com.au/)**
+**Morning: [Farm Gate Market](https://farmgatemarket.com.au/)** - 8.30am to 11.00am
 - **Hours:** 8:30 am to 1:00 pm
 - **Settle early lunch before heading off to Mount Wellington**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.876095856063!2d147.34085937370634!3d-42.870532650980756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!5e0!3m2!1sen!2ssg!4v1773472517510!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Afternoon: Mount Wellington - 12pm to 2pm**
+**Afternoon: Mount Wellington - 11am to 1pm**
+
+Consider doing the Fern Glade Track which is 45mins, about 1.8km loop
+Alternatively we skip this completely and head off to Richmond bridge, Kate's Berry Farm, and Devil's Corner Cellar Door
+
+[Wellington Park - Fern Glade Track](https://www.birdingplaces.eu/en/birdingplaces/australia/wellington-park-fern-glade-track)
+
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23381.809907939503!2d147.26107442379396!3d-42.89972236572067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!5e0!3m2!1sen!2ssg!4v1773472545687!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Afternoon: Drive to Freycinet**
 
-**Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - 2pm to 3pm**
+**Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - 1pm to 2pm**
 - Might skip this since Kate's Berry Farm closes at 3pm
 - Constructed between 1823 and 1825, it is the oldest bridge in Australia.
 - Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375649.4012415994!2d147.26018013475888!3d-42.64522756010432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e76921008211f%3A0xb901bf1b35fa27b9!2sMount%20Wellington%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.89!2d147.23!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!5e0!3m2!1sen!2ssg!4v1773473374978!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Stop 2: [Kate's Berry Farm](https://katesberryfarm.com/) - 3pm to 6pm incl. 2hr drive**
+**Stop 2: [Kate's Berry Farm](https://katesberryfarm.com/) - 2pm to 5pm incl. 2hr drive**
 - **Hours:** Saturday to Tuesday, 9am to 3pm
 - Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
 - Specializes in homemade jams and spectacular fresh berry desserts.
