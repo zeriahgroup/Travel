@@ -21,6 +21,7 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 - [Tasmania HOBART things to do, see, eat in 3 days travel - 2026 by Larry Lim](https://www.youtube.com/watch?v=BmJwo-EmAyE)
 - [Hobart Tasmania Travel Guide: Best Things To Do, See & Eat! - by Bucket List Travellers](https://youtu.be/Osf3JqaRvWY?si=PMxvBFvzQnkkdsX6)
 - [TASMANIA TRAVEL GUIDE - Top Things to Do & Travel Tips Tasmania, Australia (Watch Before You Go!) - by CJ Explores](https://www.youtube.com/watch?v=BlSXfLW9VDE)
+- [TASMANIA, AUSTRALIA (2026) | 10 Beautiful Places To Visit In Tasmania (+ Travel Tips) - by World Wild Hearts](https://www.youtube.com/watch?v=K3a0fzJ9fLA)
 
 **Pre booking of restaurants and attractions:**
 - **Gordon River Cruise (Strahan):** This is one of the biggest attractions on the West Coast, and you need to book your seat a few weeks in advance.
@@ -384,21 +385,20 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: The Scenic Drive West**
 
-**Stop 1: [Pyengana Dairy Company](https://pyenganadairy.com.au/)**
-- Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
-- Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
-- Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d7130.076582401377!2d147.9865095400205!3d-41.290848116446625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7721203ffc86d3%3A0x503c94dd0de1330!2sSt%20Helens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.321794499999996!2d148.2498127!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!5e0!3m2!1sen!2ssg!4v1773543060440!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-**Stop 2: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls)**
+**Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls)**
 - A breathtaking natural attraction located a short drive off the Tasman Highway, serving as an excellent place to stretch your legs.
 - Features a very easy, 15-minute paved downhill walk through giant, ancient tree ferns that feel like a prehistoric jungle to young kids.
 - Showcases one of Tasmania's tallest and most spectacular waterfalls, which flows heavily year-round.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23977.11809602253!2d147.94401961906834!3d-41.30582307569729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!5e0!3m2!1sen!2ssg!4v1773543096577!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d95934.09271410621!2d148.00453309348393!3d-41.288401632151896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7721203ffc86d3%3A0x503c94dd0de1330!2sSt%20Helens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.321794499999996!2d148.2498127!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!5e0!3m2!1sen!2ssg!4v1773543624322!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<div style="clear: both;"></div>
+**Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/)**
+- Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
+- Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
+- Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
+- **Note:** We will likely settle lunch here before embarking on a 2h 12min drive to Caratact Gorge for a hike to work off those calories.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23977.11809602253!2d147.94401961906834!3d-41.30582307569729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!5e0!3m2!1sen!2ssg!4v1773543516689!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Afternoon: Exploring Launceston**
 
@@ -406,6 +406,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Once you arrive in Launceston, head straight to this natural oasis located just a stroll from the city center.
 - You can walk the scenic gorge, take in the towering cliffs, and ride the world's longest single-span chairlift for incredible views.
 - Keep an eye out for the abundant wildlife; peacocks roam the grounds freely, and wallabies are frequently spotted.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d383677.1437175427!2d147.2362773948017!3d-41.29847076109606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!4m5!1s0xaa70a72b842d05b9%3A0xf03c94eb451d540!2sCataract%20Gorge%20Reserve%2C%2074-90%20Basin%20Rd%2C%20West%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4465532!2d147.1201087!5e0!3m2!1sen!2ssg!4v1773543428506!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Dinner: A Relaxed Group Meal**
 
