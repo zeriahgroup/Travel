@@ -133,8 +133,8 @@ Dinner options:
 
 **From Tasmania HOBART things to do, see, eat in 3 days travel - 2026 YouTube Video:**
 - **Nearby Coffee:** [Parklane Expresso](https://www.facebook.com/3SalamancaSquare/) - [3 Salamanca Square Hobart, TAS, Australia, Tasmania 7004](https://maps.app.goo.gl/UA9j1HRAJEzwzN826)
-- **Smith Specialty Pies:** Scallop Pies are good, need to be early as they tend to sell out fast.
-- **Flamecake:** Pizzas are good.
+- **[Smith Specialty Pies](https://smithspies.com.au/):** Scallop Pies are good, need to be early as they tend to sell out fast.
+- **[Flamecake](https://www.facebook.com/flamecaketas):** Pizzas are good.
 
 **Potential Lunch Options:**
 - **[Machine Laundry Cafe](https://www.facebook.com/people/Machine-Laundry-Cafe/100063609127588/):** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food. Famous for its quirky, retro vibe, and offers crowd-pleasing brunch staples.
