@@ -669,5 +669,5 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 
 ## Cost Summary in SGD - AUDSGD 0.9000
 | Item | Cost in AUD | Cost in SGD Equivalent |
-|-------------------------|----------|----------|
-| Car Rental | 1083.90 | 975.51 |
+| :--- | ---: | ---: |
+| Car Rental | $1,083.90 | $975.51 |
