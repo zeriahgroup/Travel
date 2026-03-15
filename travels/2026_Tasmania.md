@@ -144,7 +144,7 @@ Dinner options:
 - Hours: 8am to 9pm daily
 - <lowerdeck@mures.com.au>
 
-- **[Jackman & McRoss](https://jackmanmcross.com.au/):** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its phenomenal savory pies and sourdough.
+- **[Jackman & McRoss](https://jackmanmcross.com.au/):** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its phenomenal **savory pies and sourdough**.
 - Hours: 7am to 5pm daily
 - <Mcrossjackman@gmail.com>
 
@@ -442,6 +442,7 @@ Features local, sustainably caught seafood cooked to perfection.
 Provides a very relaxed, stylish, and spacious riverside environment.
 
 **Bustling & Family-Centric**
+
 **Du Cane Brewery & Dining Hall** leans into Launceston's reputation as Tasmania's brewing heartland. This massive dining hall is arguably one of the most family-friendly venues in the city, providing a vibrant atmosphere where the kids can safely play while the adults enjoy local craft beers.
 
 - Famous for their fantastic wood-fired pizzas, which include great gluten-free options.
@@ -451,11 +452,11 @@ Provides a very relaxed, stylish, and spacious riverside environment.
 
 **Jailhouse Grill** is set inside a heritage-listed 1800s building and leans into a playful convict theme that adds a layer of history and novelty to dinner. It is a long-standing local institution perfect for hearty, comforting meals.
 
-Specializes in area-sourced steaks and high-quality local meats.
-
-Offers a diverse menu that includes a dedicated children's selection, ensuring even the pickiest eaters are covered.
+- Specializes in area-sourced steaks and high-quality local meats.
+- Offers a diverse menu that includes a dedicated children's selection, ensuring even the pickiest eaters are covered.
 
 **Interactive Dining**
+
 **Cataract on Paterson** offers an industrial-chic vibe and serves as a fantastic spot to experience Launceston's high-quality produce in a highly interactive way. It strikes a great balance between sophisticated food and a welcoming environment for all ages.
 
 - Features unique tabletop stone grills, allowing the group to cook premium Tasmanian beef right at the table.
