@@ -521,6 +521,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **[Beauty Point Waterfront Hotel](https://www.beautypointhotel.com.au/restaurant-bar)**
 - A fantastic option for a hearty pub lunch located just a few minutes down the road from the wildlife attractions.
 - Features classic, crowd-pleasing pub fare with sweeping views across the Tamar River and a dedicated kids' menu.
+- **Hours:** Lunch: Monday - Sunday: 11:30am – 2:00pm; Dinner: Sunday - Wednesday: 5:00pm - 7:30pm; Thursday - Saturday: 5:00pm - 8:00pm
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6008.159647181483!2d146.81814164830155!3d-41.15460950717292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7a20ef14de3c8d%3A0x92e14f5f725739cc!2sPlatypus%20House%2C%20200%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1503039!2d146.8241593!4m5!1s0xaa7a20fc566e8f75%3A0xc2ba4073474fc369!2sBeauty%20Point%20Waterfront%20Hotel%2C%20116%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1587185!2d146.8230351!5e0!3m2!1sen!2ssg!4v1773571020704!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
