@@ -113,6 +113,10 @@ Meet up for dinner with Tim and family for dinner after arrival.
 
 Need to book flight to Hobart
 
+**Car Rental Pick up at 2pm**
+- **Pickup location:** Hobart Airport
+- **Supplier:** Keddy by Europcar
+
 Dinner options:
 [Bar Wa Izakaya](https://www.barwaizakaya.com/). - 216-218 Elizabeth St, Hobart, TAS 7000
 - Food Served All day 12pm-11pm
