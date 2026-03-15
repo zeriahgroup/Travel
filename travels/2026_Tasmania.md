@@ -114,6 +114,8 @@ Need to book flight to Hobart
 
 Dinner options:
 [Bar Wa Izakaya](https://www.barwaizakaya.com/). - 216-218 Elizabeth St, Hobart, TAS 7000
+- Food Served All day 12pm-11pm
+- Ramen 12pm-3pm
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
@@ -134,8 +136,11 @@ Dinner options:
 
 **Potential Lunch Options:**
 - **Machine Laundry Cafe:** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food. Famous for its quirky, retro vibe, and offers crowd-pleasing brunch staples.
+- Hours: 7.30am to 2.30pm
 - **Mures Lower Deck:** A Hobart institution down on Victoria Dock, just a short stroll from Salamanca Place. Specializes in fresh, locally caught fish and chips. Features an in-house ice creamery with 32 flavors!
+- Hours: 8am to 9pm daily
 - **Jackman & McRoss:** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its phenomenal savory pies and sourdough.
+- Hours: 7am to 5pm daily
 
 <div style="clear: both;"></div>
 
@@ -165,7 +170,7 @@ Dinner options:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.876095856063!2d147.34085937370634!3d-42.870532650980756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!5e0!3m2!1sen!2ssg!4v1773472517510!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Afternoon: Mount Wellington - 11am to 1pm**
+**Afternoon: Mount Wellington - 11am to 1pm** - might push to last day so we got time for Kate's Berry Farm
 
 Consider doing the Fern Glade Track which is 45mins, about 1.8km loop
 Alternatively we skip this completely and head off to Richmond bridge, Kate's Berry Farm, and Devil's Corner Cellar Door
