@@ -442,7 +442,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Waterfront & Seafood**
 
 **[Rupert & Hound](https://rupertandhound.com.au/)** is situated right on the picturesque North Esk River at the Seaport, offering a contemporary waterfront dining experience. It is an excellent choice to indulge in fresh East Coast seafood in a slightly more elevated but unfussy setting.
-- Features local, sustainably caught seafood cooked to perfection.
+- Features local, sustainably caught **seafood** cooked to perfection.
 - Provides a very relaxed, stylish, and spacious riverside environment.
 - Hours: Wednesday to Sunday 11.30am till late
 
@@ -463,7 +463,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Interactive Dining**
 
-**Cataract on Paterson** offers an industrial-chic vibe and serves as a fantastic spot to experience Launceston's high-quality produce in a highly interactive way. It strikes a great balance between sophisticated food and a welcoming environment for all ages.
+**[Cataract on Paterson](https://cataractonpaterson.com.au/)** offers an industrial-chic vibe and serves as a fantastic spot to experience Launceston's high-quality produce in a highly interactive way. It strikes a great balance between sophisticated food and a welcoming environment for all ages.
 
 - Features unique tabletop stone grills, allowing the group to cook premium Tasmanian beef right at the table.
 - Known for providing a relaxed dining environment with very generous portion sizes.
@@ -668,6 +668,7 @@ Your morning will be taken up entirely by the majestic Gordon River, followed by
 - **Arriving:** 19:05, Monday 01 Jun 2026, Changi Airport Terminal 2
 
 ## Cost Summary in SGD - AUDSGD 0.9000
+
 | Item | Cost in AUD | Cost in SGD Equivalent |
 | :--- | ---: | ---: |
 | Car Rental | $1,083.90 | $975.51 |
