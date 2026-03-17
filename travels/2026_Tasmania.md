@@ -503,22 +503,23 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: Breakfast & Beauty Point Wildlife**
 
-**Stop 1: [Banjo’s Bakery Café](https://banjos.com.au/launceston)**
+**Stop 1: [Banjo’s Bakery Café](https://banjos.com.au/launceston)** (Arrive around 8am, dine till 8.40am, then travel about an hour to Seahorse World)
 - A highly popular, casual bakery that serves as a staple for locals wanting a quick, comforting meal before hitting the road.
 - Famous for their hearty savory pastries, including traditional Tasmanian scallop pies and sausage rolls.
 - **Hours:** 5am to 6pm daily
 
 
-**Stop 2: [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/)**
+**Stop 2: [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/)** (9.45am to 10.45am for Seahorse World and then 11.30am to 12.30pm for Playapus house?)
 - Located side-by-side on the pier in Beauty Point (about a 45-minute drive from Launceston). 
 - Seahorse World offers a fascinating behind-the-scenes look at a working seahorse farm, while Platypus House guarantees close-up views of active platypuses and echidnas in daylight.
 - Remember to book before visiting
+- **Note** - Seahorse World has a kids discovery program tour that departs daily at 9.45am, so might want to catch this tour for the kids. Only limited to 25 places a day
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191847.0002471363!2d146.8120010813348!3d-41.29560516747447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa70a6de7dba09d7%3A0x8e0c20b7ba5c23a6!2sBanjo%E2%80%99s%20Bakery%20Caf%C3%A9%20%E2%80%93%20Launceston%2C%2098%2F100%20Brisbane%20St%2C%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4370392!2d147.13912349999998!4m5!1s0xaa7a20ef14de3c8d%3A0x7c2fd2cb2c96f05b!2sSeahorse%20World%2C%20200%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1498251!2d146.8239447!5e0!3m2!1sen!2ssg!4v1773569204098!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Lunch: Waterfront Dining**
 
-**[Beauty Point Waterfront Hotel](https://www.beautypointhotel.com.au/restaurant-bar)**
+**[Beauty Point Waterfront Hotel](https://www.beautypointhotel.com.au/restaurant-bar)** (Can lunch from 12.30pm to 1.30pm. Ross Bakery closes at 3pm, it's a 1h 40min drive, might skip) 
 - A fantastic option for a hearty pub lunch located just a few minutes down the road from the wildlife attractions.
 - Features classic, crowd-pleasing pub fare with sweeping views across the Tamar River and a dedicated kids' menu.
 - **Hours:** Lunch: Monday - Sunday: 11:30am – 2:00pm; Dinner: Sunday - Wednesday: 5:00pm - 7:30pm; Thursday - Saturday: 5:00pm - 8:00pm
