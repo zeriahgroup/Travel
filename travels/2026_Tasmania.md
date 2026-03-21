@@ -562,10 +562,11 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 </a>
 
 
-### Mures Lower Deck
+### [Mures Lower Deck](https://www.mures.com.au/lower-deck/)
 * **The Vibe:** A Hobart institution located right on Victoria Dock. It has a bustling, casual atmosphere with plenty of indoor and outdoor seating overlooking the harbor and fishing boats.
 * **The Food:** Features a massive menu focused on locally sourced, fresh fish and chips. They also have an in-house ice creamery with 32 flavors.
 * **Logistics:** The energetic environment is perfect for large groups and kids. It is incredibly easy to grab a post-dinner treat right at the venue.
+* **Hours:** 8am to 9pm daily
 
 ### Franklin Wharf Restaurant and Bar
 * **The Vibe:** Sits right by the water at Murray Street Pier, offering a bright, spacious, and very modern dining space with fantastic sunset views over the Derwent River.
