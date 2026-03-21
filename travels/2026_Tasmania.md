@@ -148,7 +148,7 @@ Dinner options:
 - Hours: 8am to 9pm daily
 - <lowerdeck@mures.com.au>
 
-- **[Jackman & McRoss](https://jackmanmcross.com.au/):** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its phenomenal **savory pies and sourdough**.
+- **[Jackman & McRoss](https://jackmanmcross.com.au/):** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its **phenomenal savory pies and sourdough**.
 - Hours: 7am to 5pm daily
 - <Mcrossjackman@gmail.com>
 
@@ -174,7 +174,6 @@ Dinner options:
 
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/) - (Est. 8.30am to 11.00am - need to leave by 11am to make it for Kate's Berry Farm)**
 - **Hours:** 8:30 am to 1:00 pm
-- **Settle early lunch before heading off to Mount Wellington**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.876095856063!2d147.34085937370634!3d-42.870532650980756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!5e0!3m2!1sen!2ssg!4v1773472517510!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -204,6 +203,8 @@ Dinner options:
 - After dinner, continue the journey to [Archella 2 - 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay](https://www.booking.com/Share-qsu4Nt) for the night.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94844.62410648282!2d148.11838777893388!3d-42.02399550851483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!5e0!3m2!1sen!2ssg!4v1773751764229!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**If we are lucky, can try to spot the [southern lights](https://www.discovertasmania.com.au/experiences/stories/southern-lights/) if the night sky is clear**
 
 
 ## Day 4 - 25 May (Monday) - Exploring Freycinet National Park
@@ -630,33 +631,44 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 ## Day 10 - 31 May (Sunday) - Opportunity to visit Farm Gate Market again, fly fo Melbourne
 
+**Morning: [Farm Gate Market](https://farmgatemarket.com.au/) - (Est. 9am to 11am)**
+- **Hours:** 8:30 am to 1:00 pm
+
+**Alternatively we can have breakfast at [Jackman & McRoss](https://jackmanmcross.com.au/):**
+- Known for its **phenomenal savory pies and sourdough**.
+- Hours: 7am to 5pm daily
+- <Mcrossjackman@gmail.com>
+
+**Free and easy afternoon options:**
+
+**Free and Easy Afternoon Options:**
+
+**Option A: [Royal Tasmanian Botanical Gardens](https://gardens.tas.gov.au/) - (Est. 12:00 pm to 3:00 pm)**
+- **Hours:** 8:00 am to 5:00 pm daily (Winter hours).
+- **Logistics:** Located on the Queens Domain, just a very short 5-minute drive north of the Hobart CBD. There is plenty of parking available at both the top and bottom entrances. 
+- **The Experience:** This is a fantastic, highly relaxed option for a final afternoon. You can easily spend a couple of hours strolling through the historic 14-hectare gardens, which feature a beautiful Japanese garden, a conservatory, and the unique Subantarctic Plant House (where the plants are kept in a chilly, climate-controlled environment that kids find fascinating). There are also plenty of wide, open grassy areas for the younger ones to safely run off some energy before heading to the airport.
+
+*Or*
+
+**Option B: [Mount Nelson Signal Station & Lookout](https://parks.tas.gov.au/explore-our-parks/mount-nelson-signal-station) - (Est. 12:00 pm to 2:00 pm)**
+- **Hours:** The lookout is always open. The Signal Station Brasserie operates from 9:00 am to 4:00 pm on weekends.
+- **Logistics:** Located in a residential suburb just a 10-minute drive south of the Hobart CBD. It offers an incredibly easy, drive-up alternative to Mount Wellington if you didn't get clear views on Day 9. 
+- **The Experience:** Mount Nelson offers brilliant, sweeping panoramic views over Hobart, the Derwent River, and all the way down to Storm Bay. You can grab a coffee or a late lunch at the Brasserie (which is actually built into the original head signalman's house from the 1800s) while taking in the views. If the group wants a short walk, there is a very easy, flat stroll around the historic signal station and the surrounding bushland.
 
 
 
-## Paused Here for now, haven't update beyond this point
-
-
-**Afternoon: Mount Wellington - 11am to 1pm** - might push to last day so we got time for Kate's Berry Farm
-
-Consider doing the Fern Glade Track which is 45mins, about 1.8km loop
-
-
-[Wellington Park - Fern Glade Track](https://www.birdingplaces.eu/en/birdingplaces/australia/wellington-park-fern-glade-track)
-
-
-
-**Lunch & Airport Logistics**
+**Evening - Return the Rental Vehicle and Fly to Melbourne**
 - **Car Return:** There are fuel stations right near Hobart Airport (in Cambridge) to top up the tanks before dropping off the keys. 
 - **Airport Vibe:** Hobart Airport is relatively small and easy to navigate. Aim to arrive at the terminal about 1.5 to 2 hours before your domestic flight to Melbourne. You can grab a casual lunch right at the airport after checking your bags.
-
-**Afternoon: Flight to Melbourne**
-- **Transit:** The flight from Hobart (HBA) to Melbourne (MEL) is incredibly quick, usually taking just 1 hour and 15 minutes in the air.
+-  **Transit:** The flight from Hobart (HBA) to Melbourne (MEL) is incredibly quick, usually taking just 1 hour and 15 minutes in the air.
 
 **Evening: Melbourne Airport Stay**
 - **Logistics:** Since you are staying right at the airport, you won't need to worry about long transfers into the Melbourne CBD.
 - **Accommodation Options:** - **PARKROYAL Melbourne Airport:** This is the most convenient option, as it is directly connected to the terminals via an indoor skybridge. It’s incredibly easy when managing two families and luggage.
   - **Holiday Inn Melbourne Airport:** Located within the airport precinct, typically offering a free and very quick shuttle bus from the terminal.
 
+
+## Remember to book flights from Hobart to Melbourne
 
 ## Day 11 - 1 June (Monday) - Melbourne to Singapore
 
