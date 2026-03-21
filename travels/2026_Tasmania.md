@@ -396,9 +396,6 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.91191551336!2d148.24588096800878!3d-41.219166358130686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!4m5!1s0xaa771fb4f2f67a5b%3A0x5fe176c14e8aa7ed!2s66%20Main%20Rd%2C%20Binalong%20Bay%20TAS%207216%2C%20Australia!3m2!1d-41.2521805!2d148.3064121!5e0!3m2!1sen!2ssg!4v1773568051522!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-
-
-
 ## Day 7 - 28 May (Thursday) - Binalong Bay to Launceston
 
 **Morning: The Scenic Drive West**
@@ -492,7 +489,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Hours:** 8am to 2.30pm daily
 - <earthyeats.tas@outlook.com>
 
-## Need to find lodging in Launceston**
+## Need to book accomodation for Day 7 Launceston
 
 
 
@@ -602,19 +599,40 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 ## Need to book accomodation for Day 8 Hobart
 
 
-## Paused Here for now, haven't update beyond this point
+
 
 ## Day 9 - 30 May (Saturday) - Opportunity to visit Salamanca Market again, can visit Mount Wellington
 
+**Morning: Revisiting [Salamanca Market](https://www.salamancamarket.com.au/Home) - (Est. 9am to 11am)**
+- **Hours:** 8:30 am to 3:00 pm
+- **Logistics:** Arrive early (around 8:30 am or 9:00 am). Parking around Salamanca Place can be notoriously difficult on market days, so if your accommodation is in the CBD, walking or taking a short taxi/rideshare is highly recommended. 
+- **Plan:** Grab coffee and breakfast at the market. It's an excellent spot to sample local Tasmanian pastries, scallop pies, and fresh produce.
 
 
+**Afternoon: Mount Wellington Summit and Optional Bushwalk - (Est. 11am to 2pm)**
+- **[wellingtonpark.org.au/](https://wellingtonpark.org.au/)**
+- To Fern Tree, The Springs and the Pinnacle - access is via Huon Rd towards Fern Tree. Turn on to Pillinger Drive at Fern Tree, which becomes Pinnacle Rd. **There is no public parking in the Fern Tree Tavern carpark** - to access walks and facilities in the Fern Tree area, please **park in Stephenson Place or the Fern Glade parking area** only.
+- **[Pipeline Track - Fern Tree to Waterworks Reserve](https://www.greaterhobarttrails.com.au/tracks/pipeline-track-fern-tree-to-waterworks-reserve)** - 3.1km
+- Alternative there's the **[Silver Falls Loop](https://www.greaterhobarttrails.com.au/tracks/SilverFallsLoop)**
+- Check **[road status](https://www.hobartcity.com.au/Things-To-Do/Kunanyi-Mt-Wellington/Pinnacle-Road-status)** before driving up the mountain
 
 
+**Late Afternoon: Visiting [MONA - Museum of Old and New Art](https://mona.net.au/) - (Est. 2:30 pm to 5:00 pm)**
+- **Hours:** 10:00 am to 5:00 pm (Open Thursday to Monday; Closed Tuesdays and Wednesdays).
+- **Logistics:** Driving straight from the base of Mount Wellington to MONA (in Berriedale) takes about 25 to 30 minutes, and parking on-site is free. 
+- **Alternative Transport:** If you prefer to drop the cars off in the CBD earlier, you can take the MONA Roma fast ferry from Brooke Street Pier. It is a highly entertaining 25-minute ride on a camo-painted catamaran (complete with a bar and sheep-shaped seats).
+- **Tickets:** Pre-booking entry tickets online is highly recommended. Visitors under 18 get free entry, but you still need to add their free tickets to your online booking so they are accounted for.
+- **The Experience:** MONA is a subterranean, famously eccentric art museum. While it is known for having some subversive and adult themes, kids generally love the bizarre, interactive nature of the building. A massive hit with younger visitors is usually the *Cloaca Professional* (a sprawling machine that replicates the human digestive system, affectionately known as the "poo machine").
 
-
+**See Day 8 for Dinner Options around Hobart**
 
 
 ## Day 10 - 31 May (Sunday) - Opportunity to visit Farm Gate Market again, fly fo Melbourne
+
+
+
+
+## Paused Here for now, haven't update beyond this point
 
 
 **Afternoon: Mount Wellington - 11am to 1pm** - might push to last day so we got time for Kate's Berry Farm
