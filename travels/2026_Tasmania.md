@@ -492,9 +492,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Hours:** 8am to 2.30pm daily
 - <earthyeats.tas@outlook.com>
 
+## Need to find lodging in Launceston**
 
 
-**Need to find lodging in Launceston**
 
 ## Day 8 - 29 May (Friday) - Tamar Valley & The Heritage Highway
 
@@ -599,9 +599,20 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Hours: Tues to Sat 12pm to 10pm**
 
 
+## Need to book accomodation for Day 8 Hobart
+
+
 ## Paused Here for now, haven't update beyond this point
 
 ## Day 9 - 30 May (Saturday) - Opportunity to visit Salamanca Market again, can visit Mount Wellington
+
+
+
+
+
+
+
+
 
 ## Day 10 - 31 May (Sunday) - Opportunity to visit Farm Gate Market again, fly fo Melbourne
 
