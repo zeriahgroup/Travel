@@ -564,35 +564,39 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 ### [Mures Lower Deck](https://www.mures.com.au/lower-deck/)
 * **The Vibe:** A Hobart institution located right on Victoria Dock. It has a bustling, casual atmosphere with plenty of indoor and outdoor seating overlooking the harbor and fishing boats.
-* **The Food:** Features a massive menu focused on locally sourced, fresh fish and chips. They also have an in-house ice creamery with 32 flavors.
+* **The Food:** Features a **[massive menu](https://www.mures.com.au/lower-deck#lower-deck-menu)** focused on locally sourced, fresh **fish and chips**. They also have an in-house **ice creamery with 32 flavors**.
 * **Logistics:** The energetic environment is perfect for large groups and kids. It is incredibly easy to grab a post-dinner treat right at the venue.
 * **Hours:** 8am to 9pm daily
 
-### Franklin Wharf Restaurant and Bar
-* **The Vibe:** Sits right by the water at Murray Street Pier, offering a bright, spacious, and very modern dining space with fantastic sunset views over the Derwent River.
-* **The Food:** Offers a broad, crowd-pleasing menu that ranges from hearty pub classics to fresh Tasmanian produce.
-* **Logistics:** Provides a comfortable, all-day dining environment where two families can easily spread out without feeling cramped.
+### [Franklin Wharf Restaurant and Bar](https://pubbanc.com.au/franklinwharf/)
+- **The Vibe:** Sits right by the water at Murray Street Pier, offering a bright, spacious, and very modern dining space with fantastic sunset views over the Derwent River.
+- **The Food:** Offers a **[broad, crowd-pleasing menu](https://order.platform.hungryhungry.com/franklinwharf-digimenu/menu)** that ranges from hearty pub classics to fresh Tasmanian produce.
+- **Logistics:** Provides a comfortable, all-day dining environment where two families can easily spread out without feeling cramped.
+- **Hours: Mon to Thurs: 12pm to 3pm & 5pm – 9:00pm | Fri to Sun All-day dining from 12pm to 9:30pm**
 
-### Suzie Luck's Restaurant & Bar
-* **The Vibe:** Located in the vibrant Salamanca Square, bringing a fantastic, energetic Southeast Asian flair. The colorful atmosphere keeps dining lively, fun, and relaxed.
-* **The Food:** Focuses on highly shareable dishes like curries, bao, and dumplings that are very easy to order for a large table.
-* **Logistics:** Located directly on a pedestrian-friendly square, giving everyone plenty of space to stroll around safely before or after the meal.
+### [Suzie Luck's Restaurant & Bar](https://suzielucks.com.au/)
+- **The Vibe:** Located in the vibrant Salamanca Square, bringing a fantastic, energetic Southeast Asian flair. The colorful atmosphere keeps dining lively, fun, and relaxed.
+- **The Food:** Focuses on highly shareable dishes like **curries, bao, and dumplings** that are very easy to order for a large table. **[Menu](https://suzielucks.com.au/food/)**
+- **Logistics:** Located directly on a pedestrian-friendly square, giving everyone plenty of space to stroll around safely before or after the meal.
+- **Hours: Dinner from 5pm daily**
 
-### Preachers
-* **The Vibe:** A relaxed, laid-back spot in Battery Point with a casual, welcoming atmosphere where a bit of noise and energy from a larger group are perfectly fine. 
-* **The Food:** Focuses on excellent, casual comfort food like burgers and chips, alongside a massive selection of craft beers.
-* **Logistics:** Hides a highly entertaining seating arrangement in its outdoor courtyard—an actual retro bus parked in the backyard where you can sit and eat.
+### [Preachers](https://www.tripadvisor.com.sg/Restaurant_Review-g255097-d2519069-Reviews-Preachers-Hobart_Greater_Hobart_Tasmania.html)
+- **The Vibe:** A relaxed, laid-back spot in Battery Point with a casual, welcoming atmosphere where a bit of noise and energy from a larger group are perfectly fine. 
+- **The Food:** Focuses on excellent, casual comfort food like **burgers and chips**, alongside a massive selection of **craft beers**.
+- **Logistics:** Hides a highly entertaining seating arrangement in its outdoor courtyard—an actual retro bus parked in the backyard where you can sit and eat.
+- **Hours: 12pm to 11.30pm daily**
 
-### Drunken Admiral Seafarers Restaurant
-* **The Vibe:** An absolute Hobart institution located right on the Old Wharf. The entire restaurant is decked out from floor to ceiling with pirate and maritime memorabilia, creating a lively atmosphere that is incredibly fun for kids.
-* **The Food:** Famous for their rich, hearty seafood chowder and massive seafood platters built for sharing. The menu changes daily based on whatever jumps off the local trawlers that morning.
-* **Logistics:** Because of its popularity with locals and tourists, you must book well in advance, especially to secure a large table on a Friday night.
+### [Drunken Admiral Seafarers Restaurant](https://drunkenadmiral.net/)
+- **The Vibe:** An absolute Hobart institution located right on the Old Wharf. The entire restaurant is decked out from floor to ceiling with pirate and maritime memorabilia, creating a lively atmosphere that is incredibly fun for kids.
+- **The Food:** Famous for their rich, hearty **seafood chowder** and **massive seafood platters** built for sharing. The **[menu](https://drunkenadmiral.net/menu)** changes daily based on whatever jumps off the local trawlers that morning.
+- **Logistics:** Because of its popularity with locals and tourists, you **must book well in advance**, especially to secure a large table on a Friday night.
+- **Hours: Dinner from 5pm daily**
 
-### Blue Eye Seafood Restaurant
-* **The Vibe:** Located right in the vibrant Salamanca Place, this is a great, relaxed spot with a subtle beach theme. It's a bit quieter than the Drunken Admiral but still very welcoming and accommodating for a group.
-* **The Food:** They focus on creative, locally sourced Tasmanian seafood with very generous portion sizes. Their signature baked blue eye trevalla and deep-filled seafood pies are highly rated.
-* **Logistics:** Being right in Salamanca makes it incredibly easy to go for a scenic stroll around the historic sandstone buildings and docks to walk off the meal afterward.
-
+### [Blue Eye Seafood Restaurant](https://www.blueeye.net.au/)
+- **The Vibe:** Located right in the vibrant Salamanca Place, this is a great, relaxed spot with a subtle beach theme. It's a bit quieter than the Drunken Admiral but still very welcoming and accommodating for a group.
+- **The Food:** They focus on creative, **locally sourced Tasmanian seafood with very generous portion sizes**. Their **[signature baked blue eye trevalla and deep-filled seafood pies](https://www.blueeye.net.au/latest-pdf-menus/)** are highly rated.
+- **Logistics:** Being right in Salamanca makes it incredibly easy to go for a scenic stroll around the historic sandstone buildings and docks to walk off the meal afterward.
+- **Hours: Tues to Sat 12pm to 10pm**
 
 
 ## Paused Here for now, haven't update beyond this point
