@@ -170,7 +170,7 @@ Dinner options:
 
 ---
 
-## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington and off to Freycinet
+## Day 3 - 24 May (Sunday) - Farm Gate Market and off to Freycinet
 
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/) - (Est. 8.30am to 11.00am - need to leave by 11am to make it for Kate's Berry Farm)**
 - **Hours:** 8:30 am to 1:00 pm
@@ -611,6 +611,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Plan:** Grab coffee and breakfast at the market. It's an excellent spot to sample local Tasmanian pastries, scallop pies, and fresh produce.
 
 
+<img src="https://images.unsplash.com/photo-1649562212395-9e76be8a18ec?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mount Wellington" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+
 **Afternoon: Mount Wellington Summit and Optional Bushwalk - (Est. 11am to 2pm)**
 - **[wellingtonpark.org.au/](https://wellingtonpark.org.au/)**
 - To Fern Tree, The Springs and the Pinnacle - access is via Huon Rd towards Fern Tree. Turn on to Pillinger Drive at Fern Tree, which becomes Pinnacle Rd. **There is no public parking in the Fern Tree Tavern carpark** - to access walks and facilities in the Fern Tree area, please **park in Stephenson Place or the Fern Glade parking area** only.
@@ -619,6 +621,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Check **[road status](https://www.hobartcity.com.au/Things-To-Do/Kunanyi-Mt-Wellington/Pinnacle-Road-status)** before driving up the mountain
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23380.51872847898!2d147.26702032380413!3d-42.903127117440626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e768eb189983d%3A0xf3ec3aa1f216c976!2sPinnacle%20Rd%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.9012854!2d147.2436667!5e0!3m2!1sen!2ssg!4v1774063980551!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+<img src="https://images.unsplash.com/photo-1666745320702-291769e59f70?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="MONA" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
 **Late Afternoon: Visiting [MONA - Museum of Old and New Art](https://mona.net.au/) - (Est. 2:30 pm to 5:00 pm)**
 - **Hours:** 10:00 am to 5:00 pm (Open Thursday to Monday; Closed Tuesdays and Wednesdays).
@@ -645,6 +650,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Free and easy afternoon options:**
 
 **Free and Easy Afternoon Options:**
+
+<img src="https://images.unsplash.com/photo-1653574542701-52fb31b1ba15?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Royal Tasmanian Botanical Gardens" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
 **Option A: [Royal Tasmanian Botanical Gardens](https://gardens.tas.gov.au/) - (Est. 12:00 pm to 3:00 pm)**
 - **Hours:** 8:00 am to 5:00 pm daily (Winter hours).
