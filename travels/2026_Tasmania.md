@@ -179,6 +179,9 @@ Dinner options:
 
 **Afternoon: Drive to Freycinet**
 
+
+<img src="https://unsplash.com/photos/arch-bridge-under-cumulus-clouds-Q4pAOJFCpV0" alt="Richmond Bridge" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+
 **Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - (Est. 11am to 12pm)**
 - Constructed between 1823 and 1825, it is the oldest bridge in Australia.
 - Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
@@ -212,7 +215,6 @@ Dinner options:
 **Morning: The Iconic Viewpoint**
 
 <img src="https://images.unsplash.com/photo-1627110466624-436b91b5d20b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Wineglass Bay" style="float: left; margin-right: 40px; margin-bottom: 10px;">
-
 
 **[Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/)** is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp. - **(Est. 9am to 11am)**
 - Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
@@ -323,7 +325,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.8704448815697!2d148.3009652767807!3d-41.87413377682302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa7142f258722675%3A0x4327b5159e9a4a3c!2sSealife%20Restaurant%26Caf%C3%A9%2C%201%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8726412!2d148.2988119!5e0!3m2!1sen!2ssg!4v1773482883018!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-[Blue Edge Bakery](https://www.facebook.com/people/Blue-Edge-Bakery-Bicheno/100063557649916/) is widely considered the best bakery in town and serves as the perfect pit stop to grab food on the go or sit down for a quick, hearty breakfast.
+**[Blue Edge Bakery](https://www.facebook.com/people/Blue-Edge-Bakery-Bicheno/100063557649916/)** is widely considered the best bakery in town and serves as the perfect pit stop to grab food on the go or sit down for a quick, hearty breakfast.
 
 - Known for their award-winning scallop pies, a classic Tasmanian staple you should definitely try.
 - Offers a massive variety of sweet pastries, sausage rolls, and excellent coffee.
@@ -380,6 +382,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23975.47967034553!2d148.24074736908145!3d-41.31027852786323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!5e0!3m2!1sen!2ssg!4v1773498140660!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Afternoon: Exploring the Bay of Fires**
+
+<img src="https://images.unsplash.com/photo-1736893393243-f3dcd4c1c4a4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Binalong Bay" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
 **Stop 1: [Binalong Bay](https://destinationbayoffires.com/binalong-bay/) (The Main Hub) - (Est. 2.30pm to 3.30pm)**
 - This is the iconic starting point for the Bay of Fires and has great, accessible parking.
@@ -526,6 +530,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 
 **Afternoon: The Drive South to Hobart**
+
+
+<img src="https://images.unsplash.com/photo-1693721154805-41ca69d4eac4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="The Red Bridge" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
 **Stop 1: [The Red Bridge (Campbell Town)](https://enjoytasmania.com.au/things-to-do/campbell-town/red-bridge/) - (Est. 1pm to 2.30pm commute) - skip if we want to try Ross Bakery which is 8 mins further down** 
 - Roughly an hour south of Launceston, this is the perfect first rest stop to let the kids stretch their legs.
