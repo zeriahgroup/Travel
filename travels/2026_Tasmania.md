@@ -128,7 +128,7 @@ Dinner options:
 
 ## Day 2 - 23 May (Saturday) - Salamanca Market and Bonorong Wildlife Sanctuary
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2.webp" alt="Day 2 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2.webp" alt="Day 2 Banner" style="float: left; margin-right: 200px; margin-bottom: 10px; width: 300px;">
 
 **Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home) - (Est. 9am to 12pm)**
 - **Hours:** 8:30 am to 3:00 pm
@@ -210,6 +210,8 @@ Dinner options:
 ## Day 4 - 25 May (Monday) - Exploring Freycinet National Park
 
 **Morning: The Iconic Viewpoint**
+
+https://images.unsplash.com/photo-1627110466624-436b91b5d20b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 
 **[Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/)** is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp. - **(Est. 9am to 11am)**
 - Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
@@ -430,7 +432,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Dinner And Other Food Options Around The Area -(Est. 5.30pm onwards)**
 
 <a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" target="_blank">
-  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 200px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
 
@@ -556,7 +558,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Dinner And Other Food Options Around The Area -(Est. 6pm onwards)**
 
 <a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" target="_blank">
-  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 200px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
 
