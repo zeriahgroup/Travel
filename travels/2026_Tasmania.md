@@ -128,7 +128,7 @@ Dinner options:
 
 ## Day 2 - 23 May (Saturday) - Salamanca Market and Bonorong Wildlife Sanctuary
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2.webp" alt="Day 2 Banner" style="float: left; margin-right: 200px; margin-bottom: 10px; width: 300px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2.webp" alt="Day 2 Banner" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px;">
 
 **Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home) - (Est. 9am to 12pm)**
 - **Hours:** 8:30 am to 3:00 pm
@@ -432,7 +432,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Dinner And Other Food Options Around The Area -(Est. 5.30pm onwards)**
 
 <a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" target="_blank">
-  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 200px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
 
@@ -558,7 +558,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Dinner And Other Food Options Around The Area -(Est. 6pm onwards)**
 
 <a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" target="_blank">
-  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 200px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
 
