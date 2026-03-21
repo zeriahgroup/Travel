@@ -130,7 +130,7 @@ Dinner options:
 
 <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2.webp" alt="Day 2 Banner" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px;">
 
-**Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home)** **(Est. 9am to 12pm)**
+**Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home) - (Est. 9am to 12pm)**
 - **Hours:** 8:30 am to 3:00 pm
 - **Logistics:** Arrive early (around 8:30 am or 9:00 am). Parking around Salamanca Place can be notoriously difficult on market days, so if your accommodation is in the CBD, walking or taking a short taxi/rideshare is highly recommended. 
 - **Plan:** Grab coffee and breakfast at the market. It's an excellent spot to sample local Tasmanian pastries, scallop pies, and fresh produce.
@@ -154,7 +154,7 @@ Dinner options:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.74241901562!2d147.34783887370742!3d-42.87088535115879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!5e0!3m2!1sen!2ssg!4v1773472589614!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Afternoon: [Bonorong Wildlife Sanctuary](https://www.bonorong.com.au/)** **(Est. 1pm to 5pm)**
+**Afternoon: [Bonorong Wildlife Sanctuary](https://www.bonorong.com.au/) - (Est. 1pm to 5pm)**
 - **Drive:** Salamanca Market to Bonorong (Approx. 30km, 31-minute drive).
 - **Hours:** Monday – Friday: 9am to 9pm; Saturday: 9am – 5pm.
 - **Logistics:** Try to leave Hobart by 1:30 pm or 2:00 pm at the latest. This gives you a solid 2.5 to 3 hours to explore before they close.
@@ -172,7 +172,7 @@ Dinner options:
 
 ## Day 3 - 24 May (Sunday) - Farm Gate Market and Mount Wellington and off to Freycinet
 
-**Morning: [Farm Gate Market](https://farmgatemarket.com.au/)** **(Est. 8.30am to 11.00am - need to leave by 11am to make it for Kate's Berry Farm)**
+**Morning: [Farm Gate Market](https://farmgatemarket.com.au/) - (Est. 8.30am to 11.00am - need to leave by 11am to make it for Kate's Berry Farm)**
 - **Hours:** 8:30 am to 1:00 pm
 - **Settle early lunch before heading off to Mount Wellington**
 
@@ -180,27 +180,27 @@ Dinner options:
 
 **Afternoon: Drive to Freycinet**
 
-**Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/)** **(Est. 11am to 12pm)**
+**Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - (Est. 11am to 12pm)**
 - Constructed between 1823 and 1825, it is the oldest bridge in Australia.
 - Features charming grassy riverbanks that are perfect for letting the younger ones run around and burn off energy before getting back into the cars.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93667.16114714836!2d147.28758691716575!3d-42.807398468802376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!5e0!3m2!1sen!2ssg!4v1773751541760!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Stop 2: [Kate's Berry Farm](https://katesberryfarm.com/) - 2pm to 5pm incl. 2hr drive** **(Est. 12pm to 3pm)**
+**Stop 2: [Kate's Berry Farm](https://katesberryfarm.com/) - 2pm to 5pm incl. 2hr drive - (Est. 12pm to 3pm)**
 - **Hours:** Saturday to Tuesday, 9am to 3pm
 - Features a cozy café overlooking sweeping views of the surrounding coastal landscape.
 - Specializes in homemade jams and spectacular fresh berry desserts.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d376755.941087743!2d147.42181322798115!3d-42.461657530531035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate&#39;s%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!5e0!3m2!1sen!2ssg!4v1773751567022!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Dinner: [Devil's Corner Cellar Door](https://www.devilscorner.com.au/visit/cellar-door)** **(Est. 3pm to 5pm)**
+**Dinner: [Devil's Corner Cellar Door](https://www.devilscorner.com.au/visit/cellar-door) - (Est. 3pm to 5pm)**
 - **Hours:** Open Daily from 10am to 5pm, Last Hosted Tasting and Tasting Paddles 4:30pm
 - Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
 - Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94793.35717298431!2d148.01971758060026!3d-42.0583512737877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate&#39;s%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773751723493!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Final Stretch - wash up and sleep** **(Est. 5pm to 6pm, free and easy thereafter)**
+**Final Stretch - wash up and sleep - (Est. 5pm to 6pm, free and easy thereafter)**
 - After dinner, continue the journey to [Archella 2 - 209 Hazards View Drive Unit 2, Freycinet National Park, Coles Bay](https://www.booking.com/Share-qsu4Nt) for the night.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94844.62410648282!2d148.11838777893388!3d-42.02399550851483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!5e0!3m2!1sen!2ssg!4v1773751764229!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -210,7 +210,7 @@ Dinner options:
 
 **Morning: The Iconic Viewpoint**
 
-**[Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/)** is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp. **(Est. 9am to 11am)**
+**[Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/)** is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp. - **(Est. 9am to 11am)**
 - Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
 - Offers the famous, sweeping vista of the curved white beach and turquoise water.
 - Presents a great opportunity to spot native wildlife, including friendly wallabies, along the trail.
@@ -219,7 +219,7 @@ Dinner options:
 
 **Mid-Day: An Easy Coastal Stroll**
 
-**[Cape Tourville Lighthouse and Lookout](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/cape-tourville)** provides an incredibly easy alternative or add-on to the Wineglass Bay hike, giving you dramatic ocean views without the steep climb. This makes it a perfect, low-effort stop to take in the rugged coastline before lunch. **(Est. 11am to 12pm)**
+**[Cape Tourville Lighthouse and Lookout](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/cape-tourville)** provides an incredibly easy alternative or add-on to the Wineglass Bay hike, giving you dramatic ocean views without the steep climb. This makes it a perfect, low-effort stop to take in the rugged coastline before lunch. - **(Est. 11am to 12pm)**
 - Features a 20-minute, flat, and fully fenced boardwalk loop.
 - Highly accessible for young kids, strollers, and those wanting a relaxed, breezy pace.
 - Offers sweeping, elevated views out to the Tasman Sea and down to the Hazards mountain range.
@@ -228,7 +228,7 @@ Dinner options:
 
 **Lunch: Fresh Local Seafood**
 
-**[Freycinet Marine Farm](https://www.freycinetmarinefarm.com/)** is a staple stop when visiting the area, offering a casual, rustic dining experience right near the water. It is an excellent spot to regroup and indulge in some of the region's famous seafood midway through your day. **(Est. 12pm to 2.30pm)**
+**[Freycinet Marine Farm](https://www.freycinetmarinefarm.com/)** is a staple stop when visiting the area, offering a casual, rustic dining experience right near the water. It is an excellent spot to regroup and indulge in some of the region's famous seafood midway through your day. - **(Est. 12pm to 2.30pm)**
 - Specializes in freshly harvested oysters and mussels sourced directly from their farm.
 - Offers casual outdoor seating with a very relaxed, family-friendly vibe.
 - Features non-seafood options and hot chips, making it an easy crowd-pleaser for the kids.
@@ -244,7 +244,7 @@ Dinner options:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d16753.665060032636!2d148.20592289966623!3d-42.071959275253676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!4m5!1s0xaa73d5f036fe68ad%3A0xf8ddd8f34c701104!2sHoneymoon%20Bay%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1369086!2d148.2986157!5e0!3m2!1sen!2ssg!4v1773477360889!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Chillax at [Ice Creamery & Co](https://icecreameryandco.com.au/#Scoops)** **(Est. 4pm to 5pm)**
+**Chillax at [Ice Creamery & Co](https://icecreameryandco.com.au/#Scoops) - (Est. 4pm to 5pm)**
 
 - Specializes in small-batch, Tasmanian-made ice cream.
 - Offers a massive variety of flavors that are guaranteed to be a hit with the kids after a long day of exploring.
@@ -261,7 +261,7 @@ Dinner options:
 
 ## Day 5 - 26 May (Tuesday) - Freycinet to Bicheno
 
-**Morning: Breakfast at the Pondering Frog** **(Est. 8.30am to 9.30am** latest, need to reach East Coast Natureworld before 10am to catch the 10am Devil feeding time slot)
+**Morning: Breakfast at the Pondering Frog - (Est. 8.30am to 9.30am** latest, need to reach East Coast Natureworld before 10am to catch the 10am Devil feeding time slot)
 [The Pondering Frog](https://www.ponderingfrog.com.au/) is located just south of Bicheno and is a brilliant, quirky stop either on your way into town or as an afternoon treat. The entire property is frog-themed, which is guaranteed to be a huge hit with your daughter and the other kids.
 
 - Famous for their handcrafted ice creams and massive sundaes.
@@ -272,7 +272,7 @@ Dinner options:
 
 **Off to see the Tasmanian Devil after breakfast**
 
-**Morning: [East Coast Natureworld](https://www.natureworld.com.au/)** **(Est. 10am to 12pm)**
+**Morning: [East Coast Natureworld](https://www.natureworld.com.au/) - (Est. 10am to 12pm)**
 - **Logistics:** Located just 5 minutes north of Bicheno. It opens at 9:00 am, making it a perfect first stop before heading into town. 
 - **Plan:** A massive 150-acre wildlife sanctuary. General admission usually includes roaming among the kangaroos and wallabies (you can buy feed for them). Check their schedule for the Tasmanian Devil feeding times—it is a great, safe way for the kids to see them active during the day.
 -  **Note:** Devil Feeding Timing is 10am, 12pm, 2pm
@@ -306,7 +306,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.7241261507656!2d148.304187526781!3d-41.877281577019296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!5e0!3m2!1sen!2ssg!4v1773482820266!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Evening: [Bicheno Penguin Tours](https://bichenopenguintours.com.au/)** **(Est. 5.30pm to 8pm)**
+**Evening: [Bicheno Penguin Tours](https://bichenopenguintours.com.au/) - (Est. 5.30pm to 8pm)**
 - **Logistics:** *Pre-booking is essential.* In late May, sunset is early, so tours typically start around 5:15 pm to 5:30 pm. 
 - **The Experience:** A quiet, guided walk onto a private rookery to watch wild fairy penguins waddle up the beach from the ocean. 
 - **Crucial Tip:** It will be freezing cold standing still near the ocean in the dark. Ensure both families wear thermal base layers, heavy windproof coats, beanies, gloves, and thick enclosed shoes.
@@ -339,14 +339,14 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: The Scenic Drive North**
 
-**Stop 1: [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge) Est. 9am to 10am**
+**Stop 1: [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge) -(Est. 9am to 10am**
 - A great first stop right after leaving town, offering a peaceful and highly accessible slice of the Douglas-Apsley National Park.
 - Features a very short, flat 10 to 15-minute walk from the car park, making it an excellent way to get the kids moving early.
 - Visitors often mention the clarity of the waterhole and the beautiful surrounding eucalyptus forest.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47542.641920965005!2d148.2018996638712!3d-41.8624143147344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!5e0!3m2!1sen!2ssg!4v1773497511450!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Stop 2: [Iron House Brewery Distillery & Vineyard](https://www.ironhouse.com.au/) Est. 10am to 12pm**
+**Stop 2: [Iron House Brewery Distillery & Vineyard](https://www.ironhouse.com.au/) -(Est. 10am to 12pm)**
 - Located almost exactly halfway to St Helens, serving as the perfect mid-morning or early lunch rest stop.
 - Situated on the White Sands Estate right against the coastline, offering spectacular ocean views.
 - The massive outdoor lawns are perfect for kids to safely run around and stretch their legs.
@@ -359,7 +359,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Lunch: St Helens & Fresh Seafood**
 
-**[Skippers Fish Shop](https://www.facebook.com/skippersfish/) Est. 12pm to 1.30pm**
+**[Skippers Fish Shop](https://www.facebook.com/skippersfish/) -(Est. 12pm to 1.30pm)**
 - A highly recommended stop in St Helens to grab a casual lunch before heading out to the Bay of Fires rocks.
 - Operates as a floating fish punt moored right at the marina, adding a fun novelty to the meal.
 - Known for serving incredibly fresh, locally caught fish and chips with generous portion sizes.
@@ -367,7 +367,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191386.90466291885!2d148.11137086222647!3d-41.45179675465096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa76cc961ce8adcf%3A0x7c2444c7183d39a4!2sIron%20House%20Brewery%20Distillery%20%26%20Vineyard%2C%20White%20Sands%20Estate%2C%2021554%20Tasman%20Hwy%2C%20Four%20Mile%20Creek%20TAS%207215%2C%20Australia!3m2!1d-41.573717699999996!2d148.3099476!4m5!1s0xaa7720a020457261%3A0x51094c796be79ea7!2sSkippers%20Fish%20Shop%2C%205%20Marina%20Parade%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.3272377!2d148.248648!5e0!3m2!1sen!2ssg!4v1773497840954!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**[Lease 65](https://www.tripadvisor.com.au/Restaurant_Review-g504328-d7801753-Reviews-Lease_65-St_Helens_Break_O_Day_Tasmania.html) Est. 1.30pm to 2.30pm**
+**[Lease 65](https://www.tripadvisor.com.au/Restaurant_Review-g504328-d7801753-Reviews-Lease_65-St_Helens_Break_O_Day_Tasmania.html) -(Est. 1.30pm to 2.30pm)**
 - A very short detour toward Binalong Bay to hit a working oyster farm offering some of the **best oysters** in the entire state.
 - Specializes in freshly shucked Pacific oysters sold directly from the farm gate at unbeatable prices.
 - Perfect for grabbing a few dozen to take with you to the beach or to enjoy later at your accommodation.
@@ -377,21 +377,21 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Afternoon: Exploring the Bay of Fires**
 
-**Stop 1: [Binalong Bay](https://destinationbayoffires.com/binalong-bay/) (The Main Hub) Est. 2.30pm to 3.30pm**
+**Stop 1: [Binalong Bay](https://destinationbayoffires.com/binalong-bay/) (The Main Hub) - (Est. 2.30pm to 3.30pm)**
 - This is the iconic starting point for the Bay of Fires and has great, accessible parking.
 - Famous for its pure white sand, crystal-clear turquoise waters, and massive granite boulders draped in bright orange lichen.
 - Let the kids spend an hour or two safely climbing, rock-hopping, and exploring the shoreline—it makes for unforgettable family photos.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23989.860443760936!2d148.2724479189671!3d-41.27115870885399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773cd10fd7070f%3A0x7aaeed454c9d5473!2sLease%2065%2C%20444%20Binalong%20Bay%20Rd%2C%20St%20Helens%20TAS%207216%2C%20Australia!3m2!1d-41.2933875!2d148.2741548!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!5e0!3m2!1sen!2ssg!4v1773498629657!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Stop 2: [The Gardens](https://destinationbayoffires.com/the-gardens/) (Scenic Drive) Est. 3.30pm to 4.30pm**
+**Stop 2: [The Gardens](https://destinationbayoffires.com/the-gardens/) (Scenic Drive) - (Est. 3.30pm to 4.30pm)**
 - From Binalong Bay, take a slow, highly scenic 15-minute drive north along the coast road until it officially ends at "The Gardens".
 - You will pass numerous secluded beaches and lookout points along the way.
 - The viewing platform at the very end offers a stunning panoramic sweep of the coastline and is a fantastic, breezy spot to wrap up the afternoon before heading to your accommodation.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.9593153564!2d148.2487060562548!3d-41.2191017956656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!5e0!3m2!1sen!2ssg!4v1773498661401!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Day ends in [Dolphin Lookout Cottage](https://www.booking.com/Share-LgJrXbB) Est. 4.30pm to 5.30pm**
+**Day ends in [Dolphin Lookout Cottage](https://www.booking.com/Share-LgJrXbB) - (Est. 4.30pm to 5.30pm)**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.91191551336!2d148.24588096800878!3d-41.219166358130686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!4m5!1s0xaa771fb4f2f67a5b%3A0x5fe176c14e8aa7ed!2s66%20Main%20Rd%2C%20Binalong%20Bay%20TAS%207216%2C%20Australia!3m2!1d-41.2521805!2d148.3064121!5e0!3m2!1sen!2ssg!4v1773568051522!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -403,14 +403,14 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: The Scenic Drive West**
 
-**Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls) Est. 9am to 10.30am** 
+**Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls) - (Est. 9am to 10.30am)**
 - A breathtaking natural attraction located a short drive off the Tasman Highway, serving as an excellent place to stretch your legs.
 - Features a very easy, 15-minute paved downhill walk through giant, ancient tree ferns that feel like a prehistoric jungle to young kids.
 - Showcases one of Tasmania's tallest and most spectacular waterfalls, which flows heavily year-round.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d95935.80465569052!2d148.03282474020287!3d-41.28723732233807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771fb4f2f67a5b%3A0x5fe176c14e8aa7ed!2s66%20Main%20Rd%2C%20Binalong%20Bay%20TAS%207216%2C%20Australia!3m2!1d-41.2521805!2d148.3064121!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!5e0!3m2!1sen!2ssg!4v1773568171534!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/) Est. 10.30am to 12pm**
+**Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/) -(Est. 10.30am to 12pm)**
 - Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
 - Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
 - Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
@@ -421,7 +421,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Afternoon: Exploring Launceston**
 
-**Stop 3: [Cataract Gorge Reserve](https://tasmania.com/points-of-interest/cataract-gorge/) Est. 3 hours leisurely walk Est. 12pm to 2.30pm commute, 2.30pm to 5.30pm for hiking and exploring** 
+**Stop 3: [Cataract Gorge Reserve](https://tasmania.com/points-of-interest/cataract-gorge/) - 3 hours leisurely walk - (Est. 12pm to 2.30pm commute, 2.30pm to 5.30pm for hiking and exploring)** 
 - Once you arrive in Launceston, head straight to this natural oasis located just a stroll from the city center.
 - You can walk the scenic gorge, take in the towering cliffs, and ride the **world's longest single-span chairlift** for incredible views.
 - Keep an eye out for the abundant wildlife; peacocks roam the grounds freely, and wallabies are frequently spotted.
@@ -429,7 +429,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d383677.1437175427!2d147.2362773948017!3d-41.29847076109606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!4m5!1s0xaa70a72b842d05b9%3A0xf03c94eb451d540!2sCataract%20Gorge%20Reserve%2C%2074-90%20Basin%20Rd%2C%20West%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4465532!2d147.1201087!5e0!3m2!1sen!2ssg!4v1773543428506!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Dinner And Other Food Options Around The Area - Est. 5.30pm onwards**
+**Dinner And Other Food Options Around The Area -(Est. 5.30pm onwards)**
 
 <a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" target="_blank">
   <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
@@ -505,18 +505,18 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Famous for their hearty savory pastries, including traditional Tasmanian scallop pies and sausage rolls.
 - **Hours:** 5am to 6pm daily
 
-
-**Stop 2: [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/)** (9.45am to 10.45am for Seahorse World and then 11.30am to 12.30pm for Playapus house?)
+**Stop 2: [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/) - (Est. 8.40am to 9.40am commute)** (9.45am to 10.45am for Seahorse World and then 11am to 12pm for Playapus house?)
 - Located side-by-side on the pier in Beauty Point (about a 45-minute drive from Launceston). 
 - Seahorse World offers a fascinating behind-the-scenes look at a working seahorse farm, while Platypus House guarantees close-up views of active platypuses and echidnas in daylight.
 - Remember to book before visiting
-- **Note** - Seahorse World has a kids discovery program tour that departs daily at 9.45am, so might want to catch this tour for the kids. Only limited to 25 places a day
+- **Note** - Seahorse World has a **kids discovery program tour that departs daily at 9.45am**, so might want to catch this tour for the kids. Only limited to 25 places a day
+- **Note** - If we want to visit Ross Bakery which closes at 3pm, then we might need to skip Platypus House
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d191847.0002471363!2d146.8120010813348!3d-41.29560516747447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa70a6de7dba09d7%3A0x8e0c20b7ba5c23a6!2sBanjo%E2%80%99s%20Bakery%20Caf%C3%A9%20%E2%80%93%20Launceston%2C%2098%2F100%20Brisbane%20St%2C%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4370392!2d147.13912349999998!4m5!1s0xaa7a20ef14de3c8d%3A0x7c2fd2cb2c96f05b!2sSeahorse%20World%2C%20200%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1498251!2d146.8239447!5e0!3m2!1sen!2ssg!4v1773569204098!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Lunch: Waterfront Dining**
 
-**[Beauty Point Waterfront Hotel](https://www.beautypointhotel.com.au/restaurant-bar)** (Can lunch from 12.30pm to 1.30pm. Ross Bakery closes at 3pm, it's a 1h 40min drive, might skip) 
+**[Beauty Point Waterfront Hotel](https://www.beautypointhotel.com.au/restaurant-bar) (Can lunch from 12pm to 1pm.** Ross Bakery closes at 3pm, it's a 1h 40min drive, might skip) 
 - A fantastic option for a hearty pub lunch located just a few minutes down the road from the wildlife attractions.
 - Features classic, crowd-pleasing pub fare with sweeping views across the Tamar River and a dedicated kids' menu.
 - **Hours:** Lunch: Monday - Sunday: 11:30am – 2:00pm; Dinner: Sunday - Wednesday: 5:00pm - 7:30pm; Thursday - Saturday: 5:00pm - 8:00pm
@@ -526,14 +526,14 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Afternoon: The Drive South to Hobart**
 
-**Stop 1: [The Red Bridge (Campbell Town)](https://enjoytasmania.com.au/things-to-do/campbell-town/red-bridge/)**
+**Stop 1: [The Red Bridge (Campbell Town)](https://enjoytasmania.com.au/things-to-do/campbell-town/red-bridge/) -(Est. 1pm to 2.30pm commute) - skip if we want to try Ross Bakery which is 8 mins further down** 
 - Roughly an hour south of Launceston, this is the perfect first rest stop to let the kids stretch their legs.
 - Built by convicts in 1838, it remains the oldest surviving brick bridge in Australia, located right next to a lovely riverside park.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d757599.3853573549!2d146.75948837614368!3d-42.12090602229162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7a20fc566e8f75%3A0xc2ba4073474fc369!2sBeauty%20Point%20Waterfront%20Hotel%2C%20116%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1587185!2d146.8230351!4m5!1s0xaa71001f33b05d89%3A0x7725b38f1a082d21!2sThe%20Red%20Bridge%2C%20139%20High%20St%2C%20Campbell%20Town%20TAS%207210%2C%20Australia!3m2!1d-41.932953!2d147.49275799999998!5e0!3m2!1sen!2ssg!4v1773571092943!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-**Stop 2: [Ross Bakery (Ross)](https://www.rossbakery.com.au/)**
+**Stop 2: [Ross Bakery (Ross)](https://www.rossbakery.com.au/) -(Est. 1pm to 2.40pm) if we are leaving from Beauty Point straight to Ross**
 - Located just a tiny bit further south in the stunning heritage village of Ross, making for an absolute must-visit afternoon treat stop.
 - Highly renowned for having the **best vanilla slice** in Tasmania, baked in a traditional semi-scotch wood-fired oven from the 1800s.
 - **Hours:** Wednesday to Sunday 8.30am to 3pm
@@ -541,7 +541,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79833.90838492343!2d147.45857667765299!3d-41.9606562499225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71001f33b05d89%3A0x7725b38f1a082d21!2sThe%20Red%20Bridge%2C%20139%20High%20St%2C%20Campbell%20Town%20TAS%207210%2C%20Australia!3m2!1d-41.932953!2d147.49275799999998!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!5e0!3m2!1sen!2ssg!4v1773571136712!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-**Stop 3: [Callington Mill Distillery (Oatlands)](https://callingtonmilldistillery.com/)**
+**Stop 3: [Callington Mill Distillery (Oatlands)](https://callingtonmilldistillery.com/) -(Est. 3pm to 4.30pm)**
 - A striking final rest stop about an hour outside of Hobart in a town featuring the largest collection of sandstone buildings in the country.
 - Showcases a massive, beautifully restored 1832 Lincolnshire windmill and provides very easy, flat walking paths around the grounds.
 - **Hours:** Wed, Thurs, Sunday: 2:00pm – 10:00pm Fri, Sat: 2:00pm - 11:30 pm
@@ -549,7 +549,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d189273.92385132727!2d147.26967280389835!3d-42.16301646903537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!5e0!3m2!1sen!2ssg!4v1773571359479!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-**Evening: Arrival in Hobart**
+**Evening: Arrival in Hobart - Est**
 - Complete the final leg of the drive down the Midland Highway to check into your Hobart accommodation and rest up before your flight home.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375973.481310407!2d147.0463147888539!3d-42.59153039789014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!5e0!3m2!1sen!2ssg!4v1773571416095!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
