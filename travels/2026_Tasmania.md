@@ -403,14 +403,14 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: The Scenic Drive West**
 
-**Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls)**
+**Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls) Est. 9am to 10.30am** 
 - A breathtaking natural attraction located a short drive off the Tasman Highway, serving as an excellent place to stretch your legs.
 - Features a very easy, 15-minute paved downhill walk through giant, ancient tree ferns that feel like a prehistoric jungle to young kids.
 - Showcases one of Tasmania's tallest and most spectacular waterfalls, which flows heavily year-round.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d95935.80465569052!2d148.03282474020287!3d-41.28723732233807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771fb4f2f67a5b%3A0x5fe176c14e8aa7ed!2s66%20Main%20Rd%2C%20Binalong%20Bay%20TAS%207216%2C%20Australia!3m2!1d-41.2521805!2d148.3064121!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!5e0!3m2!1sen!2ssg!4v1773568171534!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/)**
+**Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/) Est. 10.30am to 12pm**
 - Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
 - Offers viewing windows where the kids can often watch the dairy cows wandering in from the paddocks or being milked.
 - Features a fantastic farm-gate cafe to grab fresh milkshakes, morning tea, and stock up on award-winning mature cheddar cheeses.
@@ -421,14 +421,15 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Afternoon: Exploring Launceston**
 
-**Stop 3: [Cataract Gorge Reserve](https://tasmania.com/points-of-interest/cataract-gorge/)**
+**Stop 3: [Cataract Gorge Reserve](https://tasmania.com/points-of-interest/cataract-gorge/) Est. 3 hours leisurely walk Est. 12pm to 2.30pm commute, 2.30pm to 5.30pm for hiking and exploring** 
 - Once you arrive in Launceston, head straight to this natural oasis located just a stroll from the city center.
-- You can walk the scenic gorge, take in the towering cliffs, and ride the world's longest single-span chairlift for incredible views.
+- You can walk the scenic gorge, take in the towering cliffs, and ride the **world's longest single-span chairlift** for incredible views.
 - Keep an eye out for the abundant wildlife; peacocks roam the grounds freely, and wallabies are frequently spotted.
+- **[Cataract Gorge Launceston Walking Tour](https://tasmania.com/things-to-do/hiking-walking/cataract-gorge-launceston-walking-tour/)**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d383677.1437175427!2d147.2362773948017!3d-41.29847076109606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!4m5!1s0xaa70a72b842d05b9%3A0xf03c94eb451d540!2sCataract%20Gorge%20Reserve%2C%2074-90%20Basin%20Rd%2C%20West%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4465532!2d147.1201087!5e0!3m2!1sen!2ssg!4v1773543428506!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Dinner and Other Food Options**
+**Dinner And Other Food Options Around The Area - Est. 5.30pm onwards**
 
 <a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" target="_blank">
   <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
@@ -499,7 +500,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: Breakfast & Beauty Point Wildlife**
 
-**Stop 1: [Banjo’s Bakery Café](https://banjos.com.au/launceston)** (Arrive around 8am, dine till 8.40am, then travel about an hour to Seahorse World)
+**Stop 1: [Banjo’s Bakery Café](https://banjos.com.au/launceston) (Arrive around 8am, dine till 8.40am**, then travel about an hour to Seahorse World)
 - A highly popular, casual bakery that serves as a staple for locals wanting a quick, comforting meal before hitting the road.
 - Famous for their hearty savory pastries, including traditional Tasmanian scallop pies and sausage rolls.
 - **Hours:** 5am to 6pm daily
