@@ -526,14 +526,14 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Afternoon: The Drive South to Hobart**
 
-**Stop 1: [The Red Bridge (Campbell Town)](https://enjoytasmania.com.au/things-to-do/campbell-town/red-bridge/) -(Est. 1pm to 2.30pm commute) - skip if we want to try Ross Bakery which is 8 mins further down** 
+**Stop 1: [The Red Bridge (Campbell Town)](https://enjoytasmania.com.au/things-to-do/campbell-town/red-bridge/) - (Est. 1pm to 2.30pm commute) - skip if we want to try Ross Bakery which is 8 mins further down** 
 - Roughly an hour south of Launceston, this is the perfect first rest stop to let the kids stretch their legs.
 - Built by convicts in 1838, it remains the oldest surviving brick bridge in Australia, located right next to a lovely riverside park.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d757599.3853573549!2d146.75948837614368!3d-42.12090602229162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7a20fc566e8f75%3A0xc2ba4073474fc369!2sBeauty%20Point%20Waterfront%20Hotel%2C%20116%20Flinders%20St%2C%20Beauty%20Point%20TAS%207270%2C%20Australia!3m2!1d-41.1587185!2d146.8230351!4m5!1s0xaa71001f33b05d89%3A0x7725b38f1a082d21!2sThe%20Red%20Bridge%2C%20139%20High%20St%2C%20Campbell%20Town%20TAS%207210%2C%20Australia!3m2!1d-41.932953!2d147.49275799999998!5e0!3m2!1sen!2ssg!4v1773571092943!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-**Stop 2: [Ross Bakery (Ross)](https://www.rossbakery.com.au/) -(Est. 1pm to 2.40pm) if we are leaving from Beauty Point straight to Ross**
+**Stop 2: [Ross Bakery (Ross)](https://www.rossbakery.com.au/) - (Est. 1pm to 2.40pm) if we are leaving from Beauty Point straight to Ross**
 - Located just a tiny bit further south in the stunning heritage village of Ross, making for an absolute must-visit afternoon treat stop.
 - Highly renowned for having the **best vanilla slice** in Tasmania, baked in a traditional semi-scotch wood-fired oven from the 1800s.
 - **Hours:** Wednesday to Sunday 8.30am to 3pm
@@ -541,7 +541,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79833.90838492343!2d147.45857667765299!3d-41.9606562499225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71001f33b05d89%3A0x7725b38f1a082d21!2sThe%20Red%20Bridge%2C%20139%20High%20St%2C%20Campbell%20Town%20TAS%207210%2C%20Australia!3m2!1d-41.932953!2d147.49275799999998!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!5e0!3m2!1sen!2ssg!4v1773571136712!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-**Stop 3: [Callington Mill Distillery (Oatlands)](https://callingtonmilldistillery.com/) -(Est. 3pm to 4.30pm)**
+**Stop 3: [Callington Mill Distillery (Oatlands)](https://callingtonmilldistillery.com/) - (Est. 3pm to 4.30pm)**
 - A striking final rest stop about an hour outside of Hobart in a town featuring the largest collection of sandstone buildings in the country.
 - Showcases a massive, beautifully restored 1832 Lincolnshire windmill and provides very easy, flat walking paths around the grounds.
 - **Hours:** Wed, Thurs, Sunday: 2:00pm – 10:00pm Fri, Sat: 2:00pm - 11:30 pm
@@ -549,10 +549,48 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d189273.92385132727!2d147.26967280389835!3d-42.16301646903537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!5e0!3m2!1sen!2ssg!4v1773571359479!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-**Evening: Arrival in Hobart - Est**
+**Evening: Arrival in Hobart - (Est. 4.30pm to 6pm)**
 - Complete the final leg of the drive down the Midland Highway to check into your Hobart accommodation and rest up before your flight home.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375973.481310407!2d147.0463147888539!3d-42.59153039789014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!5e0!3m2!1sen!2ssg!4v1773571416095!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+**Dinner And Other Food Options Around The Area -(Est. 6pm onwards)**
+
+<a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" target="_blank">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 20px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+</a>
+
+
+### Mures Lower Deck
+* **The Vibe:** A Hobart institution located right on Victoria Dock. It has a bustling, casual atmosphere with plenty of indoor and outdoor seating overlooking the harbor and fishing boats.
+* **The Food:** Features a massive menu focused on locally sourced, fresh fish and chips. They also have an in-house ice creamery with 32 flavors.
+* **Logistics:** The energetic environment is perfect for large groups and kids. It is incredibly easy to grab a post-dinner treat right at the venue.
+
+### Franklin Wharf Restaurant and Bar
+* **The Vibe:** Sits right by the water at Murray Street Pier, offering a bright, spacious, and very modern dining space with fantastic sunset views over the Derwent River.
+* **The Food:** Offers a broad, crowd-pleasing menu that ranges from hearty pub classics to fresh Tasmanian produce.
+* **Logistics:** Provides a comfortable, all-day dining environment where two families can easily spread out without feeling cramped.
+
+### Suzie Luck's Restaurant & Bar
+* **The Vibe:** Located in the vibrant Salamanca Square, bringing a fantastic, energetic Southeast Asian flair. The colorful atmosphere keeps dining lively, fun, and relaxed.
+* **The Food:** Focuses on highly shareable dishes like curries, bao, and dumplings that are very easy to order for a large table.
+* **Logistics:** Located directly on a pedestrian-friendly square, giving everyone plenty of space to stroll around safely before or after the meal.
+
+### Preachers
+* **The Vibe:** A relaxed, laid-back spot in Battery Point with a casual, welcoming atmosphere where a bit of noise and energy from a larger group are perfectly fine. 
+* **The Food:** Focuses on excellent, casual comfort food like burgers and chips, alongside a massive selection of craft beers.
+* **Logistics:** Hides a highly entertaining seating arrangement in its outdoor courtyard—an actual retro bus parked in the backyard where you can sit and eat.
+
+### Drunken Admiral Seafarers Restaurant
+* **The Vibe:** An absolute Hobart institution located right on the Old Wharf. The entire restaurant is decked out from floor to ceiling with pirate and maritime memorabilia, creating a lively atmosphere that is incredibly fun for kids.
+* **The Food:** Famous for their rich, hearty seafood chowder and massive seafood platters built for sharing. The menu changes daily based on whatever jumps off the local trawlers that morning.
+* **Logistics:** Because of its popularity with locals and tourists, you must book well in advance, especially to secure a large table on a Friday night.
+
+### Blue Eye Seafood Restaurant
+* **The Vibe:** Located right in the vibrant Salamanca Place, this is a great, relaxed spot with a subtle beach theme. It's a bit quieter than the Drunken Admiral but still very welcoming and accommodating for a group.
+* **The Food:** They focus on creative, locally sourced Tasmanian seafood with very generous portion sizes. Their signature baked blue eye trevalla and deep-filled seafood pies are highly rated.
+* **Logistics:** Being right in Salamanca makes it incredibly easy to go for a scenic stroll around the historic sandstone buildings and docks to walk off the meal afterward.
 
 
 
