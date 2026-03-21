@@ -24,7 +24,6 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 - [TASMANIA, AUSTRALIA (2026) 10 Beautiful Places To Visit In Tasmania (+ Travel Tips) - by World Wild Hearts](https://www.youtube.com/watch?v=K3a0fzJ9fLA)
 
 **Pre booking of restaurants and attractions:**
-- **Gordon River Cruise (Strahan):** This is one of the biggest attractions on the West Coast, and you need to book your seat a few weeks in advance.
 - **Bicheno Penguin Tours:** These guided evening tours are highly popular for watching wild fairy penguins return to shore, so you need to book ahead to secure a spot.
 - **Maria Island Ferry & Bike Hire:** If you plan a day trip to Maria Island, you should book the Encounter Maria Ferry in advance. Since there are no cars on the island, renting a bike is the best way to get around, and the bike rentals book out quickly.
 - **Port Arthur Historic Site:** It is highly recommended to pre-book your entry tickets online. This streamlines your entry and helps you avoid crowds at the main ticketing area.
@@ -52,28 +51,6 @@ Since you are driving and visiting multiple national parks over your 8-day trip,
 - **Cradle Mountain Exception:** While the Holiday Pass covers your *entry* to Cradle Mountain, it no longer covers the mandatory Cradle Mountain Shuttle Bus. You will need to buy separate shuttle tickets at the Cradle Mountain Visitor Centre (Adults are $15, children under 18 are free). 
 - **Leave No Trace:** Many areas within the national parks do not have rubbish bins, so you must be prepared to carry all of your trash out with you.
 
-### Gordon River Cruise Booking Guide
-
-Pre-booking is **essential** (ideally 1 to 2 months in advance), especially since you need to seat two families together. There are two different operators running this route from Strahan:
-
-**1. Choose Your Operator:**
-- **Option A: [Gordon River Cruises](https://www.gordonrivercruises.com.au/) (The "Grey Boat")**
-  - **The Vibe:** Uses a purpose-built boat (*Spirit of the Wild*) that switches to a whisper-quiet electric motor on the river. 
-  - **Timing:** Departs earlier (8:30 am), giving you the best chance of seeing the river's famous mirror-like reflections.
-  - **Food & Cost:** Serves a buffet lunch. They offer specific **Family Packages** (e.g., 2 Adults + up to 3 Children) on the Main Deck, which can reduce the overall cost. Kids under 3 travel free.
-- **Option B: [World Heritage Cruises](https://www.worldheritagecruises.com.au/) (The "Red Boat")**
-  - **The Vibe:** A locally owned, family-run business operating since 1896.
-  - **Timing:** Departs at 9:00 am.
-  - **Food & Seating:** Lunch is freshly prepared and served directly to your seat. They offer "Main Deck Centre" seating arranged around large tables, which is perfect for two families to sit facing each other, play games, and eat together.
-
-**2. Booking Tips for the Group:**
-- **Seating:** The **Main Deck** is highly recommended for families. While window seats cost a premium, both boats have massive windows and allow everyone to freely walk to the open-air outdoor viewing decks at any time.
-- **Single Transaction:** It is crucial that **one person books the tickets for both families in a single transaction**. If you book separately, the ticketing system will likely allocate the seats in completely different sections of the boat.
-
-- **Devils @ Cradle:** You must pre-book tickets online for the guided tours as they frequently sell out. 
-  - Book via their official website: [devilsatcradle.com](https://devilsatcradle.com/).
-  - **Choosing a Tour:** The "After Dark Feeding Tour" (typically starting around 5:30 pm in May) is highly recommended as the devils are nocturnal and very active. However, the "Day Keeper Tour" (usually 1:00 pm or 3:00 pm) is a great, warmer alternative for the younger ones in the group before the mountain temperatures drop.
-  - **Booking Tip:** Book the tickets for both families in one transaction to ensure everyone gets on the same scheduled tour, as group sizes are strictly capped.
 
 ### Seahorse World and Platypus House Booking Guide
 
@@ -81,13 +58,14 @@ Pre-booking is **essential** (ideally 1 to 2 months in advance), especially sinc
 
 - **[Platypus House](https://platypushouse.com.au/):** Located on the exact same pier as Seahorse World. Bookings are **essential** as entry is strictly by guided tour only (usually running on the hour). Book your time slot online ahead of time so you can easily coordinate it back-to-back with your Seahorse World visit.
 
-
 ### Bicheno Penguin Tours Booking Guide
 
 - **Bicheno Penguin Tours:** Pre-booking online is essential as this is a highly popular, small-group tour that takes place on a private rookery. 
   - Book via their official website: [bichenopenguintours.com.au](https://bichenopenguintours.com.au/).
   - **Tour Times:** Departure times change throughout the year depending on dusk, so check the specific time for late May when you book.
   - **Booking Tip:** Make sure to book early to secure spots for both families together. Also, remember to remind everyone to pack very warm clothes for this specific night, as you will be standing still near the freezing ocean!
+
+
 
 ## Day 0 - 21 May (Thursday) - Singapore to Melbourne
 
@@ -721,3 +699,35 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | 209 Hazards View Dr | $705.00 | $634.50 | Simin | Lodging |
 | 232 Tasman Hwy |  $299.00 | $269.10 | Simin | Lodging |
 | Dolphin Lookout Cottage | ? | ? | Simin | Lodging |
+
+
+
+## Things we skipped this trip
+
+### Gordon River Cruise Booking Guide
+
+Pre-booking is **essential** (ideally 1 to 2 months in advance), especially since you need to seat two families together. There are two different operators running this route from Strahan:
+
+**1. Choose Your Operator:**
+- **Option A: [Gordon River Cruises](https://www.gordonrivercruises.com.au/) (The "Grey Boat")**
+  - **The Vibe:** Uses a purpose-built boat (*Spirit of the Wild*) that switches to a whisper-quiet electric motor on the river. 
+  - **Timing:** Departs earlier (8:30 am), giving you the best chance of seeing the river's famous mirror-like reflections.
+  - **Food & Cost:** Serves a buffet lunch. They offer specific **Family Packages** (e.g., 2 Adults + up to 3 Children) on the Main Deck, which can reduce the overall cost. Kids under 3 travel free.
+- **Option B: [World Heritage Cruises](https://www.worldheritagecruises.com.au/) (The "Red Boat")**
+  - **The Vibe:** A locally owned, family-run business operating since 1896.
+  - **Timing:** Departs at 9:00 am.
+  - **Food & Seating:** Lunch is freshly prepared and served directly to your seat. They offer "Main Deck Centre" seating arranged around large tables, which is perfect for two families to sit facing each other, play games, and eat together.
+
+**2. Booking Tips for the Group:**
+- **Seating:** The **Main Deck** is highly recommended for families. While window seats cost a premium, both boats have massive windows and allow everyone to freely walk to the open-air outdoor viewing decks at any time.
+- **Single Transaction:** It is crucial that **one person books the tickets for both families in a single transaction**. If you book separately, the ticketing system will likely allocate the seats in completely different sections of the boat.
+
+- **Devils @ Cradle:** You must pre-book tickets online for the guided tours as they frequently sell out. 
+  - Book via their official website: [devilsatcradle.com](https://devilsatcradle.com/).
+  - **Choosing a Tour:** The "After Dark Feeding Tour" (typically starting around 5:30 pm in May) is highly recommended as the devils are nocturnal and very active. However, the "Day Keeper Tour" (usually 1:00 pm or 3:00 pm) is a great, warmer alternative for the younger ones in the group before the mountain temperatures drop.
+  - **Booking Tip:** Book the tickets for both families in one transaction to ensure everyone gets on the same scheduled tour, as group sizes are strictly capped.
+
+
+
+
+
