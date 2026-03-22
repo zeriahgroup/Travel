@@ -95,7 +95,8 @@ Need to book flight to Hobart
 - **Pickup location:** Hobart Airport
 - **Supplier:** Keddy by Europcar
 
-Dinner options:
+If you are looking ahead, [see day 8 dinner options](#day8-dinner).
+
 **[Bar Wa Izakaya](https://www.barwaizakaya.com/). - 216-218 Elizabeth St, Hobart, TAS 7000**
 - Food Served All day 12pm-11pm
 - Ramen 12pm-3pm
@@ -542,6 +543,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d375973.481310407!2d147.0463147888539!3d-42.59153039789014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!5e0!3m2!1sen!2ssg!4v1773571416095!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<div id="day8-dinner"></div>
 
 **Dinner And Other Food Options Around The Area -(Est. 6pm onwards)**
 
