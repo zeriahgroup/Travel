@@ -695,10 +695,12 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Item | Cost in AUD | Cost in SGD Equivalent | Paid by | Category |
 | :--- | ---: | ---: |--- | --- |
 | Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
-| 4 Albatross Cct | $533.00 | $479.70 | Simin | Lodging |
-| 209 Hazards View Dr | $705.00 | $634.50 | Simin | Lodging |
-| 232 Tasman Hwy |  $299.00 | $269.10 | Simin | Lodging |
-| Dolphin Lookout Cottage | ? | ? | Simin | Lodging |
+| PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation |
+| 4 Albatross Cct - Hobart | $533.00 | $479.70 | Simin | Lodging |
+| The Bolt Hole - Freycinet  | $1,123.00 | $1,010.70 | Simin | Lodging |
+| Dolphin Lookout Cottage - Binalong Bay | $401 | $360.90 | Simin | Lodging |
+| 4 Albatross Cct - Hobart | ? | ? | Simin | Lodging |
+| Bicheno Penguin Tours | $251 | $225.90 | Timo | Sightseeing |
 
 
 
