@@ -158,7 +158,7 @@ Dinner options:
 **Afternoon: Drive to Freycinet**
 
 
-<img src="https://unsplash.com/photos/arch-bridge-under-cumulus-clouds-Q4pAOJFCpV0" alt="Richmond Bridge" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+<img src="https://images.unsplash.com/photo-1692970104866-38356ed4807b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Richmond Bridge" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
 **Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - (Est. 11am to 12pm)**
 - Constructed between 1823 and 1825, it is the oldest bridge in Australia.
