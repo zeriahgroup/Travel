@@ -414,9 +414,17 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.9593153564!2d148.2487060562548!3d-41.2191017956656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771f0c7531828f%3A0x403c94dd0ddfb00!2sBinalong%20Bay%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.2515189!2d148.31108799999998!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!5e0!3m2!1sen!2ssg!4v1773498661401!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+**Optional Late Afternoon Add-ons (If time and energy permit):**
 
-If we still have energy or if we ended early after this, we can visit **[Mount William National Park](https://parks.tas.gov.au/explore-our-parks/mount-william-national-park)**
+<img src="https://images.unsplash.com/photo-1548441335-03878fca18b4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Eddystone Point" style="float: left; width: 350px; margin-right: 25px; margin-bottom: 15px; border-radius: 8px;">
 
+**Option A: [Mount William National Park](https://parks.tas.gov.au/explore-our-parks/mount-william-national-park)**
+- **The Experience:** A stunning, remote coastal park known for its pristine beaches and incredible wildlife. It is actually one of the absolute best places in Tasmania to spot Forester kangaroos grazing in the late afternoon, which is always a massive hit with the kids.
+- **Logistics:** Remember to have your Parks Pass handy. Keep in mind that some access roads in this area are unsealed gravel, so take it easy in the rental cars.
+
+**Option B: Eddystone Point Lighthouse**
+- **The Experience:** Located right on the edge of the Mount William National Park, this area features a striking pink granite lighthouse built in 1889. 
+- **Logistics:** It is an incredibly scenic, quick detour to jump out of the cars, stretch your legs, and snap some fantastic group photos against the dramatic coastline before the sun goes down.
 
 **Day ends in [Dolphin Lookout Cottage](https://www.booking.com/Share-LgJrXbB) - (Est. 4.30pm to 5.30pm)**
 
@@ -771,6 +779,19 @@ Pre-booking is **essential** (ideally 1 to 2 months in advance), especially sinc
   - Book via their official website: [devilsatcradle.com](https://devilsatcradle.com/).
   - **Choosing a Tour:** The "After Dark Feeding Tour" (typically starting around 5:30 pm in May) is highly recommended as the devils are nocturnal and very active. However, the "Day Keeper Tour" (usually 1:00 pm or 3:00 pm) is a great, warmer alternative for the younger ones in the group before the mountain temperatures drop.
   - **Booking Tip:** Book the tickets for both families in one transaction to ensure everyone gets on the same scheduled tour, as group sizes are strictly capped.
+
+## Cradle Mountain
+
+<img src="https://images.unsplash.com/photo-1701389357376-5b72922c5c8a?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dove Lake Cradle Mountain" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+
+Need to wait for kids to be a bit older and can walk a bit further before attempting this.
+
+
+## Russell Falls
+
+<img src="https://images.unsplash.com/photo-1667285720800-07c944866fee?q=80&w=1329&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Russell Falls" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+
+
 
 
 
