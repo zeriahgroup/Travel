@@ -475,8 +475,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Hours:** 8am to 2.30pm daily
 - <earthyeats.tas@outlook.com>
 
-## Need to book accomodation for Day 7 Launceston
-
+**Day ends in [Renovated Homely Home - 47 Campbell Street, 7250 Newstead, Australia](https://www.booking.com/Share-9WLdPd) - (Est. 7.30pm onwards)**
 
 
 ## Day 8 - 29 May (Friday) - Tamar Valley & The Heritage Highway
@@ -487,6 +486,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - A highly popular, casual bakery that serves as a staple for locals wanting a quick, comforting meal before hitting the road.
 - Famous for their hearty savory pastries, including traditional Tasmanian scallop pies and sausage rolls.
 - **Hours:** 5am to 6pm daily
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5981.673862780261!2d147.14307664835414!3d-41.44275984263387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa70a6b91d570247%3A0xcc46e6610930c1c5!2s47%20Campbell%20St%2C%20Newstead%20TAS%207250%2C%20Australia!3m2!1d-41.4466896!2d147.1560361!4m5!1s0xaa70a6de7dba09d7%3A0x8e0c20b7ba5c23a6!2sBanjo%E2%80%99s%20Bakery%20Caf%C3%A9%20%E2%80%93%20Launceston%2C%2098%2F100%20Brisbane%20St%2C%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4370392!2d147.13912349999998!5e0!3m2!1sen!2ssg!4v1774161403928!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Stop 2: [Seahorse World](https://seahorseworld.com.au/) and [Platypus House](https://platypushouse.com.au/) - (Est. 8.40am to 9.40am commute)** (9.45am to 10.45am for Seahorse World and then 11am to 12pm for Playapus house?)
 - Located side-by-side on the pier in Beauty Point (about a 45-minute drive from Launceston). 
