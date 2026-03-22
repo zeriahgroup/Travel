@@ -291,7 +291,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.7241261507656!2d148.304187526781!3d-41.877281577019296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!5e0!3m2!1sen!2ssg!4v1773482820266!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Evening: [Bicheno Penguin Tours](https://bichenopenguintours.com.au/) - (Est. 5.30pm to 8pm)**
+**Evening: [Bicheno Penguin Tours](https://bichenopenguintours.com.au/) - (Est. 5pm to 8pm) - Booked under Tim for 5.10pm**
 - **Logistics:** *Pre-booking is essential.* In late May, sunset is early, so tours typically start around 5:15 pm to 5:30 pm. 
 - **The Experience:** A quiet, guided walk onto a private rookery to watch wild fairy penguins waddle up the beach from the ocean. 
 - **Crucial Tip:** It will be freezing cold standing still near the ocean in the dark. Ensure both families wear thermal base layers, heavy windproof coats, beanies, gloves, and thick enclosed shoes.
