@@ -289,7 +289,7 @@ After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Aus
 - Features an outdoor play area complete with a popular frog slide.
 - Also offers a full cafe menu, including their highly praised seafood chowder.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94851.15080365237!2d148.1495784787218!3d-42.01962010020829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717c2493762c71%3A0xc1ae3ddafd8071d2!2s2%2F209%20Hazards%20View%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.099465599999995!2d148.2423907!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!5e0!3m2!1sen!2ssg!4v1773482733770!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94832.95779035354!2d148.17161477931316!3d-42.0318155233644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717dfdc0fbffff%3A0xabd2ef5dbb3153e8!2sThe%20Bolt%20Hole%2C%2023%20Bradley%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1218277!2d148.2931743!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!5e0!3m2!1sen!2ssg!4v1774169419468!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Off to see the Tasmanian Devil after breakfast**
 
@@ -352,7 +352,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1485.4150930517258!2d148.3047559890317!3d-41.87499989562894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!4m5!1s0xaa71427ec7befa79%3A0x34445bc159e6a505!2sBicheno%20Penguin%20Tours%20and%20Bicheno%20Surf%20Shop%2C%20Unit%201%2F70%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.875182099999996!2d148.3034619!5e0!3m2!1sen!2ssg!4v1773482952812!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Day ends on 232 Tasman Highway, 7215, Australia**
+**Day ends on [Beachfront Bicheno Hotel - 232 Tasman Highway, 7215, Australia](https://www.booking.com/Share-WIqHsrc)**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1485.4235702804574!2d148.30045693899365!3d-41.874635142810554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71427ec7befa79%3A0x34445bc159e6a505!2sBicheno%20Penguin%20Tours%20and%20Bicheno%20Surf%20Shop%2C%20Unit%201%2F70%20Burgess%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.875182099999996!2d148.3034619!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!5e0!3m2!1sen!2ssg!4v1773495175968!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -734,8 +734,10 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
 | PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation |
 | 4 Albatross Cct - Hobart | $533.00 | $479.70 | Simin | Lodging |
+| Beachfront Bicheno Hotel - Bicheno | $300.00 | $270.00 | Simin | Lodging |
 | The Bolt Hole - Freycinet  | $1,123.00 | $1,010.70 | Simin | Lodging |
 | Dolphin Lookout Cottage - Binalong Bay | $401 | $360.90 | Simin | Lodging |
+| Renovated Homely Home - 47 Campbell Street | ? | ? | Simin | Lodging |
 | 4 Albatross Cct - Hobart | ? | ? | Simin | Lodging |
 | Bicheno Penguin Tours | $251 | $225.90 | Timo | Sightseeing |
 
