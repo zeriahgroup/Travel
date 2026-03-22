@@ -139,9 +139,9 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Logistics:** Try to leave Hobart by 1:30 pm or 2:00 pm at the latest. This gives you a solid 2.5 to 3 hours to explore before they close.
 - **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. Check their daily schedule upon arrival to time your walkabout with the keeper talks.
 
-**Lodging: [4 Albatross Cct, Mornington TAS 7018, Australia](https://www.booking.com/Share-WLPXns)**
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93691.22565606928!2d147.21180301638523!3d-42.79150388770555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e11cf7af2599d%3A0x30809560fff5e057!2sBonorong%20Wildlife%20Sanctuary%2C%20593%20Briggs%20Rd%2C%20Brighton%20TAS%207030%2C%20Australia!3m2!1d-42.708675799999995!2d147.2711546!5e0!3m2!1sen!2ssg!4v1773472626351!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+**Lodging: [4 Albatross Cct, Mornington TAS 7018, Australia](https://www.booking.com/Share-WLPXns)**
 
 **Back to Albatross Cct for the night**
 
@@ -182,7 +182,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94793.35717298431!2d148.01971758060026!3d-42.0583512737877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate&#39;s%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773751723493!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Final Stretch - wash up and sleep - (Est. 5pm to 6pm, free and easy thereafter)**
-- After dinner, continue the journey to [The Bolthole - 23 Bradley Drive, 7215 Coles Bay Australia](https://www.booking.com/Share-CX7gbYL) for the night.
+- After dinner, continue the journey to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Australia](https://www.booking.com/Share-CX7gbYL)** for the night.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94832.95779035354!2d148.14002737931312!3d-42.0318155233644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717dfdc0ff7f0b%3A0x796d7690d5b766e1!2s23%20Bradley%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.121801!2d148.29313159999998!5e0!3m2!1sen!2ssg!4v1774163103673!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -232,18 +232,53 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Chillax at [Ice Creamery & Co](https://icecreameryandco.com.au/#Scoops) - (Est. 4pm to 5pm)**
 
-- Specializes in small-batch, Tasmanian-made ice cream.
-- Offers a massive variety of flavors that are guaranteed to be a hit with the kids after a long day of exploring.
-- Located very close to the main shops, making it an easy stop on the drive back to the accommodation.
+### Ice Creamery & Co.
+- **The Vibe:** The go-to spot for keeping dinner incredibly casual, quick, and fun after a long day of hiking around Wineglass Bay.
+- **The Food:** Specializes in classic, crispy fish and chips using locally caught seafood, alongside a huge selection of Aussie-made ice creams and sundaes for dessert.
+- **Logistics:** Perfect for a quick, no-fuss grab-and-go meal or a highly casual sit-down treat with the kids.
+- **Hours: 11am to 7:30pm daily**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4307.316778696376!2d148.28346570944478!3d-42.128309075252105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d5f036fe68ad%3A0xf8ddd8f34c701104!2sHoneymoon%20Bay%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1369086!2d148.2986157!4m5!1s0xaa717f14538e5df9%3A0xd617a8b995db6343!2sIce%20Creamery%20%26%20Co.%2C%204%20Garnet%20Ave%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1258566!2d148.29052969999998!5e0!3m2!1sen!2ssg!4v1773477851889!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-**Dinner at [Big Pete's Eats](https://www.facebook.com/bigpeteseats/) which is near the accomodation** **(Est. 5pm to 7pm**, thereafter free and easy)
-- Hearty Menu: They are famous for their mobile spit-roast setup featuring locally sourced meats cooked over an open flame, as well as fantastic burgers and a very popular Thursday "Parmie" night.
-- Great for Kids: Reviewers frequently highlight that it is highly family-friendly, offering a dedicated menu for the little ones that goes beyond the standard pub fare, plus they have pool tables and darts to keep everyone entertained while waiting for food.
-- Evening Convenience: It is one of the very few spots in the Coles Bay area that reliably serves food later into the evening (open until 8:00 PM), making it a great safety net if your afternoon rockpooling runs long.
+**Dinner options around Coles Bay**
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23678.80006348338!2d148.24664972143893!3d-42.11068307083744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717f14538e5df9%3A0xd617a8b995db6343!2sIce%20Creamery%20%26%20Co.%2C%204%20Garnet%20Ave%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1258566!2d148.29052969999998!4m5!1s0xaa717d02fb322b25%3A0x160a0b7a363e520f!2sBig%20Pete&#39;s%20Eats%2C%201%20Swanwick%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0989973!2d148.24673429999999!5e0!3m2!1sen!2ssg!4v1773752254245!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_coles_bay_dinner.webp" target="_blank">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_coles_bay_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+</a>
+
+
+
+
+### [The Bay Restaurant](https://www.freycinetlodge.com.au/dine/the-bay-restaurant)
+- **The Vibe:** Located inside the Freycinet Lodge, offering an elegant, elevated dining experience right within the national park with stunning sunset views over Great Oyster Bay.
+- **The Food:** Features a seasonal, à la carte menu that strongly highlights fresh Tasmanian **seafood and local produce**.
+- **Logistics:** Perfect for a memorable group gathering, but bookings are absolutely essential.
+- **Hours: Dinner 5.30pm - late (bookings essential)**
+
+### [Mount Paul Lounge](https://www.freycinet.com/mount-paul-lounge-dining/)
+- **The Vibe:** Set slightly outside the main town at Freycinet Resort, offering a warm, communal barn-like setting complete with a cozy fireplace.
+- **The Food:** Focuses on a highly curated Japanese-influenced menu, offering **Shabu Shabu or Teishoku set meals** utilizing local Tasmanian ingredients.
+- **Logistics:** Provides a unique dinner experience in spectacular surroundings. Bookings are highly recommended.
+- **Hours: Dinner starts at 6:00 pm, all reservations are allocated a two-hour dining window.**
+
+### [Geographe Restaurant and Espresso Bar](https://www.geographerestaurant.com.au/)
+- **The Vibe:** A massive crowd-pleaser located right in the heart of Coles Bay, featuring a great outdoor deck that looks straight out at the Hazards mountain range.
+- **The Food:** Serves a fantastic, approachable modern Australian menu that both kids and adults will love, and is particularly famous for its **woodfired pizzas**.
+- **Logistics: Extremely popular**, so arriving early or booking ahead is a smart idea to secure a spot on the deck for the whole family.
+- **Hours: Breakfast 7:30am to 11:30am; Lunch and Dinner 12pm to 8.30pm daily**
+
+### [Iluka Tavern](https://www.facebook.com/ilukatavern.colesbay/)
+- **The Vibe:** The local town pub in Coles Bay, offering a very relaxed, no-fuss coastal retreat atmosphere right by the water.
+- **The Food:** Serves hearty, generous pub classics like **burgers, parmigianas, and steaks**.
+- **Logistics:** Features plenty of space and a welcoming vibe, making it incredibly easy for a large, energetic group to walk in and grab a table without needing a formal reservation.
+- **Hours: 11am to 9pm or 10pm daily**
+
+
+
+
+
+After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Australia](https://www.booking.com/Share-CX7gbYL)** for the night.
+
 
 ## Day 5 - 26 May (Tuesday) - Freycinet to Bicheno
 
