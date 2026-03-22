@@ -138,7 +138,7 @@ Dinner options:
 - **Logistics:** Try to leave Hobart by 1:30 pm or 2:00 pm at the latest. This gives you a solid 2.5 to 3 hours to explore before they close.
 - **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. Check their daily schedule upon arrival to time your walkabout with the keeper talks.
 
-**Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
+**Lodging: [4 Albatross Cct, Mornington TAS 7018, Australia](https://www.booking.com/Share-WLPXns)**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93691.22565606928!2d147.21180301638523!3d-42.79150388770555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e11cf7af2599d%3A0x30809560fff5e057!2sBonorong%20Wildlife%20Sanctuary%2C%20593%20Briggs%20Rd%2C%20Brighton%20TAS%207030%2C%20Australia!3m2!1d-42.708675799999995!2d147.2711546!5e0!3m2!1sen!2ssg!4v1773472626351!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -586,9 +586,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Logistics:** Being right in Salamanca makes it incredibly easy to go for a scenic stroll around the historic sandstone buildings and docks to walk off the meal afterward.
 - **Hours: Tues to Sat 12pm to 10pm**
 
-
-## Need to book accomodation for Day 8 Hobart
-
+**Lodging: [4 Albatross Cct, Mornington TAS 7018, Australia](https://www.booking.com/Share-WLPXns)**
 
 ## Day 9 - 30 May (Saturday) - Opportunity to visit Salamanca Market again, can visit Mount Wellington
 
@@ -622,6 +620,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93577.86331571244!2d147.2063473700619!3d-42.86633803427823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e768eb189983d%3A0xf3ec3aa1f216c976!2sPinnacle%20Rd%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.9012854!2d147.2436667!4m5!1s0xaa6e734a68764f2b%3A0xc271b4063d65ecd5!2sMONA%2C%20655%20Main%20Rd%2C%20Berriedale%20TAS%207011%2C%20Australia!3m2!1d-42.8125442!2d147.2614594!5e0!3m2!1sen!2ssg!4v1774063920566!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **See Day 8 for Dinner Options around Hobart**
+
+**Lodging: [4 Albatross Cct, Mornington TAS 7018, Australia](https://www.booking.com/Share-WLPXns)**
 
 
 ## Day 10 - 31 May (Sunday) - Opportunity to visit Farm Gate Market again, fly fo Melbourne
