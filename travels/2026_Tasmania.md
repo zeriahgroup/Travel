@@ -558,7 +558,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **The Vibe:** Sits right by the water at Murray Street Pier, offering a bright, spacious, and very modern dining space with fantastic sunset views over the Derwent River.
 - **The Food:** Offers a **[broad, crowd-pleasing menu](https://order.platform.hungryhungry.com/franklinwharf-digimenu/menu)** that ranges from hearty pub classics to fresh Tasmanian produce.
 - **Logistics:** Provides a comfortable, all-day dining environment where two families can easily spread out without feeling cramped.
-- **Hours: Mon to Thurs: 12pm to 3pm & 5pm – 9:00pm | Fri to Sun All-day dining from 12pm to 9:30pm**
+- **Hours: Mon to Thurs: 12pm to 3pm & 5pm – 9:00pm; Fri to Sun All-day dining from 12pm to 9:30pm**
 
 ### [Suzie Luck's Restaurant & Bar](https://suzielucks.com.au/)
 - **The Vibe:** Located in the vibrant Salamanca Square, bringing a fantastic, energetic Southeast Asian flair. The colorful atmosphere keeps dining lively, fun, and relaxed.
