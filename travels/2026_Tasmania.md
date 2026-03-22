@@ -530,7 +530,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Stop 3: [Callington Mill Distillery (Oatlands)](https://callingtonmilldistillery.com/) - (Est. 3pm to 4.30pm)**
 - A striking final rest stop about an hour outside of Hobart in a town featuring the largest collection of sandstone buildings in the country.
 - Showcases a massive, beautifully restored 1832 Lincolnshire windmill and provides very easy, flat walking paths around the grounds.
-- **Hours:** Wed, Thurs, Sunday: 2:00pm – 10:00pm Fri, Sat: 2:00pm - 11:30 pm
+- **Hours:** 10am to 5pm daily
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d189273.92385132727!2d147.26967280389835!3d-42.16301646903537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!5e0!3m2!1sen!2ssg!4v1773571359479!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
