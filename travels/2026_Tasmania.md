@@ -792,6 +792,41 @@ Need to wait for kids to be a bit older and can walk a bit further before attemp
 <img src="https://images.unsplash.com/photo-1667285720800-07c944866fee?q=80&w=1329&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Russell Falls" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
 
+## Unique Tasmanian Shopping Experiences
+
+Tasmania isn't a destination known for massive outlet malls. Instead, its shopping scene is entirely focused on incredibly high-quality, locally produced artisan goods, fresh produce, and unique crafts.
+
+### 1. The Markets (The Absolute Must-Do)
+The best shopping in Tasmania happens outdoors at the weekend markets. 
+
+- **Salamanca Market (Saturdays):** This is where you buy **Huon Pine** products, a rare, incredible-smelling timber native only to Tasmania that doesn't rot. You’ll find artisans selling beautiful cutting boards, coasters, and small wooden toys that make fantastic souvenirs. It’s also the place for handcrafted jewelry, local ceramics, and lavender products.
+
+- **Farm Gate Market (Sundays):** This is purely about the food. If you have a kitchen at your Airbnb, this is where you buy locally made truffle oil, fresh Tasmanian honey (specifically Leatherwood honey, which is unique to the island), and artisan cheeses.
+
+### 2. Hobart CBD Backup Shops (For Bad Weather)
+If it rains on market day, or if you just want to browse indoors, Hobart's CBD has excellent brick-and-mortar stores that carry local goods:
+
+- **[Salamanca Wool Shop](https://www.salamancawoolshop.com/):** Located **[right by the square](https://maps.app.goo.gl/gmWKYz8ggHGD3EZk9)**, this is the perfect place to pick up high-quality Tasmanian merino wool beanies, scarves, and thick socks. If the weather turns cold on your trip, you will be incredibly grateful you bought these!
+
+- **[Tassie Makers Market Pty Ltd](https://www.tassiemakersmarket.com.au/):** Situated inside the **[Centrepoint Shopping Centre](https://centrepointhobart.com.au/)**, this is a fantastic, dry indoor spot that aggregates crafts, art, and souvenirs from various local Tasmanian makers.
+
+- **[Red Parka](https://redparka.com.au/):** A lovely independent boutique on **[Criterion Street](https://maps.app.goo.gl/vWCbd5v3no98tn7P9)** that features unique, locally designed gifts, artwork, and souvenirs that are far more creative than standard tourist shop fare.
+
+### 3. Boutique Distilleries 
+Tasmania is globally recognized for its whisky and gin. Even if you aren't doing a dedicated tasting tour, picking up a bottle is highly recommended.
+
+- **[LARK Cellar Door, Hobart](https://larkdistillery.com/):** Located conveniently on the waterfront, this is a premium spot to purchase some of the state's most famous single malt whiskies and botanical gins.
+
+- **[Sullivans Cove Distillery](https://sullivanscove.com/en-sg):** Located in **[Cambridge](https://maps.app.goo.gl/T14g6cxUEVRxFi3s9)** (very close to the Hobart Airport), making it a great stop if you want to pick up an award-winning bottle right before you fly out. 
+
+### 4. Artisanal Food Souvenirs (To Bring Home)
+If you want to bring a taste of Tasmania back to Singapore, focus on these easily packable items (which you can find at the markets or local grocers):
+- **Leatherwood Honey:** It has a very distinct, robust floral flavor unique to the Tasmanian wilderness.
+- **Tasmanian Pepperberry:** A native spice that is fruitier and sharper than regular black pepper. You can find it whole, ground, or infused in sea salt.
+- **Bridestowe Lavender Estate Products:** Many local shops sell their lavender teas, soaps, and the famous "Bobbie the Bear" heat packs (which are a huge hit with kids).
+- **Anvers Chocolate:** Based in the north, but widely available. They make incredible truffles and fudge.
+
+
 
 
 
