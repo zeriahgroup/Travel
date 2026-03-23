@@ -160,6 +160,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/) - (Est. 8.30am to 11.00am - need to leave by 11am to make it for Kate's Berry Farm)**
 - **Hours:** 8:30 am to 1:00 pm
+- There's a nearby Chemist Warehouse about 2 mins walk from Farm Gate Market
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23392.876095856063!2d147.34085937370634!3d-42.870532650980756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6de00b46048e11%3A0x5dd7d4410182d00a!2s4%20Albatross%20Cct%2C%20Mornington%20TAS%207018%2C%20Australia!3m2!1d-42.8571944!2d147.4077412!4m5!1s0xaa6e759b9c0c37cb%3A0xdcd11607da636ccb!2sFarm%20Gate%20Market%2C%20104%20Bathurst%20St%2C%20Hobart%20TAS%207000%2C%20Australia!3m2!1d-42.8813618!2d147.32514659999998!5e0!3m2!1sen!2ssg!4v1773472517510!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
