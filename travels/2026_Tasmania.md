@@ -97,7 +97,7 @@ Need to book flight to Hobart
 
 If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
-**Dinner booked under Tim - **[Drunken Admiral Seafarers Restaurant](https://drunkenadmiral.net/)**
+**Dinner booked under Tim - [Drunken Admiral Seafarers Restaurant](https://drunkenadmiral.net/)**
 - **Time:** 5.15pm reservation
 - **$40 penalty if no show**
 
