@@ -97,10 +97,9 @@ Need to book flight to Hobart
 
 If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
-**[Bar Wa Izakaya](https://www.barwaizakaya.com/). - 216-218 Elizabeth St, Hobart, TAS 7000**
-- Food Served All day 12pm-11pm
-- Ramen 12pm-3pm
-- <barwaizakaya@gmail.com>
+**Dinner booked under Tim - **[Drunken Admiral Seafarers Restaurant](https://drunkenadmiral.net/)**
+- **Time:** 5.15pm reservation
+- **$40 penalty if no show**
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
@@ -113,6 +112,12 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Hours:** 8:30 am to 3:00 pm
 - **Logistics:** Arrive early (around 8:30 am or 9:00 am). Parking around Salamanca Place can be notoriously difficult on market days, so if your accommodation is in the CBD, walking or taking a short taxi/rideshare is highly recommended. 
 - **Plan:** Grab coffee and breakfast at the market. It's an excellent spot to sample local Tasmanian pastries, scallop pies, and fresh produce.
+- **Nearby:** **[Salamanca Wool Shop](https://www.salamancawoolshop.com/):** and **[Tassie Makers Market Pty Ltd](https://www.tassiemakersmarket.com.au/)**
+
+- **[Salamanca Wool Shop](https://www.salamancawoolshop.com/):** Located **[right by the square](https://maps.app.goo.gl/gmWKYz8ggHGD3EZk9)**, this is the perfect place to pick up high-quality Tasmanian merino wool beanies, scarves, and thick socks. If the weather turns cold on your trip, you will be incredibly grateful you bought these!
+
+- **[Tassie Makers Market Pty Ltd](https://www.tassiemakersmarket.com.au/):** Situated inside the **[Centrepoint Shopping Centre](https://centrepointhobart.com.au/)**, this is a fantastic, dry indoor spot that aggregates crafts, art, and souvenirs from various local Tasmanian makers.
+
 
 **From Tasmania HOBART things to do, see, eat in 3 days travel - 2026 YouTube Video:**
 - **Nearby Coffee:** [Parklane Expresso](https://www.facebook.com/3SalamancaSquare/) - [3 Salamanca Square Hobart, TAS, Australia, Tasmania 7004](https://maps.app.goo.gl/UA9j1HRAJEzwzN826)
@@ -140,6 +145,8 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. Check their daily schedule upon arrival to time your walkabout with the keeper talks.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93691.22565606928!2d147.21180301638523!3d-42.79150388770555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e11cf7af2599d%3A0x30809560fff5e057!2sBonorong%20Wildlife%20Sanctuary%2C%20593%20Briggs%20Rd%2C%20Brighton%20TAS%207030%2C%20Australia!3m2!1d-42.708675799999995!2d147.2711546!5e0!3m2!1sen!2ssg!4v1773472626351!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Lodging: [4 Albatross Cct, Mornington TAS 7018, Australia](https://www.booking.com/Share-WLPXns)**
 
@@ -673,7 +680,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 **Lodging: [4 Albatross Cct, Mornington TAS 7018, Australia](https://www.booking.com/Share-WLPXns)**
 
 
-## Day 10 - 31 May (Sunday) - Opportunity to visit Farm Gate Market again, fly fo Melbourne
+## Day 10 - 31 May (Sunday) - Opportunity to visit Farm Gate Market again, fly to Melbourne
 
 **Morning: [Farm Gate Market](https://farmgatemarket.com.au/) - (Est. 9am to 11am)**
 - **Hours:** 8:30 am to 1:00 pm
