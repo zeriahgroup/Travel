@@ -717,8 +717,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Evening: Melbourne Airport Stay**
 - **Logistics:** Since you are staying right at the airport, you won't need to worry about long transfers into the Melbourne CBD.
-- **Accommodation Options:** - **PARKROYAL Melbourne Airport:** This is the most convenient option, as it is directly connected to the terminals via an indoor skybridge. It’s incredibly easy when managing two families and luggage.
-  - **Holiday Inn Melbourne Airport:** Located within the airport precinct, typically offering a free and very quick shuttle bus from the terminal.
+- **Accommodation:** - **[Best Western Melbourne Airport](https://www.booking.com/Share-GjuQw4)** 
 
 
 ## Remember to book flights from Hobart to Melbourne
