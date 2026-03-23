@@ -95,6 +95,8 @@ Need to book flight to Hobart
 - **Pickup location:** Hobart Airport
 - **Supplier:** Keddy by Europcar
 
+Between Hobart Airport and the lodging is **[Sullivans Cove Distillery](https://sullivanscove.com/en-sg):** Located in **[Cambridge](https://maps.app.goo.gl/T14g6cxUEVRxFi3s9)**
+
 If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Dinner booked under Tim - [Drunken Admiral Seafarers Restaurant](https://drunkenadmiral.net/)**
