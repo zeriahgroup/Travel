@@ -254,8 +254,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
   <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_coles_bay_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
-
-
+**We have a reservation for Geographe Restaurant under Tim from 6pm to 7.30pm**
 
 ### [The Bay Restaurant](https://www.freycinetlodge.com.au/dine/the-bay-restaurant)
 - **The Vibe:** Located inside the Freycinet Lodge, offering an elegant, elevated dining experience right within the national park with stunning sunset views over Great Oyster Bay.
