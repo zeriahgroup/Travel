@@ -127,10 +127,14 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **[Flamecake](https://www.facebook.com/flamecaketas):** Pizzas are good.
 
 **Potential Lunch Options:**
-- **[Machine Laundry Cafe](https://www.facebook.com/people/Machine-Laundry-Cafe/100063609127588/):** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient. The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food. Famous for its quirky, retro vibe, and offers crowd-pleasing brunch staples.
+- **[Machine Laundry Cafe](https://www.facebook.com/people/Machine-Laundry-Cafe/100063609127588/):** A fantastic sit-down option located directly in Salamanca Square, making it incredibly convenient.
+- The area out front has plenty of open outdoor space where the kids can safely run around if they get antsy waiting for food.
+- Famous for its quirky, retro vibe, and offers crowd-pleasing brunch staples.
 - Hours: 7.30am to 2.30am
 
-- **[Mures Lower Deck](https://www.mures.com.au/lower-deck/):** A Hobart institution down on Victoria Dock, just a short stroll from Salamanca Place. Specializes in fresh, locally caught **fish and chips**. Features an in-house ice creamery with 32 flavors!
+- **[Mures Lower Deck](https://www.mures.com.au/lower-deck/):** A Hobart institution down on Victoria Dock, just a short stroll from Salamanca Place.
+- Specializes in fresh, locally caught **fish and chips**.
+- Features an in-house ice creamery with 32 flavors!
 - Hours: 8am to 9pm daily
 - <lowerdeck@mures.com.au>
 
