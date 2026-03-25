@@ -89,7 +89,13 @@ Meet up for dinner with Tim and family for dinner after arrival.
 
 ## Day 1 - 22 May (Friday) - Melbourne to Hobart
 
-Need to book flight to Hobart
+**Tim and family:**
+- JQ707 - Melbourne to Hobart
+- Departing 14:35, Friday 22 May 2026, Melbourne International Terminal 2
+- Arriving 15:30, Friday 22 May 2026, Hobart
+
+
+
 
 **Car Rental Pick up at 2pm**
 - **Pickup location:** Hobart Airport
