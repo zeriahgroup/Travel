@@ -93,8 +93,8 @@ Meet up for dinner with Tim and family for dinner after arrival.
 - JQ707 - Melbourne to Hobart
 - Departing 14:35, Friday 22 May 2026, Melbourne International Terminal 2
 - Arriving 15:30, Friday 22 May 2026, Hobart
-
-
+- Check-in and bag drop closes 40 minutes before departure.
+- Boarding gate closes 20 minutes before departure.
 
 
 **Car Rental Pick up at 2pm**
@@ -720,7 +720,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 
 
-**Evening - Return the Rental Vehicle and Fly to Melbourne**
+**Afternoon - Return the Rental Vehicle and Fly to Melbourne**
 - **Car Return:** There are fuel stations right near Hobart Airport (in Cambridge) to top up the tanks before dropping off the keys. 
 - **Airport Vibe:** Hobart Airport is relatively small and easy to navigate. Aim to arrive at the terminal about 1.5 to 2 hours before your domestic flight to Melbourne. You can grab a casual lunch right at the airport after checking your bags.
 -  **Transit:** The flight from Hobart (HBA) to Melbourne (MEL) is incredibly quick, usually taking just 1 hour and 15 minutes in the air.
@@ -730,7 +730,13 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Accommodation:** - **[Best Western Melbourne Airport](https://www.booking.com/Share-GjuQw4)** 
 
 
-## Remember to book flights from Hobart to Melbourne
+**Tim and family:**
+- JQ704 - Hobart to Melbourne
+- Departing 14:55, Sunday 31 May 2026, Hobart
+- Arriving 16:15, Sunday 31 May 2026, Melbourne
+- Check-in and bag drop closes 40 minutes before departure.
+- Boarding gate closes 20 minutes before departure.
+
 
 ## Day 11 - 1 June (Monday) - Melbourne to Singapore
 
@@ -763,6 +769,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | :--- | ---: | ---: |--- | --- |
 | Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
 | PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation |
+| Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $ | $ | Air Tickets |
+| Tim Family SQ Air Tickets SIN - MEL 2 Way | $ | $ | Air Tickets |
 | 4 Albatross Cct - Hobart | $533.00 | $479.70 | Simin | Lodging |
 | Beachfront Bicheno Hotel - Bicheno | $300.00 | $270.00 | Simin | Lodging |
 | The Bolt Hole - Freycinet  | $1,123.00 | $1,010.70 | Simin | Lodging |
