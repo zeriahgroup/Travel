@@ -769,8 +769,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | :--- | ---: | ---: |--- | --- |
 | Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
 | PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation |
-| Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $ | $ | Air Tickets |
-| Tim Family SQ Air Tickets SIN - MEL 2 Way | $ | $ | Air Tickets |
+| Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $ | $ | Simin | Air Tickets |
+| Tim Family SQ Air Tickets SIN - MEL 2 Way | $ | $ | Simin | Air Tickets |
 | 4 Albatross Cct - Hobart | $533.00 | $479.70 | Simin | Lodging |
 | Beachfront Bicheno Hotel - Bicheno | $300.00 | $270.00 | Simin | Lodging |
 | The Bolt Hole - Freycinet  | $1,123.00 | $1,010.70 | Simin | Lodging |
