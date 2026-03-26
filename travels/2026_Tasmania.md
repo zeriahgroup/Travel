@@ -769,16 +769,16 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | :--- | ---: | ---: |--- | --- |
 | Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
 | PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation |
-| Tim Family SQ Air Tickets SIN - MEL 2 Way | $3,571.67 | $3,214.5 | Timo | Air Tickets |
+| Tim Family SQ Air Tickets SIN - MEL 2 Way | $3,571.67 | $3,214.50 | Timo | Air Tickets |
 | Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $1,298.25 | $1,168.45 | Simin | Air Tickets |
 | 4 Albatross Cct - Hobart | $533.00 | $479.70 | Simin | Lodging |
 | Beachfront Bicheno Hotel - Bicheno | $300.00 | $270.00 | Simin | Lodging |
 | The Bolt Hole - Freycinet  | $1,123.00 | $1,010.70 | Simin | Lodging |
-| Dolphin Lookout Cottage - Binalong Bay | $401 | $360.90 | Simin | Lodging |
-| Renovated Homely Home - 47 Campbell Street | $302 | $271.80 | Simin | Lodging |
-| 4 Albatross Cct - Hobart | $506 | $455.40 | Simin | Lodging |
-| Best Western Airport Motel - Melbourne | $306 | $275.40 | Simin | Lodging |
-| Bicheno Penguin Tours | $251 | $225.90 | Timo | Sightseeing |
+| Dolphin Lookout Cottage - Binalong Bay | $401.00 | $360.90 | Simin | Lodging |
+| Renovated Homely Home - 47 Campbell Street | $302.00 | $271.80 | Simin | Lodging |
+| 4 Albatross Cct - Hobart | $506.00 | $455.40 | Simin | Lodging |
+| Best Western Airport Motel - Melbourne | $306.00 | $275.40 | Simin | Lodging |
+| Bicheno Penguin Tours | $251.00 | $225.90 | Timo | Sightseeing |
 | Day 1 Lunch in Mel | $ | $ |  | Food Expenses | 
 | Day 1 Dinner - Drunken Admiral Seafarers Restaurant| $ | $ |  | Food Expenses |
 | Day 2 Morning - Salamanca Market | $ | $ |  | Food Expenses |
