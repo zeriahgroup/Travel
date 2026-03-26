@@ -779,6 +779,10 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Renovated Homely Home - 47 Campbell Street | $302.00 | $271.80 | Simin | Lodging |
 | 4 Albatross Cct - Hobart | $506.00 | $455.40 | Simin | Lodging |
 | Best Western Airport Motel - Melbourne | $306.00 | $275.40 | Simin | Lodging |
+| Bonorong Wildlife Sanctuary | $ | $ |  | Sightseeing |
+| East Coast Natureworld | $ | $ |  | Sightseeing |
+| Seahorse World | $ | $ |  | Sightseeing |
+| Platypus House | $ | $ |  | Sightseeing |
 | Bicheno Penguin Tours | $251.00 | $225.90 | Timo | Sightseeing |
 | Day 1 Lunch in Mel | $ | $ |  | Food Expenses | 
 | Day 1 Dinner - Drunken Admiral Seafarers Restaurant| $ | $ |  | Food Expenses |
