@@ -779,7 +779,26 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | 4 Albatross Cct - Hobart | $506 | $455.40 | Simin | Lodging |
 | Best Western Airport Motel - Melbourne | $306 | $275.40 | Simin | Lodging |
 | Bicheno Penguin Tours | $251 | $225.90 | Timo | Sightseeing |
-
+| Day 1 Lunch in Mel | $ | $ |  | Food Expenses | 
+| Day 1 Dinner - Drunken Admiral Seafarers Restaurant| $ | $ |  | Food Expenses |
+| Day 2 Morning - Salamanca Market | $ | $ |  | Food Expenses |
+| Day 2  Lunch | $ | $ |  | Food Expenses |
+| Day 2  Dinner | $ | $ |  | Food Expenses |
+| Day 3 Morning - Farm Gate Market | $ | $ |  | Food Expenses |
+| Day 3 Lunch | $ | $ |  | Food Expenses |
+| Day 3 Dinner | $ | $ |  | Food Expenses |
+| Day 4 Morning | $ | $ |  | Food Expenses |
+| Day 4 Lunch | $ | $ |  | Food Expenses |
+| Day 4 Dinner | $ | $ |  | Food Expenses |
+| Day 5 Morning | $ | $ |  | Food Expenses |
+| Day 5 Lunch | $ | $ |  | Food Expenses |
+| Day 5 Dinner | $ | $ |  | Food Expenses |
+| Day 6 Morning | $ | $ |  | Food Expenses |
+| Day 6 Lunch | $ | $ |  | Food Expenses |
+| Day 6 Dinner | $ | $ |  | Food Expenses |
+| Day 7 Morning | $ | $ |  | Food Expenses |
+| Day 7 Lunch | $ | $ |  | Food Expenses |
+| Day 7 Dinner | $ | $ |  | Food Expenses |
 
 
 ## Things we skipped this trip
