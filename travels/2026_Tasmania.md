@@ -789,7 +789,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Day 3 Dinner | $ | $ |  | Food Expenses |
 | Day 4 Morning | $ | $ |  | Food Expenses |
 | Day 4 Lunch | $ | $ |  | Food Expenses |
-| Day 4 Dinner | $ | $ |  | Food Expenses |
+| Day 4 Dinner - Geographe Restaurant | $ | $ |  | Food Expenses |
 | Day 5 Morning | $ | $ |  | Food Expenses |
 | Day 5 Lunch | $ | $ |  | Food Expenses |
 | Day 5 Dinner | $ | $ |  | Food Expenses |
