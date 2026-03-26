@@ -799,6 +799,12 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Day 7 Morning | $ | $ |  | Food Expenses |
 | Day 7 Lunch | $ | $ |  | Food Expenses |
 | Day 7 Dinner | $ | $ |  | Food Expenses |
+| Day 8 Morning | $ | $ |  | Food Expenses |
+| Day 8 Lunch | $ | $ |  | Food Expenses |
+| Day 8 Dinner | $ | $ |  | Food Expenses |
+| Day 9 Morning | $ | $ |  | Food Expenses |
+| Day 9 Lunch | $ | $ |  | Food Expenses |
+| Day 9 Dinner | $ | $ |  | Food Expenses |
 
 
 ## Things we skipped this trip
