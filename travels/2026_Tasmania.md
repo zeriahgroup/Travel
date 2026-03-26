@@ -19,6 +19,7 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 - [discovertasmania.com](https://www.discovertasmania.com.au/)
 - [australia.com](https://www.australia.com/en/places/tasmania.html)
 - [Tasmania HOBART things to do, see, eat in 3 days travel - 2026 by Larry Lim](https://www.youtube.com/watch?v=BmJwo-EmAyE)
+- [Wineglass Bay Hiking Guide](https://trekwaves.com/wineglass-bay-hike-guide-freycinet-national-park-tasmania/)
 - [Hobart Tasmania Travel Guide: Best Things To Do, See & Eat! - by Bucket List Travellers](https://youtu.be/Osf3JqaRvWY?si=PMxvBFvzQnkkdsX6)
 - [TASMANIA TRAVEL GUIDE - Top Things to Do & Travel Tips Tasmania, Australia (Watch Before You Go!) - by CJ Explores](https://www.youtube.com/watch?v=BlSXfLW9VDE)
 - [TASMANIA, AUSTRALIA (2026) 10 Beautiful Places To Visit In Tasmania (+ Travel Tips) - by World Wild Hearts](https://www.youtube.com/watch?v=K3a0fzJ9fLA)
