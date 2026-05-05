@@ -703,22 +703,14 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Hours: 7am to 5pm daily
 - <Mcrossjackman@gmail.com>
 
-**Free and Easy Afternoon Options:**
+**If time permits:**
 
 <img src="https://images.unsplash.com/photo-1653574542701-52fb31b1ba15?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Royal Tasmanian Botanical Gardens" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
-**Option A: [Royal Tasmanian Botanical Gardens](https://gardens.tas.gov.au/) - (Est. 12:00 pm to 3:00 pm)**
+**[Royal Tasmanian Botanical Gardens](https://gardens.tas.gov.au/) - (Est. 12:00 pm to 3:00 pm)**
 - **Hours:** 8:00 am to 5:00 pm daily (Winter hours).
 - **Logistics:** Located on the Queens Domain, just a very short 5-minute drive north of the Hobart CBD. There is plenty of parking available at both the top and bottom entrances. 
 - **The Experience:** This is a fantastic, highly relaxed option for a final afternoon. You can easily spend a couple of hours strolling through the historic 14-hectare gardens, which feature a beautiful Japanese garden, a conservatory, and the unique Subantarctic Plant House (where the plants are kept in a chilly, climate-controlled environment that kids find fascinating). There are also plenty of wide, open grassy areas for the younger ones to safely run off some energy before heading to the airport.
-
-*Or*
-
-**Option B: [Mount Nelson Signal Station & Lookout](https://parks.tas.gov.au/explore-our-parks/mount-nelson-signal-station) - (Est. 12:00 pm to 2:00 pm)**
-- **Hours:** The lookout is always open. The Signal Station Brasserie operates from 9:00 am to 4:00 pm on weekends.
-- **Logistics:** Located in a residential suburb just a 10-minute drive south of the Hobart CBD. It offers an incredibly easy, drive-up alternative to Mount Wellington if you didn't get clear views on Day 9. 
-- **The Experience:** Mount Nelson offers brilliant, sweeping panoramic views over Hobart, the Derwent River, and all the way down to Storm Bay. You can grab a coffee or a late lunch at the Brasserie (which is actually built into the original head signalman's house from the 1800s) while taking in the views. If the group wants a short walk, there is a very easy, flat stroll around the historic signal station and the surrounding bushland.
-
 
 
 **Afternoon - Return the Rental Vehicle and Fly to Melbourne**
@@ -726,17 +718,18 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Airport Vibe:** Hobart Airport is relatively small and easy to navigate. Aim to arrive at the terminal about 1.5 to 2 hours before your domestic flight to Melbourne. You can grab a casual lunch right at the airport after checking your bags.
 -  **Transit:** The flight from Hobart (HBA) to Melbourne (MEL) is incredibly quick, usually taking just 1 hour and 15 minutes in the air.
 
-**Evening: Melbourne Airport Stay**
-- **Logistics:** Since you are staying right at the airport, you won't need to worry about long transfers into the Melbourne CBD.
-- **Accommodation:** - **[Best Western Melbourne Airport](https://www.booking.com/Share-GjuQw4)** 
-
-
 **Tim and family:**
 - JQ704 - Hobart to Melbourne
 - Departing 14:55, Sunday 31 May 2026, Hobart
 - Arriving 16:15, Sunday 31 May 2026, Melbourne
 - Check-in and bag drop closes 40 minutes before departure.
 - Boarding gate closes 20 minutes before departure.
+
+**Evening: Best Western Melbourne Airport**
+- Catch up with Moyo for Dinner!
+- **Lodging: [Best Western Melbourne Airport](https://www.booking.com/Share-2n8HQ86)** 
+
+
 
 
 ## Day 11 - 1 June (Monday) - Melbourne to Singapore
@@ -769,21 +762,21 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Item | Cost in AUD | Cost in SGD Equivalent | Paid by | Category |
 | :--- | ---: | ---: |--- | --- |
 | Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
-| PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation |
+| PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation - Paid |
 | Tim Family SQ Air Tickets SIN - MEL 2 Way | $3,571.67 | $3,214.50 | Timo | Air Tickets |
 | Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $1,298.25 | $1,168.45 | Simin | Air Tickets |
-| 4 Albatross Cct - Hobart | $533.00 | $479.70 | Simin | Lodging |
-| Beachfront Bicheno Hotel - Bicheno | $300.00 | $270.00 | Simin | Lodging |
-| The Bolt Hole - Freycinet  | $1,123.00 | $1,010.70 | Simin | Lodging |
-| Dolphin Lookout Cottage - Binalong Bay | $401.00 | $360.90 | Simin | Lodging |
-| Renovated Homely Home - 47 Campbell Street | $302.00 | $271.80 | Simin | Lodging |
-| 4 Albatross Cct - Hobart | $506.00 | $455.40 | Simin | Lodging |
-| Best Western Airport Motel - Melbourne | $306.00 | $275.40 | Simin | Lodging |
+| 4 Albatross Cct - Hobart - Day 1 & 2 | $539.99 | $495.00 | Simin | Lodging - Upcoming Payment|
+| The Bolt Hole - Freycinet - Day 3 & 4  | $1,244.97 | $1,141.00 | Simin | Lodging - Payment handled by property |
+| Beachfront Bicheno Hotel - Bicheno - Day 5 | $333.00 | $305.00 | Simin | Lodging - Paid |
+| Dolphin Lookout Cottage - Binalong Bay - Day 6 | $445.00 | $408.00 | Simin | Lodging - Paid |
+| Renovated Homely Home - 47 Campbell Street - Day 7 | $334.40 | $307.00 | Simin | Lodging - Upcoming Payment |
+| 4 Albatross Cct - Hobart - Day 8 & 9 | $536.94 | $492.00 | Simin | Lodging - Upcoming Payment |
+| Best Western Airport Motel - Melbourne - Day 10 | $311.79 | $286.00 | Simin | Lodging - Upcoming Payment |
 | Bonorong Wildlife Sanctuary | $ | $ |  | Sightseeing |
 | East Coast Natureworld | $ | $ |  | Sightseeing |
 | Seahorse World | $ | $ |  | Sightseeing |
 | Platypus House | $ | $ |  | Sightseeing |
-| Bicheno Penguin Tours | $251.00 | $225.90 | Timo | Sightseeing |
+| Bicheno Penguin Tours | $251.00 | $225.90 | Timo | Sightseeing - Paid |
 | Day 1 Lunch in Mel | $ | $ |  | Food Expenses | 
 | Day 1 Dinner - Drunken Admiral Seafarers Restaurant| $ | $ |  | Food Expenses |
 | Day 2 Morning - Salamanca Market | $ | $ |  | Food Expenses |
@@ -810,6 +803,11 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Day 9 Morning | $ | $ |  | Food Expenses |
 | Day 9 Lunch | $ | $ |  | Food Expenses |
 | Day 9 Dinner | $ | $ |  | Food Expenses |
+| Day 10 Morning | $ | $ |  | Food Expenses |
+| Day 10 Lunch | $ | $ |  | Food Expenses |
+| Day 10 Dinner | $ | $ |  | Food Expenses |
+| Day 11 Morning | $ | $ |  | Food Expenses |
+| Day 11 Lunch | $ | $ |  | Food Expenses |
 
 
 ## Things we skipped this trip
