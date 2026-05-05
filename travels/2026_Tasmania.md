@@ -761,7 +761,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 | Item | Cost in AUD | Cost in SGD Equivalent | Paid by | Category |
 | :--- | ---: | ---: |--- | --- |
-| Car Rental | $1,083.90 | $975.51 | Timo | Transportation |
+| Car Rental | US$670.98 | $? | Simin | Transportation - Bal to pay on arrival |
 | PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation - Paid |
 | Tim Family SQ Air Tickets SIN - MEL 2 Way | $3,571.67 | $3,214.50 | Timo | Air Tickets |
 | Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $1,298.25 | $1,168.45 | Simin | Air Tickets |
