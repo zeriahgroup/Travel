@@ -123,6 +123,11 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Plan:** Grab coffee and breakfast at the market. It's an excellent spot to sample local Tasmanian pastries, scallop pies, and fresh produce.
 - **Nearby:** **[Salamanca Wool Shop](https://www.salamancawoolshop.com/):** and **[Tassie Makers Market Pty Ltd](https://www.tassiemakersmarket.com.au/)**
 
+**Uncle Andrew's Comments:**
+- Salamanca Square is very lively on the weekends. A nice place to walk around especially the seafront area.
+
+
+
 - **[Salamanca Wool Shop](https://www.salamancawoolshop.com/):** Located **[right by the square](https://maps.app.goo.gl/gmWKYz8ggHGD3EZk9)**, this is the perfect place to pick up high-quality Tasmanian merino wool beanies, scarves, and thick socks. If the weather turns cold on your trip, you will be incredibly grateful you bought these!
 
 - **[Tassie Makers Market Pty Ltd](https://www.tassiemakersmarket.com.au/):** Situated inside the **[Centrepoint Shopping Centre](https://centrepointhobart.com.au/)**, this is a fantastic, dry indoor spot that aggregates crafts, art, and souvenirs from various local Tasmanian makers.
@@ -144,6 +149,10 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - Features an in-house ice creamery with 32 flavors!
 - Hours: 8am to 9pm daily
 - <lowerdeck@mures.com.au>
+
+**Uncle Andrew's Comments:**
+- Restaurant Muses Lower Deck. It is a casual restaurant with a menu from its famous sibling. We ate at Muses Upper deck. It was nice.
+
 
 - **[Jackman & McRoss](https://jackmanmcross.com.au/):** Requires a very short walk up the historic Kelly's Steps into Battery Point. Known for its **phenomenal savory pies and sourdough**.
 - Hours: 7am to 5pm daily
@@ -200,6 +209,9 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - Showcases a towering timber-clad lookout offering panoramic views over the Moulting Lagoon and the striking Hazards mountain range.
 - Serves fantastic wood-fired pizzas and fresh local seafood to enjoy on their lush, open lawns.
 
+- **Uncle Andrew's Comments:**
+- Devil's Corner. A nice winery and tasting room. Beautiful view.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94793.35717298431!2d148.01971758060026!3d-42.0583512737877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate&#39;s%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!5e0!3m2!1sen!2ssg!4v1773751723493!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Final Stretch - wash up and sleep - (Est. 5pm to 6pm, free and easy thereafter)**
@@ -222,6 +234,9 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - Offers the famous, sweeping vista of the curved white beach and turquoise water.
 - Presents a great opportunity to spot native wildlife, including friendly wallabies, along the trail.
 
+- **Uncle Andrew's Comments:**
+- Wineglass hike. Must do. A nice hike. Lots of steps. Lots of people. Nice view at the top. Unfortunately for us, we had bad windy weather - even the Wineglass Bay cruise was cancelled. We saw 1 wallaby on the hike. We did not do the lighthouse. Park pass, since you are only going into Freycinet National Park and doing Wineglass hike, I dont think you need to buy the A$96 pass. In the parking lot, there are machines where you can buy a day parking pass - I think it will be less than A$96.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23668.47675432056!2d148.27517812152075!3d-42.138310584538736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717dfdc0ff7f0b%3A0x796d7690d5b766e1!2s23%20Bradley%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.121801!2d148.29313159999998!4m5!1s0xaa73d5998ea6545d%3A0x2912f5469a35d174!2sWineglass%20Bay%20Lookout%2C%20Unnamed%20Rd%2C%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1548875!2d148.29343649999998!5e0!3m2!1sen!2ssg!4v1774163136935!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Mid-Day: An Easy Coastal Stroll**
@@ -240,6 +255,9 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - Offers casual outdoor seating with a very relaxed, family-friendly vibe.
 - Features non-seafood options and hot chips, making it an easy crowd-pleaser for the kids.
 
+- **Uncle Andrew's Comments:**
+- Freycinet Marine Farm, we drove by. I think it is worth a stop. BTW the best oyster we had was from Bruny Island oyster.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47361.038055122655!2d148.24659276677787!3d-42.10608130229604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d66bdff166b1%3A0x5b5a9c55ed9ea3b1!2sCape%20Tourville%20Lighthouse%20and%20Lookout%2C%20Freycinet%20National%20Park%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1227042!2d148.3427352!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!5e0!3m2!1sen!2ssg!4v1773477400727!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Afternoon: Rockpooling and Relaxation**
@@ -248,6 +266,9 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - Features crystal-clear, shallow water that is ideal for kids to wade in safely.
 - Surrounded by striking red granite rocks that are perfect for scrambling and rockpooling.
 - Provides a stunning backdrop of the Hazards mountains, making it an excellent spot for family photos.
+
+- **Uncle Andrew's Comments:**
+- Honeymoon Bay. It is within Freycinet Lodge. Not sure I do unless you got lots of time.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d16753.665060032636!2d148.20592289966623!3d-42.071959275253676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!4m5!1s0xaa73d5f036fe68ad%3A0xf8ddd8f34c701104!2sHoneymoon%20Bay%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1369086!2d148.2986157!5e0!3m2!1sen!2ssg!4v1773477360889!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -258,6 +279,9 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **The Food:** Specializes in classic, crispy fish and chips using locally caught seafood, alongside a huge selection of Aussie-made ice creams and sundaes for dessert.
 - **Logistics:** Perfect for a quick, no-fuss grab-and-go meal or a highly casual sit-down treat with the kids.
 - **Hours: 11am to 7:30pm daily**
+
+- **Uncle Andrew's Comments:**
+- Ice Creamery & Co. Pretty basic. Had ice cream there but did not do the fish and chips. It is right next door to Geographe - good pizza.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4307.316778696376!2d148.28346570944478!3d-42.128309075252105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d5f036fe68ad%3A0xf8ddd8f34c701104!2sHoneymoon%20Bay%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1369086!2d148.2986157!4m5!1s0xaa717f14538e5df9%3A0xd617a8b995db6343!2sIce%20Creamery%20%26%20Co.%2C%204%20Garnet%20Ave%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1258566!2d148.29052969999998!5e0!3m2!1sen!2ssg!4v1773477851889!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -274,6 +298,9 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **The Food:** Features a seasonal, à la carte menu that strongly highlights fresh Tasmanian **seafood and local produce**.
 - **Logistics:** Perfect for a memorable group gathering, but bookings are absolutely essential.
 - **Hours: Dinner 5.30pm - late (bookings essential)**
+
+- **Uncle Andrew's Comments:**
+- The Bay Restaurant in Freycinet Lodge. Pretty expensive. We ate here as we were staying here. Not sure I would otherwise. They do have a less formal restaurant right close by - like 10 steps!!. No table service but food is good and price is much less. No reservation.
 
 ### [Mount Paul Lounge](https://www.freycinet.com/mount-paul-lounge-dining/)
 - **The Vibe:** Set slightly outside the main town at Freycinet Resort, offering a warm, communal barn-like setting complete with a cozy fireplace.
@@ -292,9 +319,6 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **The Food:** Serves hearty, generous pub classics like **burgers, parmigianas, and steaks**.
 - **Logistics:** Features plenty of space and a welcoming vibe, making it incredibly easy for a large, energetic group to walk in and grab a table without needing a formal reservation.
 - **Hours: 11am to 9pm or 10pm daily**
-
-
-
 
 
 After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Australia](https://www.booking.com/Share-CX7gbYL)** for the night.
@@ -478,6 +502,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - You can walk the scenic gorge, take in the towering cliffs, and ride the **world's longest single-span chairlift** for incredible views.
 - Keep an eye out for the abundant wildlife; peacocks roam the grounds freely, and wallabies are frequently spotted.
 - **[Cataract Gorge Launceston Walking Tour](https://tasmania.com/things-to-do/hiking-walking/cataract-gorge-launceston-walking-tour/)**
+
+- **Uncle Andrew's Comments:**
+- We did the Cataract Gorge walk. Stillwater restaurant, almost ate here but did not. Good reviews.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d383677.1437175427!2d147.2362773948017!3d-41.29847076109606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa773bb1d5146c23%3A0xd523610b657cd023!2sPyengana%20Dairy%20Company%2C%20163%20St%20Columba%20Falls%20Rd%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.2891407!2d148.0051015!4m5!1s0xaa70a72b842d05b9%3A0xf03c94eb451d540!2sCataract%20Gorge%20Reserve%2C%2074-90%20Basin%20Rd%2C%20West%20Launceston%20TAS%207250%2C%20Australia!3m2!1d-41.4465532!2d147.1201087!5e0!3m2!1sen!2ssg!4v1773543428506!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -674,6 +701,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Alternative there's the **[Silver Falls Loop](https://www.greaterhobarttrails.com.au/tracks/SilverFallsLoop)**
 - Check **[road status](https://www.hobartcity.com.au/Things-To-Do/Kunanyi-Mt-Wellington/Pinnacle-Road-status)** before driving up the mountain
 
+- **Uncle Andrew's Comments:**
+- Mt Wellington. Worth the view on a nice day. When I was there, the wind was blowing so strongly I could not open the car door!! so I turned around and left.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23380.51872847898!2d147.26702032380413!3d-42.903127117440626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e768eb189983d%3A0xf3ec3aa1f216c976!2sPinnacle%20Rd%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.9012854!2d147.2436667!5e0!3m2!1sen!2ssg!4v1774063980551!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
@@ -685,6 +715,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Alternative Transport:** If you prefer to drop the cars off in the CBD earlier, you can take the MONA Roma fast ferry from Brooke Street Pier. It is a highly entertaining 25-minute ride on a camo-painted catamaran (complete with a bar and sheep-shaped seats).
 - **Tickets:** Pre-booking entry tickets online is highly recommended. Visitors under 18 get free entry, but you still need to add their free tickets to your online booking so they are accounted for.
 - **The Experience:** MONA is a subterranean, famously eccentric art museum. While it is known for having some subversive and adult themes, kids generally love the bizarre, interactive nature of the building. A massive hit with younger visitors is usually the *Cloaca Professional* (a sprawling machine that replicates the human digestive system, affectionately known as the "poo machine").
+
+- **Uncle Andrew's Comments:**
+- MONA. a worthwhile visit. We drove there but were told taking their boat was a great experience. With your group, it is more economical to drive. We ate dinner at the FARO restaurant, very nice but more visual i.e. great presentation. Fixed menu.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93577.86331571244!2d147.2063473700619!3d-42.86633803427823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e768eb189983d%3A0xf3ec3aa1f216c976!2sPinnacle%20Rd%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.9012854!2d147.2436667!4m5!1s0xaa6e734a68764f2b%3A0xc271b4063d65ecd5!2sMONA%2C%20655%20Main%20Rd%2C%20Berriedale%20TAS%207011%2C%20Australia!3m2!1d-42.8125442!2d147.2614594!5e0!3m2!1sen!2ssg!4v1774063920566!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -761,7 +794,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 | Item | Cost in AUD | Cost in SGD Equivalent | Paid by | Category |
 | :--- | ---: | ---: |--- | --- |
-| Car Rental | US$670.98 | $? | Simin | Transportation - Bal to pay on arrival |
+| Car Rental | US$670.98 | $1,119.92 | Simin AMEX | Transportation - Child seat to pay on arrival |
 | PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation - Paid |
 | Tim Family SQ Air Tickets SIN - MEL 2 Way | $3,571.67 | $3,214.50 | Timo | Air Tickets |
 | Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $1,298.25 | $1,168.45 | Simin | Air Tickets |
