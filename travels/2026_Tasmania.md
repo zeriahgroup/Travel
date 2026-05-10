@@ -807,8 +807,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 | Best Western Airport Motel - Melbourne - Day 10 | $311.79 | $286.00 | Simin | Lodging - Upcoming Payment |
 | Bonorong Wildlife Sanctuary | $ | $ |  | Sightseeing |
 | East Coast Natureworld | $ | $ |  | Sightseeing |
-| Seahorse World | $ | $ |  | Sightseeing |
-| Platypus House | $ | $ |  | Sightseeing |
+| Seahorse World | $129.50 | $ | Timo | Sightseeing - Paid |
+| Platypus House | $128.90 | $ | Timo | Sightseeing - Paid |
 | Bicheno Penguin Tours | $251.00 | $225.90 | Timo | Sightseeing - Paid |
 | Day 1 Lunch in Mel | $ | $ |  | Food Expenses | 
 | Day 1 Dinner - Drunken Admiral Seafarers Restaurant| $ | $ |  | Food Expenses |
