@@ -110,6 +110,8 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Time:** 5.15pm reservation
 - **$40 penalty if no show**
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_1_drunken_admiral_06_clean.webp" alt="Day 2 Dinner" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px;">
+
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
 
@@ -165,6 +167,8 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Hours:** Monday – Friday: 9am to 9pm; Saturday: 9am – 5pm.
 - **Logistics:** Try to leave Hobart by 1:30 pm or 2:00 pm at the latest. This gives you a solid 2.5 to 3 hours to explore before they close.
 - **Plan:** General admission usually includes a free bag of kangaroo food. It's a very hands-on experience and will be a massive hit with the kids in the group. Check their daily schedule upon arrival to time your walkabout with the keeper talks.
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2_bonorong_wildlife_sanctuary_18_clean.webp" alt="Bonorong" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px;">
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d93691.22565606928!2d147.21180301638523!3d-42.79150388770555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e11cf7af2599d%3A0x30809560fff5e057!2sBonorong%20Wildlife%20Sanctuary%2C%20593%20Briggs%20Rd%2C%20Brighton%20TAS%207030%2C%20Australia!3m2!1d-42.708675799999995!2d147.2711546!5e0!3m2!1sen!2ssg!4v1773472626351!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
