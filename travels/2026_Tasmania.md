@@ -117,7 +117,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 ## Day 2 - 23 May (Saturday) - Salamanca Market and Bonorong Wildlife Sanctuary
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2_salamanca_market_and_bonorong.webp" alt="Day 2 Banner" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2_salamanca_market_and_bonorong.webp" alt="Day 2 Banner" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home) - (Est. 9am to 12pm)**
 - **Hours:** 8:30 am to 3:00 pm
