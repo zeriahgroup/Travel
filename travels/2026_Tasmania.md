@@ -110,7 +110,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Time:** 5.15pm reservation
 - **$40 penalty if no show**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_1_drunken_admiral.webp" alt="Drunken Admiral" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_1_drunken_admiral.webp" alt="Drunken Admiral" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
@@ -193,7 +193,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 **Afternoon: Drive to Freycinet**
 
 
-<img src="https://images.unsplash.com/photo-1692970104866-38356ed4807b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Richmond Bridge" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_3_richmond_bridge_and_kate_berry_farm.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - (Est. 11am to 12pm)**
 - Constructed between 1823 and 1825, it is the oldest bridge in Australia.
