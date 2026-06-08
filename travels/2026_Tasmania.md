@@ -110,7 +110,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Time:** 5.15pm reservation
 - **$40 penalty if no show**
 
-
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_1_drunken_admiral.webp" alt="Drunken Admiral" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
