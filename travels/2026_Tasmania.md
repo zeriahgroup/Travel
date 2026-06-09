@@ -4,8 +4,8 @@ title: Tasmania Trip (May 2026)
 permalink: /travels/2026/tasmania/
 date: 2026-05-25
 
-cover: https://images.travels.zeriahgroup.com/2026_tasmania_trip.webp
-page_cover: https://images.travels.zeriahgroup.com/2026_tasmania_cover.webp
+cover: https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_trip.webp
+page_cover: https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_cover.webp
 
 excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 ---
@@ -110,14 +110,14 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 - **Time:** 5.15pm reservation
 - **$40 penalty if no show**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_1_drunken_admiral.webp" alt="Drunken Admiral" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_1_drunken_admiral.webp" alt="Drunken Admiral" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Lodging:** 4 Albatross Cct, Mornington TAS 7018, Australia
 
 
 ## Day 2 - 23 May (Saturday) - Salamanca Market and Bonorong Wildlife Sanctuary
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_2_salamanca_market_and_bonorong.webp" alt="Day 2 Banner" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_2_salamanca_market_and_bonorong.webp" alt="Day 2 Banner" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Morning: [Salamanca Market](https://www.salamancamarket.com.au/Home) - (Est. 9am to 12pm)**
 - **Hours:** 8:30 am to 3:00 pm
@@ -193,7 +193,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 **Afternoon: Drive to Freycinet**
 
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_3_richmond_bridge_and_kate_berry_farm.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_3_richmond_bridge_and_kate_berry_farm.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Stop 1: [Richmond Bridge](https://hobartandbeyond.com.au/blog/richmond-bridge-australias-oldest-stone-arch-bridge/) - (Est. 11am to 12pm)**
 - Constructed between 1823 and 1825, it is the oldest bridge in Australia.
@@ -208,7 +208,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d376755.941087743!2d147.42181322798115!3d-42.461657530531035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e08eb5df2c7ab%3A0x1f7d0e32ac8e92ec!2sRichmond%20Bridge%2C%20Bridge%20St%2C%20Richmond%20TAS%207025%2C%20Australia!3m2!1d-42.7338889!2d147.44!4m5!1s0xaa718292dde876fb%3A0xd35ba51b0cad3ebb!2sKate&#39;s%20Berry%20Farm%2C%2012%20Addison%20St%2C%20Swansea%20TAS%207190%2C%20Australia!3m2!1d-42.145950299999996!2d148.0561828!5e0!3m2!1sen!2ssg!4v1773751567022!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_3_devil_corner_cellar_door.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_3_devil_corner_cellar_door.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Dinner: [Devil's Corner Cellar Door](https://www.devilscorner.com.au/visit/cellar-door) - (Est. 3pm to 5pm)**
 - **Hours:** Open Daily from 10am to 5pm, Last Hosted Tasting and Tasting Paddles 4:30pm
@@ -222,7 +222,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Final Stretch - wash up and sleep - (Est. 5pm to 6pm, free and easy thereafter)**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_3_the_bolt_hole.webp?v=2" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_3_the_bolt_hole.webp?v=2" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 - After dinner, continue the journey to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Australia](https://www.booking.com/Share-CX7gbYL)** for the night.
 
@@ -238,7 +238,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 <img src="https://images.unsplash.com/photo-1627110466624-436b91b5d20b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Wineglass Bay" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_wineglass_bay.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_4_wineglass_bay.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **[Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/)** is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp. - **(Est. 9am to 11am)**
 - Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
@@ -252,7 +252,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Mid-Day: An Easy Coastal Stroll**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_cape_tourville_lighthouse.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_4_cape_tourville_lighthouse.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 **[Cape Tourville Lighthouse and Lookout](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/cape-tourville)** provides an incredibly easy alternative or add-on to the Wineglass Bay hike, giving you dramatic ocean views without the steep climb. This makes it a perfect, low-effort stop to take in the rugged coastline before lunch. - **(Est. 11am to 12pm)**
 - Features a 20-minute, flat, and fully fenced boardwalk loop.
 - Highly accessible for young kids, strollers, and those wanting a relaxed, breezy pace.
@@ -262,7 +262,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Lunch: Fresh Local Seafood**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_freycinet_marine_farm.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_4_freycinet_marine_farm.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **[Freycinet Marine Farm](https://www.freycinetmarinefarm.com/)** is a staple stop when visiting the area, offering a casual, rustic dining experience right near the water. It is an excellent spot to regroup and indulge in some of the region's famous seafood midway through your day. - **(Est. 12pm to 2.30pm)**
 - Specializes in freshly harvested oysters and mussels sourced directly from their farm.
@@ -276,7 +276,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Afternoon: Rockpooling and Relaxation**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_honeymoon_bay.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_4_honeymoon_bay.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **[Honeymoon Bay](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/richardsons-beach-honeymoon-bay-and-ranger-creek-camping)** is a beautiful, sheltered cove that serves as a fantastic spot to wind down your afternoon. The calm waters and striking granite boulders make it a highly picturesque and safe environment for families. **(Est. 2.30pm to 4pm)**
 - Features crystal-clear, shallow water that is ideal for kids to wade in safely.
@@ -303,8 +303,8 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Dinner options around Coles Bay**
 
-<a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_coles_bay_dinner.webp" target="_blank">
-  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_coles_bay_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+<a href="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_4_coles_bay_dinner.webp" target="_blank">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_4_coles_bay_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
 **We have a reservation for Geographe Restaurant under Tim from 6pm to 7.30pm**
@@ -342,7 +342,7 @@ After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Aus
 
 ## Day 5 - 26 May (Tuesday) - Freycinet to Bicheno
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_5_pondering_frog.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_5_pondering_frog.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Morning: Breakfast at the Pondering Frog - (Est. 8.30am to 9.30am** latest, need to reach East Coast Natureworld before 10am to catch the 10am Devil feeding time slot)
 [The Pondering Frog](https://www.ponderingfrog.com.au/) is located just south of Bicheno and is a brilliant, quirky stop either on your way into town or as an afternoon treat. The entire property is frog-themed, which is guaranteed to be a huge hit with your daughter and the other kids.
@@ -355,7 +355,7 @@ After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Aus
 
 **Off to see the Tasmanian Devil after breakfast**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_5_east_coast_nature_world.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_5_east_coast_nature_world.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Morning: [East Coast Natureworld](https://www.natureworld.com.au/) - (Est. 10am to 12pm)**
 - **Logistics:** Located just 5 minutes north of Bicheno. It opens at 9:00 am, making it a perfect first stop before heading into town. 
@@ -364,7 +364,7 @@ After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Aus
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47521.64492560475!2d148.21802596420744!3d-41.89064604217233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!4m5!1s0xaa71417ea576439f%3A0x9b3bd9d7ae2758f2!2sEast%20Coast%20Natureworld%2C%2018356A%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8380028!2d148.25555559999998!5e0!3m2!1sen!2ssg!4v1773483666445!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_5_bicheno_blowhole.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_5_bicheno_blowhole.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 **[Bicheno Blowhole](https://tasmania.com/points-of-interest/bicheno-blowhole/)** is a fantastic, quick coastal stop that always gets a laugh out of young kids. It’s a natural rock vent that channels the ocean swell and shoots a massive geyser of water high into the air. **(Est. 12pm to 12.30pm)**
 - Features a very short, easy walk from the car park right onto the coastal rocks.
 - The size of the spray depends entirely on the tide and swell, making it a fun surprise every time a wave rolls in.
@@ -382,6 +382,8 @@ After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Aus
 - Offers two safe viewing platforms where you can often spot dolphins or migrating whales down below.
 
 **Lunch: Casual Coastal Eats**
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_5_east_coast_nature_world.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **[Lobster Shack Tasmania is just next door](https://www.lobstershacktasmania.com.au/)** **(Est. 1pm to 3pm**, free time to 5.30pm before penguin tour)
 Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood experience right on the waterfront. It operates on a walk-in basis, which is great for large groups with kids, and has plenty of outdoor seating overlooking the bay.
@@ -530,8 +532,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 ** And Other Food Options Around The Area -(Est. 5.30pm onwards)**
 
-<a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" target="_blank">
-  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+<a href="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_7_launceston_food.webp" target="_blank">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_7_launceston_food.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
 
@@ -661,8 +663,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Dinner And Other Food Options Around The Area -(Est. 6pm onwards)**
 
-<a href="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" target="_blank">
-  <img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_8_hobart_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
+<a href="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_8_hobart_dinner.webp" target="_blank">
+  <img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_8_hobart_dinner.webp" alt="Day 7 Food" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 300px; cursor: zoom-in;">
 </a>
 
 
