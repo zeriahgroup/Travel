@@ -222,7 +222,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Final Stretch - wash up and sleep - (Est. 5pm to 6pm, free and easy thereafter)**
 
-
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_3_the_bolt_hole.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 - After dinner, continue the journey to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Australia](https://www.booking.com/Share-CX7gbYL)** for the night.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94832.95779035354!2d148.14002737931312!3d-42.0318155233644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa716e4d9fddd735%3A0xfc70a2b0314c2d56!2sDevil&#39;s%20Corner%20Cellar%20Door%2C%201%2F1%20Sherbourne%20Rd%2C%20Apslawn%20TAS%207190%2C%20Australia!3m2!1d-41.972336399999996!2d148.1521307!4m5!1s0xaa717dfdc0ff7f0b%3A0x796d7690d5b766e1!2s23%20Bradley%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.121801!2d148.29313159999998!5e0!3m2!1sen!2ssg!4v1774163103673!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -353,6 +353,8 @@ After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Aus
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d94832.95779035354!2d148.17161477931316!3d-42.0318155233644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa717dfdc0fbffff%3A0xabd2ef5dbb3153e8!2sThe%20Bolt%20Hole%2C%2023%20Bradley%20Dr%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1218277!2d148.2931743!4m5!1s0xaa7168d282914d7f%3A0x22affdd25395722a!2sThe%20Pondering%20Frog%2C%2016494%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.943419899999995!2d148.2144932!5e0!3m2!1sen!2ssg!4v1774169419468!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Off to see the Tasmanian Devil after breakfast**
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_5_east_coast_nature_world.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Morning: [East Coast Natureworld](https://www.natureworld.com.au/) - (Est. 10am to 12pm)**
 - **Logistics:** Located just 5 minutes north of Bicheno. It opens at 9:00 am, making it a perfect first stop before heading into town. 
