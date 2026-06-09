@@ -237,6 +237,8 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 <img src="https://images.unsplash.com/photo-1627110466624-436b91b5d20b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Wineglass Bay" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_wineglass_bay.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **[Wineglass Bay Lookout](https://tasmania.com/points-of-interest/wineglass-bay/)** is the centerpiece of the Freycinet experience and is a must-do for panoramic views over the coastline. The hike is mostly uphill, so starting in the morning ensures you tackle it while everyone's energy is high and the weather is crisp. - **(Est. 9am to 11am)**
 - Features a 1.5 to 2-hour return hike on a well-maintained, stepped path.
 - Offers the famous, sweeping vista of the curved white beach and turquoise water.
@@ -249,6 +251,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Mid-Day: An Easy Coastal Stroll**
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_cape_tourville_lighthouse.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 **[Cape Tourville Lighthouse and Lookout](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/cape-tourville)** provides an incredibly easy alternative or add-on to the Wineglass Bay hike, giving you dramatic ocean views without the steep climb. This makes it a perfect, low-effort stop to take in the rugged coastline before lunch. - **(Est. 11am to 12pm)**
 - Features a 20-minute, flat, and fully fenced boardwalk loop.
 - Highly accessible for young kids, strollers, and those wanting a relaxed, breezy pace.
@@ -257,6 +260,8 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23668.85303379176!2d148.29482712151776!3d-42.1373038340393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d5998ea6545d%3A0x2912f5469a35d174!2sWineglass%20Bay%20Lookout%2C%20Unnamed%20Rd%2C%2C%20Freycinet%20TAS%207215%2C%20Australia!3m2!1d-42.1548875!2d148.29343649999998!4m5!1s0xaa73d66bdff166b1%3A0x5b5a9c55ed9ea3b1!2sCape%20Tourville%20Lighthouse%20and%20Lookout%2C%20Freycinet%20National%20Park%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1227042!2d148.3427352!5e0!3m2!1sen!2ssg!4v1773476792940!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Lunch: Fresh Local Seafood**
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_freycinet_marine_farm.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **[Freycinet Marine Farm](https://www.freycinetmarinefarm.com/)** is a staple stop when visiting the area, offering a casual, rustic dining experience right near the water. It is an excellent spot to regroup and indulge in some of the region's famous seafood midway through your day. - **(Est. 12pm to 2.30pm)**
 - Specializes in freshly harvested oysters and mussels sourced directly from their farm.
@@ -269,6 +274,8 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47361.038055122655!2d148.24659276677787!3d-42.10608130229604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa73d66bdff166b1%3A0x5b5a9c55ed9ea3b1!2sCape%20Tourville%20Lighthouse%20and%20Lookout%2C%20Freycinet%20National%20Park%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.1227042!2d148.3427352!4m5!1s0xaa717b8765996fe9%3A0x76efb165105aa824!2sFreycinet%20Marine%20Farm%2C%201784%20Coles%20Bay%20Rd%2C%20Coles%20Bay%20TAS%207215%2C%20Australia!3m2!1d-42.0746762!2d148.2328624!5e0!3m2!1sen!2ssg!4v1773477400727!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Afternoon: Rockpooling and Relaxation**
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania_day_4_honeymoon_bay.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **[Honeymoon Bay](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/richardsons-beach-honeymoon-bay-and-ranger-creek-camping)** is a beautiful, sheltered cove that serves as a fantastic spot to wind down your afternoon. The calm waters and striking granite boulders make it a highly picturesque and safe environment for families. **(Est. 2.30pm to 4pm)**
 - Features crystal-clear, shallow water that is ideal for kids to wade in safely.
