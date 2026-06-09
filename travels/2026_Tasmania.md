@@ -383,7 +383,7 @@ After dinner it's back to **[The Bolthole - 23 Bradley Drive, 7215 Coles Bay Aus
 
 **Lunch: Casual Coastal Eats**
 
-<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_5_east_coast_nature_world.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_5_lobster_shack.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **[Lobster Shack Tasmania is just next door](https://www.lobstershacktasmania.com.au/)** **(Est. 1pm to 3pm**, free time to 5.30pm before penguin tour)
 Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood experience right on the waterfront. It operates on a walk-in basis, which is great for large groups with kids, and has plenty of outdoor seating overlooking the bay.
@@ -392,6 +392,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Keep in mind it closes at 7:00 PM, making it better suited for lunch or an early dinner before heading out to see the penguins.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2970.7241261507656!2d148.304187526781!3d-41.877281577019296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71429582a6eb15%3A0x58a029ce25dbbb40!2sBicheno%20Blowhole%2C%20Douglas%20St%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.880201799999995!2d148.3089099!4m5!1s0xaa7142ec0b0a9429%3A0xf03c94eb451de50!2sWhalers%20Lookout%20Scenic%20reserve%2C%20Waubs%20Esplanade%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743694!2d148.308625!5e0!3m2!1sen!2ssg!4v1773482820266!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_5_bicheno_penguins.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Evening: [Bicheno Penguin Tours](https://bichenopenguintours.com.au/) - (Est. 5pm to 8pm) - Booked under Tim for 5.10pm**
 - **Logistics:** *Pre-booking is essential.* In late May, sunset is early, so tours typically start around 5:15 pm to 5:30 pm. 
@@ -426,12 +428,16 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: The Scenic Drive North**
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_6_apsley_waterhole.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **Stop 1: [Apsley Waterhole](https://parks.tas.gov.au/explore-our-parks/douglas-apsley-national-park/apsley-river-waterhole-and-gorge) -(Est. 9am to 10am**
 - A great first stop right after leaving town, offering a peaceful and highly accessible slice of the Douglas-Apsley National Park.
 - Features a very short, flat 10 to 15-minute walk from the car park, making it an excellent way to get the kids moving early.
 - Visitors often mention the clarity of the waterhole and the beautiful surrounding eucalyptus forest.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d47542.641920965005!2d148.2018996638712!3d-41.8624143147344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa7142ed5f26383f%3A0xb09c47c4bebc7620!2s232%20Tasman%20Hwy%2C%20Bicheno%20TAS%207215%2C%20Australia!3m2!1d-41.8743353!2d148.2998421!4m5!1s0xaa716a7710b48515%3A0x5e61cc513b506135!2sApsley%20Waterhole%2C%20Douglas-Apsley%20TAS%207215%2C%20Australia!3m2!1d-41.8628374!2d148.1862327!5e0!3m2!1sen!2ssg!4v1773497511450!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_6_iron_house_brewery.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Stop 2: [Iron House Brewery Distillery & Vineyard](https://www.ironhouse.com.au/) -(Est. 10am to 12pm)**
 - Located almost exactly halfway to St Helens, serving as the perfect mid-morning or early lunch rest stop.
