@@ -851,57 +851,76 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Departing:** 13:00, Monday 01 Jun 2026, Melbourne International Terminal 2
 - **Arriving:** 19:05, Monday 01 Jun 2026, Changi Airport Terminal 2
 
-## Cost Summary in SGD - AUDSGD 0.9000
+## Cost Summary in SGD - AUDSGD 0.9183
 
-| Item | Cost in AUD | Cost in SGD Equivalent | Paid by | Category |
-| :--- | ---: | ---: |--- | --- |
-| Car Rental | US$670.98 | $1,119.92 | Simin AMEX | Transportation - Child seat to pay on arrival |
-| PWS Parks Pass | $95.50 | $85.95 | Timo | Transportation - Paid |
-| Tim Family SQ Air Tickets SIN - MEL 2 Way | $3,571.67 | $3,214.50 | Timo | Air Tickets |
-| Tim Family Jetstar Air Tickets MEL - HBA 2 Way | $1,298.25 | $1,168.45 | Simin | Air Tickets |
-| 4 Albatross Cct - Hobart - Day 1 & 2 | $539.99 | $495.00 | Simin | Lodging - Upcoming Payment|
-| The Bolt Hole - Freycinet - Day 3 & 4  | $1,244.97 | $1,141.00 | Simin | Lodging - Payment handled by property |
-| Beachfront Bicheno Hotel - Bicheno - Day 5 | $333.00 | $305.00 | Simin | Lodging - Paid |
-| Dolphin Lookout Cottage - Binalong Bay - Day 6 | $445.00 | $408.00 | Simin | Lodging - Paid |
-| Renovated Homely Home - 47 Campbell Street - Day 7 | $334.40 | $307.00 | Simin | Lodging - Upcoming Payment |
-| 4 Albatross Cct - Hobart - Day 8 & 9 | $536.94 | $492.00 | Simin | Lodging - Upcoming Payment |
-| Best Western Airport Motel - Melbourne - Day 10 | $311.79 | $286.00 | Simin | Lodging - Upcoming Payment |
-| Bonorong Wildlife Sanctuary | $ | $ |  | Sightseeing |
-| East Coast Natureworld | $ | $ |  | Sightseeing |
-| Seahorse World | $129.50 | $ | Timo | Sightseeing - Paid |
-| Platypus House | $128.90 | $ | Timo | Sightseeing - Paid |
-| Bicheno Penguin Tours | $251.00 | $225.90 | Timo | Sightseeing - Paid |
-| Day 1 Lunch in Mel | $ | $ |  | Food Expenses | 
-| Day 1 Dinner - Drunken Admiral Seafarers Restaurant| $ | $ |  | Food Expenses |
-| Day 2 Morning - Salamanca Market | $ | $ |  | Food Expenses |
-| Day 2  Lunch | $ | $ |  | Food Expenses |
-| Day 2  Dinner | $ | $ |  | Food Expenses |
-| Day 3 Morning - Farm Gate Market | $ | $ |  | Food Expenses |
-| Day 3 Lunch | $ | $ |  | Food Expenses |
-| Day 3 Dinner | $ | $ |  | Food Expenses |
-| Day 4 Morning | $ | $ |  | Food Expenses |
-| Day 4 Lunch | $ | $ |  | Food Expenses |
-| Day 4 Dinner - Geographe Restaurant | $ | $ |  | Food Expenses |
-| Day 5 Morning | $ | $ |  | Food Expenses |
-| Day 5 Lunch | $ | $ |  | Food Expenses |
-| Day 5 Dinner | $ | $ |  | Food Expenses |
-| Day 6 Morning | $ | $ |  | Food Expenses |
-| Day 6 Lunch | $ | $ |  | Food Expenses |
-| Day 6 Dinner | $ | $ |  | Food Expenses |
-| Day 7 Morning | $ | $ |  | Food Expenses |
-| Day 7 Lunch | $ | $ |  | Food Expenses |
-| Day 7 Dinner | $ | $ |  | Food Expenses |
-| Day 8 Morning | $ | $ |  | Food Expenses |
-| Day 8 Lunch | $ | $ |  | Food Expenses |
-| Day 8 Dinner | $ | $ |  | Food Expenses |
-| Day 9 Morning | $ | $ |  | Food Expenses |
-| Day 9 Lunch | $ | $ |  | Food Expenses |
-| Day 9 Dinner | $ | $ |  | Food Expenses |
-| Day 10 Morning | $ | $ |  | Food Expenses |
-| Day 10 Lunch | $ | $ |  | Food Expenses |
-| Day 10 Dinner | $ | $ |  | Food Expenses |
-| Day 11 Morning | $ | $ |  | Food Expenses |
-| Day 11 Lunch | $ | $ |  | Food Expenses |
+| Item | Cost in AUD | Cost in SGD Equivalent | Remarks |
+| :--- | ---: | ---: |--- |
+| 4 Albatross Cct | 458.20 | 420.75 | Day 1 & 2 |
+| The Bolt Hole | 1,286.23 | 1,181.11 | Day 3 & 4 |
+| Beachfront Bicheno Hotel | 339.33 | 311.60 | Day 5 |
+| Dolphin Lookout Cottage | 556.81 | 511.30 | Day 6 |
+| Renovated Homely Home | 345.95 | 317.68 | Day 7 |
+| 4 Albatross Cct | 558.64 | 512.98 | Day 8 & 9 |
+| Best Western Airport Motel & Convention Centre | 322.34 | 296.00 | Day 10 |
+| Carjet | 1,218.59 | 1,119.00 | Kia Carnival Rental |
+| Car seat | 192.00 | 176.31 | Kia Carnival Rental |
+| Petrol Bicheno | 80.00 | 73.46 | Kia Carnival Petrol |
+| Petrol Hobart | 100.00 | 91.83 | Kia Carnival Petrol |
+| Tasmania Car Return Petrol | 64.90 | 59.60 | Kia Carnival Petrol |
+| East Coast Car Rentals Southport Toll | 9.96 | 9.15 | Hyundai Staria Rental |
+| East Coast Car Rentals Southport | 180.00 | 165.29 | Hyundai Staria Rental |
+| Holiday Vehicle Pass Permit | 95.50 | 87.70 | Park Pass |
+| Park Passes Mount Wellington | 93.98 | 86.30 | Park Pass |
+| Sushi Sushi Melbourne Airport | 26.32 | 24.17 | Day 1 Lunch |
+| Salamanca Parking | 15.00 | 13.77 | Day 2 Salamanca Market |
+| Salamanca Paella | 23.33 | 21.42 | Day 2 Salamanca Market |
+| Salamanca Coffee | 12.19 | 11.19 | Day 2 Salamanca Market |
+| Salamanca Strawberry | 13.00 | 11.94 | Day 2 Salamanca Market |
+| Salamanca Vegetables | 17.00 | 15.61 | Day 2 Salamanca Market |
+| Salamanca Scallop Pie | 25.00 | 22.96 | Day 2 Salamanca Market |
+| Seafood Grill Salamanca | 17.32 | 15.90 | Day 2 Salamanca Market |
+| Salamanca Crepe | 14.15 | 12.99 | Day 2 Salamanca Market |
+| Bonorong Wildlife Sanctuary | 173.00 | 158.86 | Day 2 Tickets |
+| Hobart Coles | 65.29 | 59.95 | Day 2 Groceries |
+| Drunken Admiral Dinner | 236.91 | 217.55 | Day 2 Dinner |
+| Drunken Admiral Dinner Booking | 40.00 | 36.73 | Day 2 Dinner |
+| Farm Gate Parking | 5.60 | 5.14 | Day 3 Farm Gate |
+| Farm Gate burger and coffee | 39.51 | 36.28 | Day 3 Farm Gate |
+| Devils Corner Cellar Door Oysters | 33.33 | 30.61 | Day 3 Lunch |
+| Kate Berry farm pancakes | 117.20 | 107.62 | Day 3 Tea Break |
+| IGA supermarket | 116.89 | 107.34 | Day 3 Groceries |
+| Freycinet Marine Farm | 237.86 | 218.42 | Day 4 Lunch |
+| Rosny Coles | 94.60 | 86.87 | Day 4 Groceries |
+| Bicheno Supermarket | 46.93 | 43.09 | Day 5 Groceries |
+| Pondering Frog cafe breakfast | 82.00 | 75.30 | Day 5 Breakfast |
+| Lobster Shack Bicheno | 129.27 | 118.71 | Day 5 Lunch |
+| Lobster Shack Drinks | 12.62 | 11.59 | Day 5 Lunch |
+| Eastcoast Nature World | 152.00 | 139.58 | Day 5 Tickets |
+| Bicheno Penguin Tours and Bicheno Surf Shop | 251.00 | 230.49 | Day 5 Tickets |
+| Ocean View Malaysian Dinner Bicheno | 120.00 | 110.19 | Day 5 Dinner |
+| Iron House Brewery | 123.45 | 113.36 | Day 6 Lunch |
+| BWS Wine Rosny | 32.00 | 29.38 | Day 6 Lunch |
+| Skippers Fish Shop Binalong Bay | 49.00 | 45.00 | Day 6 Lunch |
+| IGA Bay of fire | 82.78 | 76.01 | Day 6 Groceries |
+| Coles Bay Convenience Store | 47.30 | 43.43 | Day 6 Groceries |
+| Pyengana Dairy Restaurant | 111.71 | 102.58 | Day 7 Lunch |
+| Cataract Gorge chairlift | 60.00 | 55.10 | Day 7 Cataract Gorge |
+| Parking Cataract Gorge | 3.00 | 2.75 | Day 7 Cataract Gorge |
+| Launceton Coles | 43.57 | 40.01 | Day 7 Groceries |
+| Hogs breath cafe | 192.50 | 176.77 | Day 7 Dinner |
+| Platypus house | 128.90 | 118.37 | Day 8 Tickets |
+| Seahorse World | 129.50 | 118.92 | Day 8 Tickets |
+| Seahorse world coffee | 16.50 | 15.15 | Day 8 Seahorse World |
+| Beauty Point Waterfront Hotel Lunch | 147.18 | 135.15 | Day 8 Lunch |
+| Callington Mill Whiskey | 104.00 | 95.50 | Day 8 Tea Break |
+| Woolworth Hobart | 96.43 | 88.55 | Day 9 Groceries |
+| Machine Laundry Cafe Lunch | 142.47 | 130.83 | Day 10 Lunch |
+| Machine Laundry Cafe Lunch Parking Fee | 5.60 | 5.14 | Day 10 Lunch |
+| Hobart Coles | 78.91 | 72.46 | Day 10 Groceries |
+| Mona Tickets | 156.00 | 143.25 | Day 10 Mona |
+| Parking Fee Lunch | 5.60 | 5.14 | Day 10 Lunch |
+| Woolworth Hobart | 31.05 | 28.51 | Day 10 Groceries |
+
 
 
 ## Things we skipped this trip
