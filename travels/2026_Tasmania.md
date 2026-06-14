@@ -747,6 +747,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <img src="https://images.unsplash.com/photo-1649562212395-9e76be8a18ec?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mount Wellington" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_9_mount_wellington.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **Afternoon: Mount Wellington Summit and Optional Bushwalk - (Est. 11am to 2pm)**
 - **[wellingtonpark.org.au/](https://wellingtonpark.org.au/)**
 - To Fern Tree, The Springs and the Pinnacle - access is via Huon Rd towards Fern Tree. Turn on to Pillinger Drive at Fern Tree, which becomes Pinnacle Rd. **There is no public parking in the Fern Tree Tavern carpark** - to access walks and facilities in the Fern Tree area, please **park in Stephenson Place or the Fern Glade parking area** only.
@@ -759,6 +761,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d23380.51872847898!2d147.26702032380413!3d-42.903127117440626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa6e75888310b673%3A0x68d4d32329b53e7d!2sSalamanca%20Market%2C%20Salamanca%20Pl%2C%20Hobart%20TAS%207001%2C%20Australia!3m2!1d-42.886922299999995!2d147.3321107!4m5!1s0xaa6e768eb189983d%3A0xf3ec3aa1f216c976!2sPinnacle%20Rd%2C%20Wellington%20Park%20TAS%207054%2C%20Australia!3m2!1d-42.9012854!2d147.2436667!5e0!3m2!1sen!2ssg!4v1774063980551!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_9_twister_sister.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_9_mona.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 <img src="https://images.unsplash.com/photo-1666745320702-291769e59f70?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="MONA" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
@@ -793,11 +798,14 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <img src="https://images.unsplash.com/photo-1653574542701-52fb31b1ba15?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Royal Tasmanian Botanical Gardens" style="float: left; margin-right: 40px; margin-bottom: 10px;">
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_10_royal_tasmanian_botanical_gardens.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **[Royal Tasmanian Botanical Gardens](https://gardens.tas.gov.au/) - (Est. 12:00 pm to 3:00 pm)**
 - **Hours:** 8:00 am to 5:00 pm daily (Winter hours).
 - **Logistics:** Located on the Queens Domain, just a very short 5-minute drive north of the Hobart CBD. There is plenty of parking available at both the top and bottom entrances. 
 - **The Experience:** This is a fantastic, highly relaxed option for a final afternoon. You can easily spend a couple of hours strolling through the historic 14-hectare gardens, which feature a beautiful Japanese garden, a conservatory, and the unique Subantarctic Plant House (where the plants are kept in a chilly, climate-controlled environment that kids find fascinating). There are also plenty of wide, open grassy areas for the younger ones to safely run off some energy before heading to the airport.
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_10_machine_laundry_cafe.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Afternoon - Return the Rental Vehicle and Fly to Melbourne**
 - **Car Return:** There are fuel stations right near Hobart Airport (in Cambridge) to top up the tanks before dropping off the keys. 
@@ -815,7 +823,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - Catch up with Moyo for Dinner!
 - **Lodging: [Best Western Melbourne Airport](https://www.booking.com/Share-2n8HQ86)** 
 
-
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_10_kumo_izakaya.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 
 ## Day 11 - 1 June (Monday) - Melbourne to Singapore
