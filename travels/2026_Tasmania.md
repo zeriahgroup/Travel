@@ -765,7 +765,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 <img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_9_mona.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
-<img src="https://images.unsplash.com/photo-1666745320702-291769e59f70?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="MONA" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+<img src="https://images.unsplash.com/photo-1666745320702-291769e59f70?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="MONA" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Late Afternoon: Visiting [MONA - Museum of Old and New Art](https://mona.net.au/) - (Est. 2:30 pm to 5:00 pm)**
 - **Hours:** 10:00 am to 5:00 pm (Open Thursday to Monday; Closed Tuesdays and Wednesdays).
