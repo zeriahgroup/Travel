@@ -4,8 +4,8 @@ title: Tasmania Trip (May 2026)
 permalink: /travels/2026/tasmania/
 date: 2026-05-25
 
-cover: https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_trip.webp
-page_cover: https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_cover.webp
+cover: https://images.travels.zeriahgroup.com/2026_tasmania_trip.webp
+page_cover: https://images.travels.zeriahgroup.com/2026_tasmania_trip.webp
 
 excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 ---
