@@ -400,6 +400,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **The Experience:** A quiet, guided walk onto a private rookery to watch wild fairy penguins waddle up the beach from the ocean. 
 - **Crucial Tip:** It will be freezing cold standing still near the ocean in the dark. Ensure both families wear thermal base layers, heavy windproof coats, beanies, gloves, and thick enclosed shoes.
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_6_oceanview_bistro.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **[Sealife Restaurant & Cafe](https://www.sealiferestaurantbicheno.com.au/)** provides a more traditional sit-down dinner option without losing the relaxed coastal vibe. The restaurant overlooks the water and rocks, providing a very picturesque setting for the two families to recount the day's adventures. **(Est. 8pm to 9pm)**
 
 - Features a diverse menu of local seafood, including shared platters that are perfect for a large group.
@@ -427,6 +429,9 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 ## Day 6 - 27 May (Wednesday) - Bicheno to Bay of Fires
 
 **Morning: The Scenic Drive North**
+
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_7_blue_edge_bakery.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 <img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_6_apsley_waterhole.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
@@ -509,12 +514,16 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Morning: The Scenic Drive West**
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_7_St_Coloumba_Falls.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **Stop 1: [St Columba Falls](https://parks.tas.gov.au/explore-our-parks/st-columba-falls-state-reserve/st-columba-falls) - (Est. 9am to 10.30am)**
 - A breathtaking natural attraction located a short drive off the Tasman Highway, serving as an excellent place to stretch your legs.
 - Features a very easy, 15-minute paved downhill walk through giant, ancient tree ferns that feel like a prehistoric jungle to young kids.
 - Showcases one of Tasmania's tallest and most spectacular waterfalls, which flows heavily year-round.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d95935.80465569052!2d148.03282474020287!3d-41.28723732233807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771fb4f2f67a5b%3A0x5fe176c14e8aa7ed!2s66%20Main%20Rd%2C%20Binalong%20Bay%20TAS%207216%2C%20Australia!3m2!1d-41.2521805!2d148.3064121!4m5!1s0xaa77308272c4bf97%3A0xdcdc58a4e9b1a860!2sSt%20Columba%20Falls%20Track%2C%20Pyengana%20TAS%207216%2C%20Australia!3m2!1d-41.321633!2d147.9240379!5e0!3m2!1sen!2ssg!4v1773568171534!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_7_pyengana_dairy_company.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 **Stop 2: [Pyengana Dairy Company](https://pyenganadairy.com.au/) -(Est. 10.30am to 12pm)**
 - Located right on the way back to the highway from the falls, making it the perfect mid-morning break for the families.
