@@ -643,6 +643,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **Lunch: Waterfront Dining**
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_8_beauty_point_waterfront_hotel.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **[Beauty Point Waterfront Hotel](https://www.beautypointhotel.com.au/restaurant-bar) (Can lunch from 12pm to 1pm.** Ross Bakery closes at 3pm, it's a 1h 40min drive, might skip) 
 - A fantastic option for a hearty pub lunch located just a few minutes down the road from the wildlife attractions.
 - Features classic, crowd-pleasing pub fare with sweeping views across the Tamar River and a dedicated kids' menu.
@@ -671,12 +673,16 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d79833.90838492343!2d147.45857667765299!3d-41.9606562499225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71001f33b05d89%3A0x7725b38f1a082d21!2sThe%20Red%20Bridge%2C%20139%20High%20St%2C%20Campbell%20Town%20TAS%207210%2C%20Australia!3m2!1d-41.932953!2d147.49275799999998!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!5e0!3m2!1sen!2ssg!4v1773571136712!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_8_callington_mill_distillery.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
+
 **Stop 3: [Callington Mill Distillery (Oatlands)](https://callingtonmilldistillery.com/) - (Est. 3pm to 4.30pm)**
 - A striking final rest stop about an hour outside of Hobart in a town featuring the largest collection of sandstone buildings in the country.
 - Showcases a massive, beautifully restored 1832 Lincolnshire windmill and provides very easy, flat walking paths around the grounds.
 - **Hours:** 10am to 5pm daily
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d189273.92385132727!2d147.26967280389835!3d-42.16301646903537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa71c69d83ed8801%3A0x6c0adc743728d9e3!2sRoss%20Bakery%2C%2015%20Church%20St%2C%20Ross%20TAS%207209%2C%20Australia!3m2!1d-42.0276357!2d147.493149!4m5!1s0xaa6e734c197636ef%3A0x8a9486776b4ce2a3!2sCallington%20Mill%20Distillery%2C%206%20Mill%20Ln%2C%20Oatlands%20TAS%207120%2C%20Australia!3m2!1d-42.2991532!2d147.3763391!5e0!3m2!1sen!2ssg!4v1773571359479!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_8_lake_dulverton_conservation_area.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 
 **Evening: Arrival in Hobart - (Est. 4.30pm to 6pm)**
