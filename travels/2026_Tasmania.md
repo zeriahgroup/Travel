@@ -796,7 +796,7 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 
 **If time permits:**
 
-<img src="https://images.unsplash.com/photo-1653574542701-52fb31b1ba15?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Royal Tasmanian Botanical Gardens" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+<img src="https://images.unsplash.com/photo-1653574542701-52fb31b1ba15?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Royal Tasmanian Botanical Gardens" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 <img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_10_royal_tasmanian_botanical_gardens.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
