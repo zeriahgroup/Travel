@@ -236,7 +236,7 @@ If you are looking ahead, [see day 8 dinner options](#day8-dinner).
 
 **Morning: The Iconic Viewpoint**
 
-<img src="https://images.unsplash.com/photo-1627110466624-436b91b5d20b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Wineglass Bay" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+<img src="https://images.unsplash.com/photo-1627110466624-436b91b5d20b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="ss Bay" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 <img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_4_wineglass_bay.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
@@ -499,6 +499,8 @@ Lobster Shack Tasmania is a must-visit for a highly casual, premium seafood expe
 - **Logistics:** It is an incredibly scenic, quick detour to jump out of the cars, stretch your legs, and snap some fantastic group photos against the dramatic coastline before the sun goes down.
 
 **Day ends in [Dolphin Lookout Cottage](https://www.booking.com/Share-LgJrXbB) - (Est. 4.30pm to 5.30pm)**
+
+<img src="https://images.travels.zeriahgroup.com/2026_tasmania/2026_tasmania_day_6_dolphin_lookout_cottage.webp" style="float: left; margin-right: 40px; margin-bottom: 10px; width: 900px;">
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48017.91191551336!2d148.24588096800878!3d-41.219166358130686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xaa771a40f1187d83%3A0x403c94dd0ddfe70!2sThe%20Gardens%2C%20Tasmania%207216%2C%20Australia!3m2!1d-41.1725193!2d148.2795936!4m5!1s0xaa771fb4f2f67a5b%3A0x5fe176c14e8aa7ed!2s66%20Main%20Rd%2C%20Binalong%20Bay%20TAS%207216%2C%20Australia!3m2!1d-41.2521805!2d148.3064121!5e0!3m2!1sen!2ssg!4v1773568051522!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
