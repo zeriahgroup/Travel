@@ -3,9 +3,11 @@ layout: default
 title: Nagoya Trip (2026)
 permalink: /travels/2026/nagoya/
 date: 2026-07-07
+
 cover: https://images.travels.zeriahgroup.com/2026_tasmania_trip.webp
 page_cover: https://images.travels.zeriahgroup.com/2026_tasmania_cover.webp
-excerpt: A family trip to Nagoya
+
+excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 ---
 
 ![{{ page.title }} cover]({{ page.page_cover }})
