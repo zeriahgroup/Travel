@@ -15,6 +15,7 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 ## Pre-Trip Preparations
 - [japan-guide.com](https://www.japan-guide.com/e/e2155.html)
 - [nagoya-info.jp](https://www.nagoya-info.jp/en/)
+- [Nagoya Tourist Map](https://www.nagoya-info.jp/en/#dmap)
 - [Shopping Guide](https://www.nagoyaisnotboring.com/nagoya-shopping-guide/)
 - [Food Guide](https://www.japan-guide.com/e/e3315.html)
 - [Maruya Honten - Daniel Food Diary](https://danielfooddiary.com/2025/06/09/maruyahoten/)
