@@ -18,6 +18,7 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 - [Shopping Guide](https://www.nagoyaisnotboring.com/nagoya-shopping-guide/)
 - [Food Guide](https://www.japan-guide.com/e/e3315.html)
 - [Maruya Honten - Daniel Food Diary](https://danielfooddiary.com/2025/06/09/maruyahoten/)
+- [Maruya Honten](https://www.maruya-honten.com/)
 
 ## Itinerary
 - **Day 0:** Singapore to Nagoya
