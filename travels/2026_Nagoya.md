@@ -15,6 +15,7 @@ excerpt: A family trip with my younger sister and her family to Tasmania in 2026
 ## Pre-Trip Preparations
 - [japan-guide.com](https://www.japan-guide.com/e/e2155.html)
 - [nagoya-info.jp](https://www.nagoya-info.jp/en/)
+- [Shoopping Guide](https://www.nagoyaisnotboring.com/nagoya-shopping-guide/)
 
 ## Itinerary
 - **Day 0:** Singapore to Nagoya
